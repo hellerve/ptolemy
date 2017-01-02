@@ -17,7 +17,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Situations, Actions, and Causal Laws](http://www.dtic.mil/dtic/tr/fulltext/u2/785031.pdf) by **John McCarthy** (1963)
 * [Do Be Do Be Do](https://arxiv.org/pdf/1611.09259v1.pdf) by **Sam Lindley et al.** (2016)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
-* [Parsing With Derivatives - A Functional pearl](http://matt.might.net/papers/might2011derivatives.pdf) by **Matthew Might et al.** (2011)
+* [Parsing With Derivatives - A Functional Pearl](http://matt.might.net/papers/might2011derivatives.pdf) by **Matthew Might et al.** (2011)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 
 #### Books

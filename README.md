@@ -39,3 +39,4 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Archeology of Violence* by **Pierre Clastres** (1980)
 * *Geometric Galois Actions* by **Leila Schneps and Pierre Lochak** (1997)
 * *The Order of Things* by **Michel Foucault** (1966)
+* *Do Androids Dream of Electric Sheep?* by **Philip K. Dick** (1968)

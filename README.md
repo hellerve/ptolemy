@@ -26,6 +26,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Lambda, the ultimate label or a simple optimizing compiler for Scheme* by **William Clinger and Thomas Hansen** (1994)
 * *Linear combinations of radioactive decay models for generational garbage collection* by **William Clinger and Fabio Rojas** (2006)
 * [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
+* [Correct and Efficient Work-Stealing for Weak Memory Models](http://www.di.ens.fr/~zappa/readings/ppopp13.pdf) by **Nhat Minh Le et al.** (2013)
+* [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugene Kohlbecker et al.** (1986)
+* [Automatic Error Elimination by Horizontal Code Transfer across Multiple Applications](http://people.csail.mit.edu/stelios/papers/codephage_pldi15.pdf) by **Stelios Sidiroglou-Douskos et al.** (2015)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

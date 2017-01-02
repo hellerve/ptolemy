@@ -29,6 +29,14 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Correct and Efficient Work-Stealing for Weak Memory Models](http://www.di.ens.fr/~zappa/readings/ppopp13.pdf) by **Nhat Minh Le et al.** (2013)
 * [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugene Kohlbecker et al.** (1986)
 * [Automatic Error Elimination by Horizontal Code Transfer across Multiple Applications](http://people.csail.mit.edu/stelios/papers/codephage_pldi15.pdf) by **Stelios Sidiroglou-Douskos et al.** (2015)
+* [An optimistic approach to lock-free FIFO queues](http://people.csail.mit.edu/edya/publications/OptimisticFIFOQueue-journal.pdf) by **Edya Ladan-Mozes and Nir Shavit** (2004)
+* [A Practical Minimal Perfect Hashing Method](http://homepages.dcc.ufmg.br/~nivio/papers/wea05.pdf) by **Fabiano Botelho et al.**
+* [Scalable Synchronous Queues](http://www.cs.rochester.edu/u/scott/papers/2009_Scherer_CACM_SSQ.pdf) by **William Scherer III et al.** (2009)
+* [Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages](http://bracha.org/mirrors.pdf) by **Gilad Bracha and David Ungar** (2004)
+* [Nonblocking Concurrent Data Structures with Condition Synchronization](https://web.archive.org/web/20110206165336/http://www.cs.rice.edu/~wns1/papers/2004-DISC-DDS.pdf) by **William Scherer III et al.** (2004)
+* [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf) by **Maged Michael and Michael Scott** (1996)
+* [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
+* [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

@@ -74,6 +74,7 @@ my write-ups.
 
 #### Papers
 * [Growing a Proof Assistant](https://williamjbowman.com/resources/cur.pdf) by **William Bowman** (2016)
+
 I am hesitant to write anything about this paper at all, as it is a draft
 and subject to change. I will, however, write down a few things that came
 to my mind when I first read the paper. Maybe I will reread it when it is

@@ -37,7 +37,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf) by **Maged Michael and Michael Scott** (1996)
 * [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
-* [Growing a Proof Assistant](https://williamjbowman.com/resources/cur.pdf) by **William Bowman** (2016)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -61,3 +60,34 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Geometric Galois Actions* by **Leila Schneps and Pierre Lochak** (1997)
 * *The Order of Things* by **Michel Foucault** (1966)
 * *Do Androids Dream of Electric Sheep?* by **Philip K. Dick** (1968)
+
+## Done
+
+First off, a caveat. I am most certainly not qualified to judge any of
+the writings I judge, so please see everything I am writing as notes to
+myself to remind me of key ideas in the paper or book at hand and what
+I thought of them. They are as biased and right and wrong about things
+as I personally am. So if you do not trust me as a person, do not trust
+my write-ups.
+
+### Computer Science
+
+#### Papers
+* [Growing a Proof Assistant](https://williamjbowman.com/resources/cur.pdf) by **William Bowman** (2016)
+I am hesitant to write anything about this paper at all, as it is a draft
+and subject to change. I will, however, write down a few things that came
+to my mind when I first read the paper. Maybe I will reread it when it is
+done.
+
+The paper presents a racket lang implementing a proof assistant. The key
+idea is to make proof assistants easier to extend and work with apart
+from writing proof. Maybe I am missing something obvious, but for me
+most of the features presented before chapter 5 are not actually features
+of the lang at hand but of Racket itself. After a long-winded motivation,
+we finally arrive at the notion of tactics in Cur - the language at hand -,
+which are interesting and definitely worth the read. My major problem with
+the language is that it sacrifices a convenient syntax to write proofs - the
+sweetexps are not really helping much - to make it easier to integrate into
+Racket. The proof system looks a little clumsy to me, but we gain extensibility
+for it. If that scratches an itch, it might be useful, but I really think
+the syntax does not help to make the proofs themselves readable.

@@ -17,7 +17,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Situations, Actions, and Causal Laws](http://www.dtic.mil/dtic/tr/fulltext/u2/785031.pdf) by **John McCarthy** (1963)
 * [Do Be Do Be Do](https://arxiv.org/pdf/1611.09259v1.pdf) by **Sam Lindley et al.** (2016)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
-* [Parsing With Derivatives - A Functional Pearl](http://matt.might.net/papers/might2011derivatives.pdf) by **Matthew Might et al.** (2011)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)
@@ -93,3 +92,10 @@ sweetexps are not really helping much - to make it easier to integrate into
 Racket. The proof system looks a little clumsy to me, but we gain extensibility
 for it. If that scratches an itch, it might be useful, but I really think
 the syntax does not help to make the proofs themselves readable.
+
+* [Parsing With Derivatives - A Functional Pearl](http://matt.might.net/papers/might2011derivatives.pdf) by **Matthew Might et al.** (2011)
+
+Beautiful little pearl on how to make Brzozowski derivatives usable
+for real-world parsing through performance tweaks (memoization, fixpoints,
+laziness). Uses Racket code (which helped me a lot with understanding
+some of the underlying equations).

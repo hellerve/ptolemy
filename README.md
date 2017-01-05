@@ -39,7 +39,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
-* [Simply Easy! An Implemenetation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andres Löh et al.** (2007)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -102,3 +101,21 @@ Beautiful little pearl on how to make Brzozowski derivatives usable
 for real-world parsing through performance tweaks (memoization, fixpoints,
 laziness). Uses Racket code (which helped me a lot with understanding
 some of the underlying equations).
+
+* [Simply Easy! An Implemenetation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andres Löh et al.** (2007)
+
+Interesting implementation of a dependently typed lambda calculus.
+The paper is worth reading for the description of current Haskell
+programs alone: "a ghastly hodgepodge of generalized algebraic data
+types, multi-parameter type classes with functional dependencies,
+impredicative higher-ranked types, and even data kinds." Some of
+the figures completely puzzled me (e.g. figure 10 on the type
+rules in the language that is being laid out), but I am used to
+that in type system papers. The rules are usually explained in
+the text anyway, so I just skim the figures.
+
+The main contribution of this paper for me is not that it shows
+dependent types are possible to implement (anyone who has heard
+of Agda, Coq, or Idris will know that by now), but that it can
+even be straightforward. The implementation given in the paper
+is mond-boggingly simple, and I think that is pretty amazing.

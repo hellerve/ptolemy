@@ -38,6 +38,8 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
+* [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
+* [Simply Easy! An Implemenetation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andres Löh et al.** (2007)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

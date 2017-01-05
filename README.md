@@ -51,7 +51,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 ### Recreational
 
 #### Papers
-* [A Study of Prisoners and Guards in a Simulated Prison](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf) by **Philip Zimbardo et al.** (1973)
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
 
 #### Books
@@ -119,3 +118,15 @@ dependent types are possible to implement (anyone who has heard
 of Agda, Coq, or Idris will know that by now), but that it can
 even be straightforward. The implementation given in the paper
 is mond-boggingly simple, and I think that is pretty amazing.
+
+## Recreational
+
+### Papers
+* [A Study of Prisoners and Guards in a Simulated Prison](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf) by **Philip Zimbardo et al.** (1973)
+
+One of the mose famous papers of psychology. I had to read one
+of Zimabrdo's books when studying psychology at University, but
+never got around to actually reading this infamous paper. It is
+both well-written and topically interesting, but extremely disturbing.
+I doubt any ethics committee would let an experiment like that
+happen these days.

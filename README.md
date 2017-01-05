@@ -38,6 +38,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
+* [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -45,7 +46,8 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *The Sciences of the Artificial* by **Herbert Simon** (1969)
 * [The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm) by **Simon Peyton Jones** (1987)
 * [How to Design Programs](http://htdp.org/2003-09-26/Book/curriculum.html) by **Matthias Felleisen et al.** (2001)
-* [Preliminary Proceedings of the Ninth Workshop on Language Descriptions Tools and Applications LDTA 2009](http://ldta.info/2009/ldta2009proceedings.pdf) by **Torbjörn Ekman and Jurgen Vinju** (200)
+* [Preliminary Proceedings of the Ninth Workshop on Language Descriptions Tools and Applications LDTA 2009](http://ldta.info/2009/ldta2009proceedings.pdf) by **Torbjörn Ekman and Jurgen Vinju** (2009)
+* [Distributed Algorithms](http://users.ics.aalto.fi/suomela/da/) by **Jukka Suomela** (2014)
 
 ### Recreational
 

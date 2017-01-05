@@ -14,7 +14,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 #### Papers
 * [Sketchpad - A Man-Machine Graphical Communication System](https://www.cs.purdue.edu/homes/hosking/197/canon/sutherland.pdf) by **Ivan Sutherland** (1964)
 * [A Programming Language for Mechanical Translation](http://www.mt-archive.info/MT-1958-Yngve.pdf) by **Victor Yngve** (1958)
-* [Situations, Actions, and Causal Laws](http://www.dtic.mil/dtic/tr/fulltext/u2/785031.pdf) by **John McCarthy** (1963)
 * [Do Be Do Be Do](https://arxiv.org/pdf/1611.09259v1.pdf) by **Sam Lindley et al.** (2016)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
@@ -117,7 +116,21 @@ The main contribution of this paper for me is not that it shows
 dependent types are possible to implement (anyone who has heard
 of Agda, Coq, or Idris will know that by now), but that it can
 even be straightforward. The implementation given in the paper
-is mond-boggingly simple, and I think that is pretty amazing.
+is mind-boggingly simple, and I think that is pretty amazing.
+
+* [Situations, Actions, and Causal Laws](http://www.dtic.mil/dtic/tr/fulltext/u2/785031.pdf) by **John McCarthy** (1963)
+
+Another one of these classic papers that I had missed. I don't
+think I completely understand the paper, although, as per usual
+McCarthy does not fail to instill a lot of thoughts in my slow
+mind. His idea of the Advice Taker is an interesting forgotten
+concept (probably due to the AI winter, though I am not around
+long enough to really judge that).
+
+His relational approach to the computational view of reality
+reminds me a lot of Prolog, obviously, although I am unsure
+how much Prolog was really influenced by the Advice Taker (I
+should probably read more about that as well).
 
 ## Recreational
 

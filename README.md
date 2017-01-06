@@ -140,7 +140,7 @@ presented in this talk, I think the idea of a malicious compiler
 is cute. It has not occurred to me yet but is obvious when
 you think about it - a trademark of interesting ideas.
 
-* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (? > 2003)
+* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (2006)
 
 The essential paper on FRP. Apart from giving an excellent
 introduction into what FRP is and should be, the authors

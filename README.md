@@ -39,7 +39,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
 * [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
-* [Reflections on Trusting Trust](http://www3.cs.stonybrook.edu/%7Ecse509/p761-thompson.pdf) by **Ken Thompson** (1984)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -134,6 +133,13 @@ His relational approach to the computational view of reality
 reminds me a lot of Prolog, obviously, although I am unsure
 how much Prolog was really influenced by the Advice Taker (I
 should probably read more about that as well).
+
+* [Reflections on Trusting Trust](http://www3.cs.stonybrook.edu/%7Ecse509/p761-thompson.pdf) by **Ken Thompson** (1984)
+
+While I do not fully agree with the moral view of the world
+presented in this talk, I think the idea of a malicious compiler
+is cute. It has not occurred to me yet but is obvious when
+you think about it - a trademark of interesting ideas.
 
 ## Recreational
 

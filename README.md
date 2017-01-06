@@ -20,7 +20,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)
 * [Rapid Case Dispatch in Scheme](http://scheme2006.cs.uchicago.edu/07-clinger.pdf) by **William Clinger** (2006)
-* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (? > 2003)
 * *Lambda, the ultimate label or a simple optimizing compiler for Scheme* by **William Clinger and Thomas Hansen** (1994)
 * *Linear combinations of radioactive decay models for generational garbage collection* by **William Clinger and Fabio Rojas** (2006)
 * [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
@@ -140,6 +139,18 @@ While I do not fully agree with the moral view of the world
 presented in this talk, I think the idea of a malicious compiler
 is cute. It has not occurred to me yet but is obvious when
 you think about it - a trademark of interesting ideas.
+
+* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (? > 2003)
+
+The essential paper on FRP. Apart from giving an excellent
+introduction into what FRP is and should be, the authors
+also spend a great deal of time on explaining how different
+programming paradigms deal with state and complexity and
+their individual shortcomings (that were supposedly overcome
+through FRP).
+
+Great paper, very long, but - at least in my opinion - out
+of necessity, not borne from babbling.
 
 ## Recreational
 

@@ -52,6 +52,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 
 #### Papers
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
+* [Holy Stigmata, Anorexia, and Self-Mutilation: Parallels in Pain and Imagining](http://www.academia.edu/541052/Holy_Stigmata_Anorexia_and_Self-Mutilation_Parallels_in_Pain_and_Imagining) by **Robert Mullen** (2010)
 
 #### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)

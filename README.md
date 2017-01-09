@@ -19,7 +19,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)
-* [Rapid Case Dispatch in Scheme](http://scheme2006.cs.uchicago.edu/07-clinger.pdf) by **William Clinger** (2006)
 * *Lambda, the ultimate label or a simple optimizing compiler for Scheme* by **William Clinger and Thomas Hansen** (1994)
 * *Linear combinations of radioactive decay models for generational garbage collection* by **William Clinger and Fabio Rojas** (2006)
 * [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
@@ -151,6 +150,15 @@ through FRP).
 
 Great paper, very long, but - at least in my opinion - out
 of necessity, not borne from babbling.
+
+* [Rapid Case Dispatch in Scheme](http://scheme2006.cs.uchicago.edu/07-clinger.pdf) by **William Clinger** (2006)
+
+An inside view into how Larceny does optimizations of `case`.
+Interesting if a bit complex and hard to read if one is unfamiliar
+with reading intermediate form Larceny programs. The examples
+are rather simple, though. I think the mixing of strategies
+to achieve maximum performance sounds like a hard optimization
+to get right but worth its while.
 
 ## Recreational
 

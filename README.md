@@ -37,6 +37,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
 * [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
+* [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

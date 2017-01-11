@@ -34,9 +34,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
-* [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
 * [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
+* [Scheduling Parallel Programs by Work Stealing with Private Deques](http://www.chargueraud.org/research/2013/ppopp/full.pdf) by **Umur Acar** (2013)
 * [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 
 #### Books
@@ -52,6 +52,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 
 #### Papers
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
+* [Holy Stigmata, Anorexia, and Self-Mutilation: Parallels in Pain and Imagining](http://www.academia.edu/541052/Holy_Stigmata_Anorexia_and_Self-Mutilation_Parallels_in_Pain_and_Imagining) by **Robert Mullen** (2010)
 
 #### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)
@@ -140,7 +141,7 @@ presented in this talk, I think the idea of a malicious compiler
 is cute. It has not occurred to me yet but is obvious when
 you think about it - a trademark of interesting ideas.
 
-* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (? > 2003)
+* [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) by **Ben Moseley and Peter Marks** (2006)
 
 The essential paper on FRP. Apart from giving an excellent
 introduction into what FRP is and should be, the authors
@@ -151,6 +152,16 @@ through FRP).
 
 Great paper, very long, but - at least in my opinion - out
 of necessity, not borne from babbling.
+
+* [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf) by **Stephen Chang et al.** (2017)
+
+A bit hard to read and involved, but very deep insights.
+I might try to recreate in zepto.
+
+The syntax of all of the languages and systems presented
+were ugly. That's not that big of a problem, though, if
+one puts a bit more abstraction around them they could
+actually be pleasant to work with.
 
 * [Rapid Case Dispatch in Scheme](http://scheme2006.cs.uchicago.edu/07-clinger.pdf) by **William Clinger** (2006)
 

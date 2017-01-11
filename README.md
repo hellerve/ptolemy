@@ -39,6 +39,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Scheduling Parallel Programs by Work Stealing with Private Deques](http://www.chargueraud.org/research/2013/ppopp/full.pdf) by **Umur Acar** (2013)
 * [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 * [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
+* [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

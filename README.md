@@ -64,6 +64,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Geometric Galois Actions* by **Leila Schneps and Pierre Lochak** (1997)
 * *The Order of Things* by **Michel Foucault** (1966)
 * *Do Androids Dream of Electric Sheep?* by **Philip K. Dick** (1968)
+* [Dialogues Concerning Natural Religion](http://www.davidhume.org/texts/dnr.html) by **David Hume** (1779)
 
 ## Done
 

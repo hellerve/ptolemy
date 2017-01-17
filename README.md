@@ -49,6 +49,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [How to Design Programs](http://htdp.org/2003-09-26/Book/curriculum.html) by **Matthias Felleisen et al.** (2001)
 * [Preliminary Proceedings of the Ninth Workshop on Language Descriptions Tools and Applications LDTA 2009](http://ldta.info/2009/ldta2009proceedings.pdf) by **Torbjörn Ekman and Jurgen Vinju** (2009)
 * [Distributed Algorithms](http://users.ics.aalto.fi/suomela/da/) by **Jukka Suomela** (2014)
+* [Sequent Calculus as a Compiler Intermediate Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf) by **Simon Peyton Jones et al.** (2016)
 
 ### Recreational
 

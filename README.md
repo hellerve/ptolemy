@@ -14,7 +14,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 #### Papers
 * [Sketchpad - A Man-Machine Graphical Communication System](https://www.cs.purdue.edu/homes/hosking/197/canon/sutherland.pdf) by **Ivan Sutherland** (1964)
 * [A Programming Language for Mechanical Translation](http://www.mt-archive.info/MT-1958-Yngve.pdf) by **Victor Yngve** (1958)
-* [Do Be Do Be Do](https://arxiv.org/pdf/1611.09259v1.pdf) by **Sam Lindley et al.** (2016)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
@@ -40,6 +39,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 * [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
 * [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
+* [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -175,6 +175,15 @@ with reading intermediate form Larceny programs. The examples
 are rather simple, though. I think the mixing of strategies
 to achieve maximum performance sounds like a hard optimization
 to get right but worth its while.
+
+* [Do Be Do Be Do](https://arxiv.org/pdf/1611.09259v1.pdf) by **Sam Lindley et al.** (2016)
+
+Frank is certainly an interesting language. I am not quite
+sure I understand all of its semantics and implications, though.
+Especially the explanation of Core Frank left me not quite satisfied,
+but that might just be me and my personal problems with the notation
+again. Might have to give that one another read if I want to go deeper
+into effects languages.
 
 ## Recreational
 

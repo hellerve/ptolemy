@@ -190,9 +190,22 @@ into effects languages.
 ### Papers
 * [A Study of Prisoners and Guards in a Simulated Prison](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf) by **Philip Zimbardo et al.** (1973)
 
-One of the mose famous papers of psychology. I had to read one
+One of the most famous papers of psychology. I had to read one
 of Zimabrdo's books when studying psychology at University, but
 never got around to actually reading this infamous paper. It is
 both well-written and topically interesting, but extremely disturbing.
 I doubt any ethics committee would let an experiment like that
 happen these days.
+
+* [On Being Sane In Insane Places](https://isites.harvard.edu/fs/docs/icb.topic625827.files/On_Being_Sane_In_Insane_Places-1.pdf) by **David Rosenhan** (1973)
+
+Another very interesting pyschological paper that I discovered
+much too late. It is a paper in the same vein as the Zimbardo
+paper above. Very clearly written, at times seeming unscientific,
+but asking important questions and providing an excellent basis
+for thinking about how psychiatry should work and how it does.
+Of course, the situation described in this paper is not the
+situation we are in right now (we have gone a long way since
+the 70s after all), but we should be wary of the fact that back
+then, too, we thought we did things the right way when in fact
+we didn't.

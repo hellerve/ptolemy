@@ -40,6 +40,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
 * [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
+* [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

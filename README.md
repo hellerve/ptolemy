@@ -12,7 +12,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 ### Computer Science
 
 #### Papers
-* [Sketchpad - A Man-Machine Graphical Communication System](https://www.cs.purdue.edu/homes/hosking/197/canon/sutherland.pdf) by **Ivan Sutherland** (1964)
 * [A Programming Language for Mechanical Translation](http://www.mt-archive.info/MT-1958-Yngve.pdf) by **Victor Yngve** (1958)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
@@ -185,6 +184,15 @@ Especially the explanation of Core Frank left me not quite satisfied,
 but that might just be me and my personal problems with the notation
 again. Might have to give that one another read if I want to go deeper
 into effects languages.
+
+* [Sketchpad - A Man-Machine Graphical Communication System](https://www.cs.purdue.edu/homes/hosking/197/canon/sutherland.pdf) by **Ivan Sutherland** (1964)
+
+This is one of the most humbling papers I have ever read. The complexity
+of the system described—Sketchpad—is mind-boggling, considering the tooling
+of the time. I marvel at it in the same way we marvel at things of complexity
+that have been built by generations that had to do without the conveniences
+and abstractions that we now have. I did not take away a lot in the hard
+technical sense, and yet it influenced my thinking greatly already.
 
 ## Recreational
 

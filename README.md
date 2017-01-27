@@ -40,6 +40,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
+* [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

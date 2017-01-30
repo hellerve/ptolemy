@@ -21,7 +21,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Linear combinations of radioactive decay models for generational garbage collection* by **William Clinger and Fabio Rojas** (2006)
 * [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
 * [Correct and Efficient Work-Stealing for Weak Memory Models](http://www.di.ens.fr/~zappa/readings/ppopp13.pdf) by **Nhat Minh Le et al.** (2013)
-* [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugene Kohlbecker et al.** (1986)
 * [Automatic Error Elimination by Horizontal Code Transfer across Multiple Applications](http://people.csail.mit.edu/stelios/papers/codephage_pldi15.pdf) by **Stelios Sidiroglou-Douskos et al.** (2015)
 * [An optimistic approach to lock-free FIFO queues](http://people.csail.mit.edu/edya/publications/OptimisticFIFOQueue-journal.pdf) by **Edya Ladan-Mozes and Nir Shavit** (2004)
 * [A Practical Minimal Perfect Hashing Method](http://homepages.dcc.ufmg.br/~nivio/papers/wea05.pdf) by **Fabiano Botelho et al.**
@@ -194,6 +193,15 @@ of the time. I marvel at it in the same way we marvel at things of complexity
 that have been built by generations that had to do without the conveniences
 and abstractions that we now have. I did not take away a lot in the hard
 technical sense, and yet it influenced my thinking greatly already.
+
+* [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugene Kohlbecker et al.** (1986)
+
+The fundamental paper on hygienic macro expansion. Reads fairly nicely.
+I was familiar with the concept before reading the paper, but it really
+feels like my basic grasp on the concept is much stronger now. Very
+helpful for the system (System Z) I am currently working on, as I will
+have to implement it in a language that is not Scheme or even a Lisp there
+and that is a fairly badly documented process I find.
 
 ## Recreational
 

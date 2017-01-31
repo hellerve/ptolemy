@@ -211,6 +211,19 @@ me want to implement one of my own. Then again, why would I if I cannot
 even begin to capture the beauty of this paper? Very readable and very
 pretty indeed.
 
+* [Flattening Combinators: Surviving Without Parentheses](http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/jfp03flat.pdf) by **Chris Okasaki** (2003)
+
+A theoretical pearl by Chris Okasaki (of "Functional Datastructures" fame).
+It shows how to rewrite arbitrary combinators to stack expressions, similar
+to what you would to in reverse polish notation. It's a simple yet very beautiful
+showcase of how to rewrite postifx notation to combinators and vice versa
+and invents an interesting approach to Gödel numbering on the way, in less
+than eight pages. The latter of the two implications is a bit harder to digest,
+and less applicable to what I am doing, but relatively obvious, which astounded
+me considering I am not a very battle-hardened theoretical computer scientist.
+Maybe my reading just starts to bear fruits or maybe it is Okasaki's pristine
+writing.
+
 ## Recreational
 
 ### Papers

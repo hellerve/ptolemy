@@ -36,7 +36,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Scheduling Parallel Programs by Work Stealing with Private Deques](http://www.chargueraud.org/research/2013/ppopp/full.pdf) by **Umur Acar** (2013)
 * [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 * [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
-* [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 * [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
@@ -202,6 +201,15 @@ feels like my basic grasp on the concept is much stronger now. Very
 helpful for the system (System Z) I am currently working on, as I will
 have to implement it in a language that is not Scheme or even a Lisp there
 and that is a fairly badly documented process I find.
+
+* [A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf) by **Philip Wadler** (1997)
+
+Philip Wadler is my spirit animal. In this paper he essentially conjures
+up a wonderfully simple and composable algebra of printing and uses it
+to implement a simple, efficient, and readable pretty printer. It makes
+me want to implement one of my own. Then again, why would I if I cannot
+even begin to capture the beauty of this paper? Very readable and very
+pretty indeed.
 
 ## Recreational
 

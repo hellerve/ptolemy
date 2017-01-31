@@ -39,6 +39,10 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 * [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
+* [Optimal Decentralized Primary Frequency Control in Power Networks](http://smart.caltech.edu/papers/optimaldecent.pdf) by **Changhong Zhao and Steven Low** (2014)
+* [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
+* [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
+* [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

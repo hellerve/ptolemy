@@ -235,6 +235,16 @@ me considering I am not a very battle-hardened theoretical computer scientist.
 Maybe my reading just starts to bear fruits or maybe it is Okasaki's pristine
 writing.
 
+* [Why New Programming Languages for Simulation?](http://people.csail.mit.edu/fred/why.pdf) by **Gilbert Louis Bernstein and Fredrik Kjolstad** (2016)
+
+Coming from the language designers of Ebb and Simit, respectively, this nice
+little summary on why to create new languages is very centered around simulation,
+but can be easily generalized. It tries to tackle the age-old question of "Why
+should we create even more programming languages?" with a simple answer: better
+abstraction, better tools need time to be developed. And we can do better than
+we currently are. Which is a nice sentiment that I deeply share, as a hobby/semi-serious
+language designer.
+
 ## Recreational
 
 ### Papers

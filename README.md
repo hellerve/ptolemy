@@ -45,7 +45,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
 * [Scheme: An Interpreter for Extended Lambda Calculus](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
 * [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
-* [Lambda: The Ultimate Declarative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-379.pdf) by **Guy Steele** (1976)
 * [Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
@@ -244,6 +243,16 @@ should we create even more programming languages?" with a simple answer: better
 abstraction, better tools need time to be developed. And we can do better than
 we currently are. Which is a nice sentiment that I deeply share, as a hobby/semi-serious
 language designer.
+
+* [Lambda: The Ultimate Declarative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-379.pdf) by **Guy Steele** (1976)
+
+This paper is filled to the brim with interesting ideas. The symmetry of lambdas
+and actors was especially surprising. Rewriting function calls to jumps is not
+that new an optimization, apparently, which is also interesting to know; the bit
+about implementing tail-recursion as `GOTO` going back to the PDP-1 puts shame to
+every language that still does not implement proper tail recursion. And I should
+try to play around with the CPS-converter given in Appendix A, that one was really
+interesting.
 
 ## Recreational
 

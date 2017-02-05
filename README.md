@@ -267,6 +267,17 @@ Now, I personally still find that sometimes `GOTO` might be acceptable
 the issue that Steele and adressed in this paper is pretty much accounted
 for by now. Maybe I am mistaken, and am in the wrong business, though.
 
+* [Adding an LLVM Backend to Bigloo Scheme](https://gupea.ub.gu.se/bitstream/2077/34201/1/gupea_2077_34201_1.pdf) by **Mikael Brockman** (2013)
+
+An interesting masters thesis on compiling Scheme—more specifically,
+Bigloo Scheme—into LLVM. It is surprisingly short and spends very little
+time actually talking about the specifics of the implementation, but
+the authors approach seems interesting. I played around with a LLVM
+backend for zepto that works on the textual IR level, but I did not find
+a good way to make it modular and abandoned it after implementing a useless
+subset of Scheme; this is to say this undertaking resonated with me.
+I should take a look at the final product at some point.
+
 ## Recreational
 
 ### Papers

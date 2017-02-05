@@ -45,7 +45,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
 * [Scheme: An Interpreter for Extended Lambda Calculus](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
 * [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
-* [Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
 
@@ -59,6 +58,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Distributed Algorithms](http://users.ics.aalto.fi/suomela/da/) by **Jukka Suomela** (2014)
 * [Sequent Calculus as a Compiler Intermediate Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf) by **Simon Peyton Jones et al.** (2016)
 * [RABBIT: A Compiler for SCHEME](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AITR-474.pdf) by **Guy Steele** (1978)
+* *The Psychology of Computer Programming* by **Gerald Weinber** (1971)
 
 ### Recreational
 
@@ -253,6 +253,19 @@ about implementing tail-recursion as `GOTO` going back to the PDP-1 puts shame t
 every language that still does not implement proper tail recursion. And I should
 try to play around with the CPS-converter given in Appendix A, that one was really
 interesting.
+
+* [Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
+
+An interesting insight into programming in the 70s. Coming from today it is
+pretty much impossible that one learns that using `GOTO` is good for your
+programs, neither as an optimization (most modern compilers are better than
+average Joe Programmer at understanding how to optimize the program anyway)
+nor as a stylistic choice (most blindly obey Djikstra's quip about `GOTO`
+being harmful without having read the actual article, in my experience).
+Now, I personally still find that sometimes `GOTO` might be acceptable
+(in error handling/cleanup cases, very sparingly, for instance), but
+the issue that Steele and adressed in this paper is pretty much accounted
+for by now. Maybe I am mistaken, and am in the wrong business, though.
 
 ## Recreational
 

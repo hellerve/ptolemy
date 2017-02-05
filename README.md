@@ -278,6 +278,18 @@ a good way to make it modular and abandoned it after implementing a useless
 subset of Scheme; this is to say this undertaking resonated with me.
 I should take a look at the final product at some point.
 
+* [SECD: Design Issues](http://prism.ucalgary.ca/bitstream/1880/46590/2/1989-369-31.pdf) by ? (?)
+
+I cannot remember how I found this paper and a quick search for it
+doesn't reveal much information, either. Its title seems to be "SECD:
+Design Issues" and it seems to be a report on the work of a research
+group at the University of Calgary (led by Graham and Birtwistle,
+maybe?), probably in the late 80s or early 90s (89 at least, according
+to the citations). It describes an effort to create a chip for the
+SECD ~virtual~ machine. It is really interesting and I learned tons
+reading it, especially because I have little idea of hardware design
+and manufacturing.
+
 ## Recreational
 
 ### Papers

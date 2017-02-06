@@ -34,7 +34,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
 * [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
 * [Scheduling Parallel Programs by Work Stealing with Private Deques](http://www.chargueraud.org/research/2013/ppopp/full.pdf) by **Umur Acar** (2013)
-* [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 * [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
@@ -289,6 +288,16 @@ to the citations). It describes an effort to create a chip for the
 SECD ~virtual~ machine. It is really interesting and I learned tons
 reading it, especially because I have little idea of hardware design
 and manufacturing.
+
+* [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
+
+An interesting little paper on how to implement continuations in a
+language that doesn't have them. It's a bit clumsy if you compare
+it to first-class continuations, but this is more or less a given,
+at least in my opinion. It also helps my understanding of how to
+implement continuations, even if I have already implemented them
+myself. If I ever need to do so again, I might look at it beforehand,
+as the techniques described in the paper are interesting.
 
 ## Recreational
 

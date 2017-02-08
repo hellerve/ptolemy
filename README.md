@@ -42,7 +42,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
 * [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
-* [Scheme: An Interpreter for Extended Lambda Calculus](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
 * [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
@@ -298,6 +297,20 @@ at least in my opinion. It also helps my understanding of how to
 implement continuations, even if I have already implemented them
 myself. If I ever need to do so again, I might look at it beforehand,
 as the techniques described in the paper are interesting.
+
+* [Scheme: An Interpreter for Extended Lambda Calculus](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
+
+This paper blew my mind. I had no idea that the initial implementation
+of Scheme had such a wonderful actor system. Sure it is a bit more
+crude than what we are used to these days, but it is still much more
+advanced than I would have expected. The same for the pattern-matching
+implementation, which is wonderfully elegant and simple. I could reimplement
+a simple pattern-matcher in zepto for a blog post maybe. In general the
+code presented in the blog post is incredibly advanced, at least much more
+than anything I would've thought is to be found in a paper from the mid-70's.
+
+On another note, them basically implementing `Promise.race` and then calling
+it useless is wonderfully ironic.
 
 ## Recreational
 

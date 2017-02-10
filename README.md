@@ -312,6 +312,23 @@ than anything I would've thought is to be found in a paper from the mid-70's.
 On another note, them basically implementing `Promise.race` and then calling
 it useless is wonderfully ironic.
 
+* [i, Poet: Automatic Chinese Poetry Composition through a Generative Summarization Framework under Constrained Optimization](http://homepages.inf.ed.ac.uk/mlap/Papers/IJCAI13-324-1.pdf) by **Rui Yan et al.** (2013)
+
+I have had a lingering interest in AI for a long time, but decided never to
+act on it, partly because it is not my domain of expertise and partly because
+everyone seems to want to jump on that bandwagon with bad ideas lately. I still
+read about it and think I have a pretty okay grasp on the concepts, I just never
+had a project that required me to write a truly learning system. With that in mind,
+this is still a very interesting paper, because it describes in great detail an
+approach to AI writing poetry in a sensible way. It's a bit annoying that they did
+not provide an example poem that was generated—I was really interested in seeing
+one of those—, but I liked the idea of having multiple neural nets, one for writing
+the draft and one for refining it. That felt similar to how I approach writing:
+brainstorm and build, then make sense of the mess you've just created. I have always
+been a poor editor, so maybe the second neural net would be of greater help for me,
+but I assume it will be some time until I can tap into the potential of AI that
+helps me convey what I want to write.
+
 ## Recreational
 
 ### Papers

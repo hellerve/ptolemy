@@ -329,6 +329,16 @@ been a poor editor, so maybe the second neural net would be of greater help for 
 but I assume it will be some time until I can tap into the potential of AI that
 helps me convey what I want to write.
 
+* [An Incremental Approach to Compiler Construction](https://github.com/namin/inc/blob/master/docs/paper.pdf) by **Abdulaziz Ghuloum** (2006)
+
+I am not sure I agree with the methodology—and the implementation—provided in
+this paper. It mgith be that the reader has implemented a compiler after they've
+worked through the paper, but the compiler is really bad, the architecture does
+not lend itself well to extension, and paedagogically the reader has not gained
+as much as they would have with a better engineered, "do things the right way"
+compiler. The compiler presented in there is a big messy hack and noone should
+have to base their compiler on that.
+
 * [The Security Impact of HTTPS Interception](https://jhalderm.com/pub/papers/interception-ndss17.pdf) by **Zakir Durumeric et al.** (2017)
 
 This paper broke my heart. It is incredible that at this day and age people still

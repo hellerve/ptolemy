@@ -329,13 +329,20 @@ been a poor editor, so maybe the second neural net would be of greater help for 
 but I assume it will be some time until I can tap into the potential of AI that
 helps me convey what I want to write.
 
+* [The Security Impact of HTTPS Interception](https://jhalderm.com/pub/papers/interception-ndss17.pdf) by **Zakir Durumeric et al.** (2017)
+
+This paper broke my heart. It is incredible that at this day and age people still
+think HTTPS interception can increase security instead of severely decreasing it.
+I don't think I have to say more on that matter. Almost 11% percent intercepted
+traffic is damn scary.
+
 ## Recreational
 
 ### Papers
 * [A Study of Prisoners and Guards in a Simulated Prison](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf) by **Philip Zimbardo et al.** (1973)
 
 One of the most famous papers of psychology. I had to read one
-of Zimabrdo's books when studying psychology at University, but
+of Zimbardo's books when studying psychology at University, but
 never got around to actually reading this infamous paper. It is
 both well-written and topically interesting, but extremely disturbing.
 I doubt any ethics committee would let an experiment like that

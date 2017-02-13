@@ -28,7 +28,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages](http://bracha.org/mirrors.pdf) by **Gilad Bracha and David Ungar** (2004)
 * [Nonblocking Concurrent Data Structures with Condition Synchronization](https://web.archive.org/web/20110206165336/http://www.cs.rice.edu/~wns1/papers/2004-DISC-DDS.pdf) by **William Scherer III et al.** (2004)
 * [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf) by **Maged Michael and Michael Scott** (1996)
-* [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
@@ -345,6 +344,15 @@ This paper broke my heart. It is incredible that at this day and age people stil
 think HTTPS interception can increase security instead of severely decreasing it.
 I don't think I have to say more on that matter. Almost 11% percent intercepted
 traffic is damn scary.
+
+* [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
+
+The main take-away from this paper is that I am probably too thick to implement
+a good garbage collector. Generational garbage collectors are relatively hard
+to build properly—I've tried and failed before. Larceny is a truly interesting
+Scheme implementation. I should try it out sometime, because I thoroughly enjoyed
+reading papers about it—its documentation on its compiler passes are pretty
+pristine.
 
 ## Recreational
 

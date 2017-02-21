@@ -353,6 +353,18 @@ Scheme implementation. I should try it out sometime, because I thoroughly enjoye
 reading papers about it—its documentation on its compiler passes are pretty
 pristine.
 
+* [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) by **Tren McConaghy** et al.
+
+More blockchain bullshit. Yay. This incredibly badly written paper presents a
+fundamentally flawed idea—basically a shitty framework to RethinkDB—a database
+that's failed as well, and for good reasons. I know I sound like an ass here,
+but I've lost patience with people who have no idea about how to build a database
+building databases, because I am the one who cleans up after the mess when a
+startup ends up choosing that tech and the DB ends up blowing up (mostly because
+of configuration flaws, of course, but if your default configurations are
+broken, your system likely is broken as well). Bottom line: I did not enjoy
+reading this paper.
+
 * [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
 
 I actually tried to implement GLL parser combinators for zepto before and failed

@@ -40,7 +40,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
 * [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
-* [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
 
@@ -372,6 +371,19 @@ at the trampolining, so this paper clarified a lot of things that I did not unde
 I wanted to try and implement a GLL again in the future and after reading this paper,
 I feel equipped to tackle the problem. As an aside: Scala code still looks weird to me.
 Kind of like I felt reading Haskell before I knew it.
+
+* [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
+
+I've read this paper before, and it is still wonderful. Scheme speaks to me in a
+very peculiar way. But, instead of waxing poetic, I will just quote the end of
+the paper, because there is a very deep insight for language designers to be
+found here: "No amount of language design can *force* a programmer to write clear
+programs. If the programmer's conception of the problem is badly organized, then
+[their] program will also be badly organized. The extent to which a programming
+language can help a programmer to organize [their] problem is precisely the extent
+to which it provides features appropriate to [their] problem domain. The emphasis
+should not be on eliminating "bad" language constructs, but on discovering or
+inventing helpful ones."
 
 ## Recreational
 

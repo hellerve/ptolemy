@@ -19,7 +19,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)
 * *Lambda, the ultimate label or a simple optimizing compiler for Scheme* by **William Clinger and Thomas Hansen** (1994)
 * *Linear combinations of radioactive decay models for generational garbage collection* by **William Clinger and Fabio Rojas** (2006)
-* [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
 * [Correct and Efficient Work-Stealing for Weak Memory Models](http://www.di.ens.fr/~zappa/readings/ppopp13.pdf) by **Nhat Minh Le et al.** (2013)
 * [Automatic Error Elimination by Horizontal Code Transfer across Multiple Applications](http://people.csail.mit.edu/stelios/papers/codephage_pldi15.pdf) by **Stelios Sidiroglou-Douskos et al.** (2015)
 * [An optimistic approach to lock-free FIFO queues](http://people.csail.mit.edu/edya/publications/OptimisticFIFOQueue-journal.pdf) by **Edya Ladan-Mozes and Nir Shavit** (2004)
@@ -353,6 +352,14 @@ to build properly—I've tried and failed before. Larceny is a truly interesting
 Scheme implementation. I should try it out sometime, because I thoroughly enjoyed
 reading papers about it—its documentation on its compiler passes are pretty
 pristine.
+
+* [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
+
+I actually tried to implement GLL parser combinators for zepto before and failed
+at the trampolining, so this paper clarified a lot of things that I did not understand.
+I wanted to try and implement a GLL again in the future and after reading this paper,
+I feel equipped to tackle the problem. As an aside: Scala code still looks weird to me.
+Kind of like I felt reading Haskell before I knew it.
 
 ## Recreational
 

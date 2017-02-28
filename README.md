@@ -385,6 +385,17 @@ to which it provides features appropriate to [their] problem domain. The emphasi
 should not be on eliminating "bad" language constructs, but on discovering or
 inventing helpful ones."
 
+* [The impact of syntax colouring on program comprehension](http://www.ppig.org/sites/default/files/2015-PPIG-26th-Sarkar.pdf) by **Advait Sarkar** (2015)
+
+With a sample size of ten I feel like it would be a bit dubious for me to derive
+general conclusion from this paper—especially considering three datasets had to be
+excluded from part of the conclusions, reducing the sample size to seven. Nonetheless,
+it is interesting research into how effective syntax highlighting really is, because
+most of the arguments for or against syntax highlighting seem to be strawman arguments
+or highly subjective (I won't link to blog posts that come to mind, because I'm not that
+much of an ass). In toto, this paper is a valuable addition to the conversation about the
+cost and gains of syntax highlighting.
+
 ## Recreational
 
 ### Papers

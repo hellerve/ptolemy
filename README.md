@@ -420,3 +420,10 @@ situation we are in right now (we have gone a long way since
 the 70s after all), but we should be wary of the fact that back
 then, too, we thought we did things the right way when in fact
 we didn't.
+
+* [High-Selectivity Electrochemical Conversion of CO2 to Ethanol using a Copper Nanoparticle/N-Doped Graphene Electrode](http://onlinelibrary.wiley.com/doi/10.1002/slct.201601169/full) by **Yang Song et al.** (2016)
+
+Saying I understood this paper would be an overstatement. It was an
+interesting read nonetheless and the research in it sounds promising.
+To a clean future!
+

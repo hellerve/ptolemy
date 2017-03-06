@@ -420,3 +420,12 @@ situation we are in right now (we have gone a long way since
 the 70s after all), but we should be wary of the fact that back
 then, too, we thought we did things the right way when in fact
 we didn't.
+
+* [Can Additional Homeopathic Treatment Save Costs? A Retrospective Cost-Analysis Based on 44500 Insured Persons](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134657) by **Julia Ostermann et al.** (2015)
+
+This study is a very important step towards a real cost evaluation
+of homeopathy. While I would be careful not to generalize, because
+the study had a lot of moving pats that are unaccounted for, the
+sample size is pretty huge and the conclusions are pretty decisive
+in that I can say that, no, homeopathic treatment is not generally
+cheaper than traditional western medicine.

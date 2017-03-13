@@ -396,6 +396,16 @@ or highly subjective (I won't link to blog posts that come to mind, because I'm 
 much of an ass). In toto, this paper is a valuable addition to the conversation about the
 cost and gains of syntax highlighting.
 
+* [Fast Deterministic Selection](https://arxiv.org/pdf/1606.00484.pdf) by **Andrei Alexandrescu**
+
+I always liked Alexandrescu's talks. Sadly, I've not yet managed to
+try out D, the programming language he is mostly working on except for
+his work on C++. This paper presents a fun new algorithm for selection
+in a field of research that has not seen great advances since Hoare's
+seminal paper (except for Median of Medians, which builds on it). I
+am looking forward to try it out in D and see how it performs. I might
+also want to implement it in another language if it performs well.
+
 ## Recreational
 
 ### Papers

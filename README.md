@@ -414,6 +414,17 @@ I respect Connor McBride a lot—I was not familiar with James McKinnas
 work, but I am will be keeping an eye out from now on—and so that was
 rewarding in itself already.
 
+* [I am not a number: I am a free variable](http://strictlypositive.org/notanum.ps.gz) by **Connor McBride & James McKinna** (2004)
+
+Another epigram paper, but shorter and more approachable, because it
+describes the implementation of a specfic feature (syntax manipulation).
+It's probably also closer to my field of expertise and thus easier for
+me to understand. I enjoyed this paper as well. That being said, their
+insistence of putting an accent on role is a little irritating, because
+I don't understand it—one of the reasons I don't like The New Yorker
+articles sometimes. Also, I like how they talk about their users when
+they say: “Our foes cannot choose wicked names in order to make mischief.”
+
 ## Recreational
 
 ### Papers

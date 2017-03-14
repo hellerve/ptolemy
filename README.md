@@ -406,7 +406,7 @@ seminal paper (except for Median of Medians, which builds on it). I
 am looking forward to try it out in D and see how it performs. I might
 also want to implement it in another language if it performs well.
 
-* [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Connor McBride & James McKinna**
+* [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Connor McBride & James McKinna** (2004)
 
 I can't say I understood a lot of it, but I still feel like a learned
 a lot, just struggling through it and looking up all kinds of things.

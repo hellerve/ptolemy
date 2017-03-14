@@ -406,6 +406,14 @@ seminal paper (except for Median of Medians, which builds on it). I
 am looking forward to try it out in D and see how it performs. I might
 also want to implement it in another language if it performs well.
 
+* [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Connor McBride & James McKinna**
+
+I can't say I understood a lot of it, but I still feel like a learned
+a lot, just struggling through it and looking up all kinds of things.
+I respect Connor McBride a lot—I was not familiar with James McKinnas
+work, but I am will be keeping an eye out from now on—and so that was
+rewarding in itself already.
+
 ## Recreational
 
 ### Papers

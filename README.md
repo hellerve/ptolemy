@@ -406,7 +406,7 @@ seminal paper (except for Median of Medians, which builds on it). I
 am looking forward to try it out in D and see how it performs. I might
 also want to implement it in another language if it performs well.
 
-* [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Connor McBride & James McKinna** (2004)
+* [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Conor McBride & James McKinna** (2004)
 
 I can't say I understood a lot of it, but I still feel like a learned
 a lot, just struggling through it and looking up all kinds of things.
@@ -414,7 +414,7 @@ I respect Connor McBride a lot—I was not familiar with James McKinnas
 work, but I am will be keeping an eye out from now on—and so that was
 rewarding in itself already.
 
-* [I am not a number: I am a free variable](http://strictlypositive.org/notanum.ps.gz) by **Connor McBride & James McKinna** (2004)
+* [I am not a number: I am a free variable](http://strictlypositive.org/notanum.ps.gz) by **Conor McBride & James McKinna** (2004)
 
 Another epigram paper, but shorter and more approachable, because it
 describes the implementation of a specfic feature (syntax manipulation).
@@ -424,6 +424,15 @@ insistence of putting an accent on role is a little irritating, because
 I don't understand it—one of the reasons I don't like The New Yorker
 articles sometimes. Also, I like how they talk about their users when
 they say: “Our foes cannot choose wicked names in order to make mischief.”
+
+* [Futexes Are Tricky](https://www.akkadia.org/drepper/futex.pdf) by **Ulrich Drepper** (2011)
+
+Indeed they are. This paper is a very useful resource if one needs to
+use futexes. It's not that great for light reading—at least not section
+2, which goes into great detail to explain every input for the syscall.
+It's useful, just not made for reading as prose. The whole paper is written
+in a tutorial-style, and realitvely instructive. I enjoyed learning about
+futexes, in any case.
 
 ## Recreational
 

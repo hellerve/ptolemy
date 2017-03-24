@@ -36,8 +36,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 * [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
-* [Optimal Decentralized Primary Frequency Control in Power Networks](http://smart.caltech.edu/papers/optimaldecent.pdf) by **Changhong Zhao and Steven Low** (2014)
-* [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
 * [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
@@ -433,6 +431,21 @@ use futexes. It's not that great for light reading—at least not section
 It's useful, just not made for reading as prose. The whole paper is written
 in a tutorial-style, and realitvely instructive. I enjoyed learning about
 futexes, in any case.
+
+* [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
+
+Coming from a field I've not had much exposure to, this paper is filled
+with lingo I don't understand. It didn't prevent me from finding it
+intriguing, though, and I think I actually learned something.
+
+* [Optimal Decentralized Primary Frequency Control in Power Networks](http://smart.caltech.edu/papers/optimaldecent.pdf) by **Changhong Zhao and Steven Low** (2014)
+
+This paper is from the same source as the one above, and so I had the
+same trouble. Sadly this one also suffers from bad writing; I assume
+the authors are not native English speakers. This was detrimental to
+my reading experience, unfair as it is. I am unfamiliar with the
+territory and the writing increased the cognitive load—not a great
+combo.
 
 ## Recreational
 

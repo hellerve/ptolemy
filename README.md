@@ -487,3 +487,15 @@ the study had a lot of moving pats that are unaccounted for, the
 sample size is pretty huge and the conclusions are pretty decisive
 in that I can say that, no, homeopathic treatment is not generally
 cheaper than traditional western medicine.
+
+### Books
+
+* *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)
+
+This book was intriguing in multiple respects: way ahead of its time
+and yet so much of it is reflecting the sentiments of its time, sometimes
+in a painful manner, such as when Herder talks about Black people—or anyone
+Non-white, for that matter. The first part is a bit hard to decypher, but
+the second part is making up for it. If you want to take anything away
+from this book, the last four pages actually summarize his main point
+quite nicely (starting at the paragraph labeled `3.`).

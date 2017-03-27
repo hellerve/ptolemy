@@ -488,6 +488,15 @@ sample size is pretty huge and the conclusions are pretty decisive
 in that I can say that, no, homeopathic treatment is not generally
 cheaper than traditional western medicine.
 
+* [Caesarean sections and for-profit status of hospitals: systematic review and meta-analysis](http://bmjopen.bmj.com/content/bmjopen/7/2/e013670.full.pdf) by **Olir Hoxha et al.** (2017)
+
+Somewhat unsettling research, but unsurprising—I am a cynic, after
+all. It's also not necessarily bad a priori that more C sections are
+performed, I guess, but it hints at an underlying profit-driven environment
+in profit-driven hospitals (duh). This holds true regardless of patient
+history, apparently, which, if generalizable (which I hope is not the case)
+would be highly appalling.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

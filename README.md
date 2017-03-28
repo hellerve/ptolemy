@@ -508,3 +508,14 @@ Non-white, for that matter. The first part is a bit hard to decypher, but
 the second part is making up for it. If you want to take anything away
 from this book, the last four pages actually summarize his main point
 quite nicely (starting at the paragraph labeled `3.`).
+
+* *Erzählte Zeit—50 deutsche Kurzgeschichten der Gegenwart* by **Manfred Durzak (Editor)** (1989)
+
+A great collection of German short stories detailling life in Germany
+during various periods of the 20th century. I don't think I can write
+up a coherent comment about the book; there is just too much ground to
+cover. I skipped two short stories that didn't appeal to me writing-wise,
+but other than that I was very happy with the layout, sequencing, and the
+stories themselves. I don't think there is a translation to any other
+language of this particular book, but I'm sure most of the individual
+stories are translated.

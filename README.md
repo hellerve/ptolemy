@@ -497,6 +497,10 @@ in profit-driven hospitals (duh). This holds true regardless of patient
 history, apparently, which, if generalizable (which I hope is not the case)
 would be highly appalling.
 
+* [Schrodinger’s Cat and World History: The Many Worlds Interpretation of Alternative Facts](https://arxiv.org/pdf/1703.10470.pdf) by **Tom Banks** (2017)
+
+A highly entertaining read.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

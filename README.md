@@ -501,6 +501,11 @@ would be highly appalling.
 
 A highly entertaining read.
 
+* [Tezos:  A Self-Amending Crypto-Ledger Position Paper](https://www.tezos.com/pdf/position_paper.pdf) by **L.M. Goodman** (2014)
+
+I'm still pondering whether I should take part in the crowd sale.
+But this sounds really cool.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

@@ -415,7 +415,7 @@ rewarding in itself already.
 
 * [I am not a number: I am a free variable](http://strictlypositive.org/notanum.ps.gz) by **Conor McBride & James McKinna** (2004)
 
-Another epigram paper, but shorter and more approachable, because it
+Another Epigram paper, but shorter and more approachable, because it
 describes the implementation of a specfic feature (syntax manipulation).
 It's probably also closer to my field of expertise and thus easier for
 me to understand. I enjoyed this paper as well. That being said, their
@@ -447,6 +447,14 @@ the authors are not native English speakers. This was detrimental to
 my reading experience, unfair as it is. I am unfamiliar with the
 territory and the writing increased the cognitive load—not a great
 combo.
+
+* [Ornamental Algebras, Algebraic Ornaments](https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf) by **Conor McBride** (2011)
+
+Yet another paper by the infallible Conor McBride. This meditation on
+data types and their relationship is based on a simple idea that blew
+my mind completely: data types are but a kind of refinement types of
+each other, joined by forgetful functions in the one direction and
+information-adding functions in the other. Pretty darn clever.
 
 ## Recreational
 

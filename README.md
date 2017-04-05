@@ -521,6 +521,13 @@ I don't anticipate I will be responsible for any flight-related
 typography any time soon, but the advice given in this paper is
 rock-solid.
 
+* [Legible, are you sure? An experimentation-based typographical design in Safety-critical context](http://lii-enac.fr/articles/vinot-chi-2012.pdf) by **Jean-Luc Vinot & Sylvie Athènes** (2012)
+
+Related to the item above, but a bit more analytical and focusing
+on digital graphical interfaces instead of print. It's also not
+as easy to infer simple rules from the paper, but it's still
+presenting deep insights.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

@@ -514,6 +514,13 @@ A highly entertaining read.
 I'm still pondering whether I should take part in the crowd sale.
 But this sounds really cool.
 
+* [On the Typography Of Flight-Deck Documentation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930010781.pdf) by **Asaf Degani** (1992)
+
+One of the most insightful looks into typography that I've found.
+I don't anticipate I will be responsible for any flight-related
+typography any time soon, but the advice given in this paper is
+rock-solid.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

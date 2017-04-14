@@ -529,6 +529,10 @@ on digital graphical interfaces instead of print. It's also not
 as easy to infer simple rules from the paper, but it's still
 presenting deep insights.
 
+* [Tezos — A Self-Amending Crypto-Ledger White paper](https://www.tezos.com/pdf/white_paper.pdf) by **L.M. Goodman** (2014)
+
+Still not convinced.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

@@ -5,6 +5,12 @@ I am forgetful, so I need this. This reading history starts on the
 brink of 2017, so any interesting things I have encountered before that
 point in my life will not be included.
 
+Some of the papers and books do not have links included, because they
+might be protected by paywalls or other DRM, because it seems we have to
+pay for progress. You might find these papers online anyway,
+[SciHub](sci-hub.io) is a great resource; it might be illegal in your
+country to use this site, though.
+
 Named after Ptolemy I Soter, who built the Library of Alexandria.
 
 ## To Do
@@ -527,6 +533,11 @@ Related to the item above, but a bit more analytical and focusing
 on digital graphical interfaces instead of print. It's also not
 as easy to infer simple rules from the paper, but it's still
 presenting deep insights.
+
+*False Suffocation Alarms, Spontaneous Panics, and Related Conditions—An Integrative Hypothesis* by **Donald F. Klein** (1992)
+
+An interesting take on panic attacks, suffocation, and brain
+signalling.
 
 ### Books
 

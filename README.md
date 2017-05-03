@@ -1,6 +1,6 @@
 # ptolemy
 
-My reading list. Mostly old papers and books, in no particular order.
+My reading list. Mostly papers and books, in no particular order.
 I am forgetful, so I need this. This reading history starts on the
 brink of 2017, so any interesting things I have encountered before that
 point in my life will not be included.
@@ -47,6 +47,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
 * [An Open Framework for the Reproducible Study of the Iterated Prisoner’s Dilemma](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.125/) by **Vincent Knight et al.** (2016)
+* [“Major key alert!” - Anomalous keys in Tor relay](https://nymity.ch/anomalous-tor-keys/pdf/anomalous-tor-keys.pdf) by **George Kadianakis et al.** (2017)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -538,6 +539,10 @@ presenting deep insights.
 
 An interesting take on panic attacks, suffocation, and brain
 signalling.
+
+* [Tezos — A Self-Amending Crypto-Ledger White paper](https://www.tezos.com/pdf/white_paper.pdf) by **L.M. Goodman** (2014)
+
+Still not convinced.
 
 ### Books
 

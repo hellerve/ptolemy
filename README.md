@@ -566,3 +566,10 @@ but other than that I was very happy with the layout, sequencing, and the
 stories themselves. I don't think there is a translation to any other
 language of this particular book, but I'm sure most of the individual
 stories are translated.
+
+* *The Lover* by **Marguerite Duras** (1984)
+
+Beautifully written story; it was the first book I read of Duras' and I definitely
+missed out. I need to read the Hiroshima Mon Amour screenplay next, and I
+think I would like to see the movie, although I'm typically not a fan of
+movie adaptations if I really liked the book. We'll see.

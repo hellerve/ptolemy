@@ -463,6 +463,13 @@ my mind completely: data types are but a kind of refinement types of
 each other, joined by forgetful functions in the one direction and
 information-adding functions in the other. Pretty darn clever.
 
+* [Model, View, Controller](http://heim.ifi.uio.no/~trygver/1979/mvc-2/1979-12-MVC.pdf) by **Trygve M. H. Reenskaug** (1979)
+
+Another one of those papers that was incredibly insightful and solved
+a problem we still face today, very cleanly. It's incredibly short,
+more of a personal note than a paper, but it cleanly sets boundaries
+between components.
+
 ## Recreational
 
 ### Papers

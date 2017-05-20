@@ -473,7 +473,17 @@ between components.
 * [What Not to Do When Writing an Interpreter for Specialisation](https://www.cs.rice.edu/~taha/teaching/02F/511/papers/jonesWhatNot96.ps) by **Neil D. Jones** (1996)
 
 Pretty dry but highly informative. This makes me want to write a toy
-project that implements program specialization.
+project that implements program specialization. I should probably reread
+the paper when not jetlagged anymore.
+
+* [OpenConflict: Preventing Real Time Map Hacks in Online Games](https://www.shiftleft.org/papers/openconflict/openconflict.pdf) by **Elie Bursztein et al.** (2011)
+
+An impressive amount of engineering by the authors went into cracking
+online games and then fixing them. Super fun to read and interesting, even
+though my knowledge of elliptic curve cryptography is way too basic to
+understand the protocol described in the later parts of the paper well.
+It is written well enough to incentivize me to keep reading, though, so
+all is well.
 
 ## Recreational
 

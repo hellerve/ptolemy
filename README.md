@@ -470,6 +470,11 @@ a problem we still face today, very cleanly. It's incredibly short,
 more of a personal note than a paper, but it cleanly sets boundaries
 between components.
 
+* [What Not to Do When Writing an Interpreter for Specialisation](https://www.cs.rice.edu/~taha/teaching/02F/511/papers/jonesWhatNot96.ps) by **Neil D. Jones** (1996)
+
+Pretty dry but highly informative. This makes me want to write a toy
+project that implements program specialization.
+
 ## Recreational
 
 ### Papers

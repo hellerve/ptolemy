@@ -485,6 +485,12 @@ understand the protocol described in the later parts of the paper well.
 It is written well enough to incentivize me to keep reading, though, so
 all is well.
 
+* [Symmetric Cryptography in Javascript](http://bitwiseshiftleft.github.io/sjcl/acsac.pdf) by **Emily Stark et al.** (2009)
+
+Interesting read, even if it's a little outdated. I would love to see an
+up-to-date version, especially because the benchmakrs where so browser-focused.
+A lot has changed since 2009 in browser performance.
+
 ## Recreational
 
 ### Papers

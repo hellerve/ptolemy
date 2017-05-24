@@ -491,6 +491,13 @@ Interesting read, even if it's a little outdated. I would love to see an
 up-to-date version, especially because the benchmakrs where so browser-focused.
 A lot has changed since 2009 in browser performance.
 
+* [Why and how to use arbitrary precision](http://perso.ens-lyon.fr/philippe.theveny/cise.pdf) by **Kave R. Ghazi et al.** (2010)
+
+This paper ties in to my lates project, a [reimplementation](https://github.com/hellerve/bc)
+of bc. The constant folding part is especially interesting. I didn't
+know about GCC's usagfe of mpfr in optimizations either and that section,
+albeit short, was especially intriguing for that reason.
+
 ## Recreational
 
 ### Papers

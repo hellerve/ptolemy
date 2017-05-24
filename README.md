@@ -498,6 +498,14 @@ of bc. The constant folding part is especially interesting. I didn't
 know about GCC's usagfe of mpfr in optimizations either and that section,
 albeit short, was especially intriguing for that reason.
 
+* [Designing extensible, domain-specific languages for mathematical diagrams](https://www.cs.cmu.edu/~kqy/resources/diagrams_obt.pdf) by **Katherine Ye et al.** (2017)
+
+Super exciting idea! As a novice to most of the fields I read papers
+from—I mean, how many domains can you have domain knowledge in, really?—,
+having illustrations definitely helps a ton! Making this simpler, more accessible,
+or just having better tooling should help tremenduously in incentivizing people
+to build diagrams, which in turn incentivizes me to dive deeper into the field.
+
 ## Recreational
 
 ### Papers

@@ -587,6 +587,10 @@ signalling.
 
 Still not convinced.
 
+* [Deconstructing the evidence-based discourse in health sciences: truth, power and fascism](http://www.ucl.ac.uk/Pharmacology/dc-bits/holmes-deconstruction-ebhc-06.pdf) by **Dave Holmes et al.**
+
+I thoroughly enjoyed this read, reading it as a joke.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

@@ -506,6 +506,17 @@ having illustrations definitely helps a ton! Making this simpler, more accessibl
 or just having better tooling should help tremenduously in incentivizing people
 to build diagrams, which in turn incentivizes me to dive deeper into the field.
 
+### Books
+
+* [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
+
+As one Reddit user helpfully put it: “You can't spell slaughter without laughter
+either”. Technically this is not a book but a master's thesis, but I'll count
+it as a book for reasons of vanity. It is relatively readable, but not very
+exciting either. Rust excites me less and less the more I do with it, and this
+thesis didn't help. I'll read a bit more about it, but for now I'll have to
+conclude that Rust is not for me, neither theoretically nor practically.
+
 ## Recreational
 
 ### Papers

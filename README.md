@@ -506,6 +506,17 @@ having illustrations definitely helps a ton! Making this simpler, more accessibl
 or just having better tooling should help tremenduously in incentivizing people
 to build diagrams, which in turn incentivizes me to dive deeper into the field.
 
+* [Visualizing LSTM decisions](https://arxiv.org/pdf/1705.08153v1.pdf) by **Jos van der Westhuizen & Joan Lasenby** (2017)
+
+As always when it comes to papers outside of my limited domain of expertise
+I cannot say I understood this paper thoroughly. This time, however, I feel
+a little better, because someone with actual knowledge around the topic
+presented on it at our ML paper reading group, which is nice.
+
+After concurring that the paper was borderline unreadable, she explained
+LSTMs, a very helpful addition. I feel equipped to talk about them more now.
+The choice of illustrative examples in this papers was abominable.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

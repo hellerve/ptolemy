@@ -532,6 +532,15 @@ Yet another nifty solution for the shower door effect, this time using coherent
 noise. It seems to perform quite well and should be reasonably cheap, so I'm all
 for it, though I cannot estimate whether it actually helps with anything.
 
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) by **Volodymyr Mnih** (2013)
+
+Yet another paper from my paper reading group. It, too, was a bit painful to
+read through, even though the topic seemed interesting at first. Of course, I
+learned a lot about Reinforcement Learning in our session, but I don't think
+the paper would've told me much—especially because the data in Reinforcement
+Learning is often so different from the data in other flavors of ML. The
+linear algebra didn't help, of course, although it wasn't _too_ bad.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

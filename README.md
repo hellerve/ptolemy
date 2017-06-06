@@ -541,6 +541,12 @@ the paper would've told me much—especially because the data in Reinforcement
 Learning is often so different from the data in other flavors of ML. The
 linear algebra didn't help, of course, although it wasn't _too_ bad.
 
+* [Generating Pseudo-random Floating-Point Value](http://allendowney.com/research/rand/downey07randfloat.pdf) by **Allen B. Downey** (2007)
+
+Extremely interesting algorithm, but I never really generated random floating
+point values, so I cannot really say whether the algorithm is any good. It's
+deeply satisfying to read anyway if you're into numerics.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

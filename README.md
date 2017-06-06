@@ -517,6 +517,15 @@ After concurring that the paper was borderline unreadable, she explained
 LSTMs, a very helpful addition. I feel equipped to talk about them more now.
 The choice of illustrative examples in this papers was abominable.
 
+* [Painterly Rendering for Animation](https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/47/asset/p477-meier_1996.pdf) by **Barbara J. Meier** (1996)
+
+A beautiful paper, both in its writing—which is simple, not convoluted,
+and does a great job at explaining everything—and its idea, which is
+super simple: mixing particle rendering and painterly rendering of still
+images. The particle rendering is necessary for continuity between frames,
+and the idea seems obvious in hindsight, which is evidence for how powerful
+it is.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

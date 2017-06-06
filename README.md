@@ -526,6 +526,12 @@ images. The particle rendering is necessary for continuity between frames,
 and the idea seems obvious in hindsight, which is evidence for how powerful
 it is.
 
+* [Coherent Noise for Non-Photorealistic Rendering](http://graphics.pixar.com/library/NPRNoise/paper.pdf) by **Michael Kass & Davide Pesare** (2011)
+
+Yet another nifty solution for the shower door effect, this time using coherent
+noise. It seems to perform quite well and should be reasonably cheap, so I'm all
+for it, though I cannot estimate whether it actually helps with anything.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

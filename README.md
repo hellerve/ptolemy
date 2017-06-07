@@ -553,6 +553,15 @@ This paper (or rather chapter) spawned a creative coding session, a few algorith
 experiments, reflections on phyllotactic mechanism in the 2D layout of galaxies,
 and an art print for my girlfriend, so I cannot complain.
 
+* [Stylizing Animations by Example](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf) by **Pierre Bénard et al.** (2013)
+
+Wow, this was dense. I can't say I understood all of the math—but then I don't
+think that's expected. What I can say is that this is more of a reference
+paper than one you would read for fun, but maybe that's just me. I'm not
+sure of the general usefulness of having read it, other than for the issue
+at hand (taking pictures and interpolating the frames between them by
+models).
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

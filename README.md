@@ -547,6 +547,12 @@ Extremely interesting algorithm, but I never really generated random floating
 point values, so I cannot really say whether the algorithm is any good. It's
 deeply satisfying to read anyway if you're into numerics.
 
+* [Phyllotaxis](http://algorithmicbotany.org/papers/abop/abop-ch4.pdf) (Chapter 4 of “The Algorithmic Beauty of Plants”) by **Przemyslaw Prusinkiewicz && Aristid Lindenmayer** (1990)
+
+This paper (or rather chapter) spawned a creative coding session, a few algorithmic
+experiments, reflections on phyllotactic mechanism in the 2D layout of galaxies,
+and an art print for my girlfriend, so I cannot complain.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

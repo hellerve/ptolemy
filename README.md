@@ -562,6 +562,13 @@ sure of the general usefulness of having read it, other than for the issue
 at hand (taking pictures and interpolating the frames between them by
 models).
 
+* [Gyrophone: Recognizing Speech From Gyroscope Signals](https://crypto.stanford.edu/gyrophone/files/gyromic.pdf) by **Yan Michalevsky et al.** (2014)
+
+Pretty scary stuff I didn't know about, although I don't know how I could
+have possibly missed it. At first I thought of it as a rather constructed attack,
+but as soon they showed that the gyroscope can be upgraded to work at 8kHz
+I was pretty scared.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

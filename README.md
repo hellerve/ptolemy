@@ -569,6 +569,12 @@ have possibly missed it. At first I thought of it as a rather constructed attack
 but as soon they showed that the gyroscope can be upgraded to work at 8kHz
 I was pretty scared.
 
+* [The Brigade Renderer: A Path Tracer for Real-Time Games](https://www.hindawi.com/journals/ijcgt/2013/578269/) by **Jacco Bikker & Jeroen van Schijndel** (2012)
+
+Interesting concept, I would like to see it in action. The visual format
+of the paper irritated me somewhat, especially the poor quality of the
+illustrations.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

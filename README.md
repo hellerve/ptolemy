@@ -575,6 +575,12 @@ Interesting concept, I would like to see it in action. The visual format
 of the paper irritated me somewhat, especially the poor quality of the
 illustrations.
 
+* [Improving Noise](http://mrl.nyu.edu/~perlin/paper445.pdf) by **Ken Perlin** (2002)
+
+One of Ken Perlin's seminal papers on noise that led to simplex. I'm forever
+grateful to Perlin, mostly for the beauty and elegance of smooth noise functions
+in general, and simplex in particular.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -581,6 +581,11 @@ One of Ken Perlin's seminal papers on noise that led to simplex. I'm forever
 grateful to Perlin, mostly for the beauty and elegance of smooth noise functions
 in general, and simplex in particular.
 
+* [Efficient computational noise in GLSL](http://webstaff.itn.liu.se/~stegu/jgt2012/article.pdf) by **Ian McEwan et al.** (2011)
+
+Another take on noise; I might steal this implementation for my own GLSL
+code.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -586,6 +586,12 @@ in general, and simplex in particular.
 Another take on noise; I might steal this implementation for my own GLSL
 code.
 
+* [Simplex noise demystified](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf) by **Stefan Gustavson** (2005)
+
+The third noise paper today. It just details simplex noise again, and again
+in Java, but with a few improvements for speed—and it includes an implementation
+for higher dimensions (namely 3D and 4D).
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

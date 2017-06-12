@@ -598,6 +598,14 @@ An algorithm that's beautiful in its simplicity. I read this not for practical
 reasons, and so the clarity of the algorithm appealed to me greatly. I'm going
 to write a blog post on this.
 
+* [A Cellular Texture Basis Function](http://www.rhythmiccanvas.com/research/papers/worley.pdf) by **Steven Worley** (1996)
+
+Another seminal paper, this time by Worley. I am fascinated by Voronoi cells
+and Worley's contribution makes them even more interesting to me. The paper is
+somewhat hard to read, though, not very hands-on and mathematical. I enjoyed it
+because I already knew the concept it explains, but if I hadn't I doubt I would
+have understood.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

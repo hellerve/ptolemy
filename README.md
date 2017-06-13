@@ -606,6 +606,15 @@ somewhat hard to read, though, not very hands-on and mathematical. I enjoyed it
 because I already knew the concept it explains, but if I hadn't I doubt I would
 have understood.
 
+* [Stackelberg Games for Adversarial Prediction Problems](https://pdfs.semanticscholar.org/2e82/acecef77e72e14eb805b7ee9c145ab00e726.pdf) by **Michael Brückner & Tobias Scheffer** (2011)
+
+My first dabblings into Adversarial AI. While the paper wasn't too enjoyable to
+read, the ideas are quite fun to work with. I'm interested in seeing an actual
+application in, say, a spam filter.
+
+Again, going through the paper with my reading group was what actually made me
+understand it. Otherwise I wouldn't have grokked it, I think.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

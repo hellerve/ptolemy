@@ -615,6 +615,12 @@ application in, say, a spam filter.
 Again, going through the paper with my reading group was what actually made me
 understand it. Otherwise I wouldn't have grokked it, I think.
 
+* [Making digital filters sound "analog"](http://quod.lib.umich.edu/cgi/p/pod/dod-idx/making-digital-filters-sound-analog.pdf?c=icmc;idno=bbp2372.1992.009) by **Dave Rossum** (1992)
+
+Short, but interesting paper on analog modeling. I'm told this is another classic,
+although I feel like I'm missing the point a little. Maybe I'm not involved enough
+to see the appeal.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

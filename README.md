@@ -621,6 +621,28 @@ Short, but interesting paper on analog modeling. I'm told this is another classi
 although I feel like I'm missing the point a little. Maybe I'm not involved enough
 to see the appeal.
 
+* [Practical Exhaustive Optimization Phase Order Exploration and Evaluation](http://www.cs.fsu.edu/~whalley/papers/taco09.pdf) by **Prasad A. Kulkarni et al.** (2008)
+
+Very well-written and clear paper on pahse ordering. I was surprised that the
+authors didn't try to keep a list of ordering "prefixes" (i.e. a dictionary
+from `sequence of phases` to `current output`) in memory to speed up the
+application-maybe the space used by this datum is higher than I' imagine?
+I'm also unfamiliar with the framework they used, so it might well be an
+infeasible idea in their environment.
+
+Then again, some of the numbers blew my mind: “For this study, we stop the
+exhaustive search on any function if the time required exceeded an approximate
+limit of 2 weeks. Please note that exhaustive phase order evaluation for most
+of the functions requires a few min utes or a few hours, with only the largest
+enumerated functions requiring a few days.” How is that even possible? It's
+the magic of exponentiality, I guess, but oh my.
+
+There's more that threw me off about the paper, though. The “results” section
+in particular had my alarm bells go off when the authors didn't detail why they
+excluded certain functions from the benchmark and the results. Maybe I'm too
+used to thinking in terms of psychology where this kind of methodological error
+has poisoned a lot of papers.
+
 ### Books
 
 * [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

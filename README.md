@@ -60,6 +60,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Sequent Calculus as a Compiler Intermediate Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/sequent-calculus-icfp16.pdf) by **Simon Peyton Jones et al.** (2016)
 * [RABBIT: A Compiler for SCHEME](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AITR-474.pdf) by **Guy Steele** (1978)
 * *The Psychology of Computer Programming* by **Gerald Weinber** (1971)
+* [PILOT: A Step Toward Man-Computer Hypothesis](https://dspace.mit.edu/bitstream/handle/1721.1/6905/AITR-221.pdf) by **Warren Teitelman** (1966)
 
 ### Recreational
 

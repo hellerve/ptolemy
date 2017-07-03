@@ -42,7 +42,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 * [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
-* [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
 * [Branch Flow Model: Relaxations and Convexification—Part I](http://smart.caltech.edu/papers/relaxconvex2parts.pdf) by **Masoud Farivar and Steven Low** (2013)
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
@@ -644,6 +643,15 @@ in particular had my alarm bells go off when the authors didn't detail why they
 excluded certain functions from the benchmark and the results. Maybe I'm too
 used to thinking in terms of psychology where this kind of methodological error
 has poisoned a lot of papers.
+
+* [Opportunities and Challenges for Data Center Demand Response](http://smart.caltech.edu/papers/dcdrsurvey.pdf) by **Adam Wierman et al.** (2014)
+
+This was a fairly interesting and approachable read for a complete newbie like
+me. I have no idea how the grid and power distribution acutally works, but the
+authors managed to make me feel as if I had a good overview over the state of
+the grid and the role data centers play within it now. Highly recommendable,
+and I was especially intrigued to hear about the elaborate systems that are
+in play between consumers and producers of energy within the grid.
 
 ### Books
 

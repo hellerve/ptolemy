@@ -664,6 +664,13 @@ exciting either. Rust excites me less and less the more I do with it, and this
 thesis didn't help. I'll read a bit more about it, but for now I'll have to
 conclude that Rust is not for me, neither theoretically nor practically.
 
+* *If Hemingway Wrote JavaScript* by **Angus Croll** (2014)
+
+One of the most delightful tech books I've ever read. It is whimsical, and
+while only tangentially pedagogical, an incredibly gratifying read. I expect
+to revisit it again and again—its disjointed nature makes this very easy and
+immediately valuable.
+
 ## Recreational
 
 ### Papers

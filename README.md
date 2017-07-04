@@ -785,3 +785,13 @@ Beautifully written story; it was the first book I read of Duras' and I definite
 missed out. I need to read the Hiroshima Mon Amour screenplay next, and I
 think I would like to see the movie, although I'm typically not a fan of
 movie adaptations if I really liked the book. We'll see.
+
+* *Die Berliner Antigone—Erzählungen und Gedichte* by **Rolf Hochhuth** (1986)
+
+Although I'm not a big fan of his style—he is a touch too preachy, like many
+great German poets after the war, although for good reason—he delivers solid
+stories that are interesting as historical commentary. Both of the prose and
+the poems in this book are too clearly pointed for me, although I assume it is
+hard to write about the war and the holocaust without being preachy. One of the
+few who don't fall into that trap is Paul Celan, himself a holocaust survivor
+and incredible writer, and I don't think a comparison is fair.

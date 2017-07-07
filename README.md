@@ -795,3 +795,11 @@ the poems in this book are too clearly pointed for me, although I assume it is
 hard to write about the war and the holocaust without being preachy. One of the
 few who don't fall into that trap is Paul Celan, himself a holocaust survivor
 and incredible writer, and I don't think a comparison is fair.
+
+* *Selected Poems* by **E. E. Cummings (edited by Richard S. Kennedy)** (2007)
+
+I like E.E. Cummings' early and a few of his late poems. I have no taste for
+his cubist poems, and his poems dealing with love and sexuality are severely
+overrated in my eyes. The section introductions written by the editor try to
+give an overview over the author's views and environment that influenced his
+writing, but most of them end up being toadyish.

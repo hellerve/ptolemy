@@ -803,3 +803,11 @@ his cubist poems, and his poems dealing with love and sexuality are severely
 overrated in my eyes. The section introductions written by the editor try to
 give an overview over the author's views and environment that influenced his
 writing, but most of them end up being toadyish.
+
+* *Die Sekunden danach* by **Matthias Politycki** (2009)
+
+I reread it after years of not reading any of his works. It's still one of the
+most enjoyable poetry books on my shelf. His style is clear, but subtle, and
+effortlessly lighthearted. My favorite poems are about his random encounters,
+often with women, beautiful moments, captured in a clear and unspectacular
+manner. I like his matter-of-fact tone a lot.

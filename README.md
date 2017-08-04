@@ -811,3 +811,11 @@ most enjoyable poetry books on my shelf. His style is clear, but subtle, and
 effortlessly lighthearted. My favorite poems are about his random encounters,
 often with women, beautiful moments, captured in a clear and unspectacular
 manner. I like his matter-of-fact tone a lot.
+
+* *On Value* by **Triple Canopy & Ralph Lemon** (2015)
+
+I purchased this book at the PS1 warmup party at MoMA. I don't know what I
+expected, but this surely wasn't it. I enjoyed the read, however. The book
+is a series of essays and conversations by and of modern artists, particularly
+dancers. Their throughts on their art and craft and its presentation felt both
+intimate and illuminating, curated and natural.

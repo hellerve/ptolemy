@@ -49,6 +49,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [“Major key alert!” - Anomalous keys in Tor relay](https://nymity.ch/anomalous-tor-keys/pdf/anomalous-tor-keys.pdf) by **George Kadianakis et al.** (2017)
 * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/pdf/1707.09627.pdf) by **Kevin Ellis et al.** (2017)
 * [Beating Floating Point at its Own Game: Posit Arithmetic](http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf) by **John L. Gustafson & Isaac Yonemoto** (2017)
+* [Insights into Sexism: Male Status and Performance Moderates Female-Directed Hostile and Amicable Behaviour](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131613&type=printable) by **Michael M. Kasumovic & Jeffrey H. Kuznekoff** (2015)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

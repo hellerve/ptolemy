@@ -66,6 +66,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [PILOT: A Step Toward Man-Computer Symbiosis](https://dspace.mit.edu/bitstream/handle/1721.1/6905/AITR-221.pdf) by **Warren Teitelman** (1966)
 * [Optimizing compilation with the Value State Dependence Graph](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-705.pdf) by **Alan C. Lawrence** (2007)
 * [Succinct Data Structures](http://www.research.att.com/export/sites/att_labs/people/Jacobson_Guy_J/library/publications/JacobsonThesis.pdf) by **Guy Jacobson** (1989)
+* [Space-Efficient Data Structures for Information Retrieval](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7491/Claude_Francisco.pdf) by **Francisco Claude** (2013)
 
 ### Recreational
 

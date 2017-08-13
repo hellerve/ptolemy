@@ -38,7 +38,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)
 * [What You Always Wanted to Know About Datalog (And Never Dared to Ask)](http://www.csd.uoc.gr/%7Ehy562/1112_spring/instr_material/WhatYouAlwaysWantedtoKnowAboutDatalog_AndNeverDaredtoAsk.pdf) by **Stefano Ceri et al.** (1989)
 * [Scheduling Parallel Programs by Work Stealing with Private Deques](http://www.chargueraud.org/research/2013/ppopp/full.pdf) by **Umur Acar** (2013)
-* [A Correspondence Between ALGOL 60 and Church's Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
+* [A Correspondence Between ALGOL 60 and Church’s Lambda-Notation: Part I](http://fi.ort.edu.uy/innovaportal/file/20124/1/22-landin_correspondence-between-algol-60-and-churchs-lambda-notation.pdf) by **P. Landin** (1965)
 * [Harnessing the Multicores: Nested Data Parallelism in Haskell](http://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/papers-ndph.pdf) by **Simon Peyton Jones et al.** (2008)
 * [Older-first garbage collection in practice](http://www.ccs.neu.edu/home/lth/thesis/index.html) by **Lars Hansen** (2000)
 * [A Unified Theory of Garbage Collection](http://www.cs.virginia.edu/~cs415/reading/bacon-garbage.pdf) by **David Bacon et al.** (2004)
@@ -142,7 +142,7 @@ is mind-boggingly simple, and I think that is pretty amazing.
 
 * [Situations, Actions, and Causal Laws](http://www.dtic.mil/dtic/tr/fulltext/u2/785031.pdf) by **John McCarthy** (1963)
 
-Another one of these classic papers that I had missed. I don't
+Another one of these classic papers that I had missed. I don’t
 think I completely understand the paper, although, as per usual
 McCarthy does not fail to instill a lot of thoughts in my slow
 mind. His idea of the Advice Taker is an interesting forgotten
@@ -179,7 +179,7 @@ A bit hard to read and involved, but very deep insights.
 I might try to recreate in zepto.
 
 The syntax of all of the languages and systems presented
-were ugly. That's not that big of a problem, though, if
+were ugly. That’s not that big of a problem, though, if
 one puts a bit more abstraction around them they could
 actually be pleasant to work with.
 
@@ -232,13 +232,13 @@ pretty indeed.
 
 A theoretical pearl by Chris Okasaki (of "Functional Datastructures" fame).
 It shows how to rewrite arbitrary combinators to stack expressions, similar
-to what you would to in reverse polish notation. It's a simple yet very beautiful
+to what you would to in reverse polish notation. It’s a simple yet very beautiful
 showcase of how to rewrite postifx notation to combinators and vice versa
 and invents an interesting approach to Gödel numbering on the way, in less
 than eight pages. The latter of the two implications is a bit harder to digest,
 and less applicable to what I am doing, but relatively obvious, which astounded
 me considering I am not a very battle-hardened theoretical computer scientist.
-Maybe my reading just starts to bear fruits or maybe it is Okasaki's pristine
+Maybe my reading just starts to bear fruits or maybe it is Okasaki’s pristine
 writing.
 
 * [Why New Programming Languages for Simulation?](http://people.csail.mit.edu/fred/why.pdf) by **Gilbert Louis Bernstein and Fredrik Kjolstad** (2016)
@@ -261,13 +261,13 @@ every language that still does not implement proper tail recursion. And I should
 try to play around with the CPS-converter given in Appendix A, that one was really
 interesting.
 
-* [Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
+* [Debunking the ‘Expensive Procedure Call’ Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
 
 An interesting insight into programming in the 70s. Coming from today it is
 pretty much impossible that one learns that using `GOTO` is good for your
 programs, neither as an optimization (most modern compilers are better than
 average Joe Programmer at understanding how to optimize the program anyway)
-nor as a stylistic choice (most blindly obey Djikstra's quip about `GOTO`
+nor as a stylistic choice (most blindly obey Djikstra’s quip about `GOTO`
 being harmful without having read the actual article, in my experience).
 Now, I personally still find that sometimes `GOTO` might be acceptable
 (in error handling/cleanup cases, very sparingly, for instance), but
@@ -288,7 +288,7 @@ I should take a look at the final product at some point.
 * [SECD: Design Issues](http://prism.ucalgary.ca/bitstream/1880/46590/2/1989-369-31.pdf) by ? (?)
 
 I cannot remember how I found this paper and a quick search for it
-doesn't reveal much information, either. Its title seems to be "SECD:
+doesn’t reveal much information, either. Its title seems to be "SECD:
 Design Issues" and it seems to be a report on the work of a research
 group at the University of Calgary (led by Graham and Birtwistle,
 maybe?), probably in the late 80s or early 90s (89 at least, according
@@ -300,7 +300,7 @@ and manufacturing.
 * [Exceptional Continuations in JavaScript](http://www.schemeworkshop.org/2007/procPaper4.pdf) by **Florian Loitsch** (2007)
 
 An interesting little paper on how to implement continuations in a
-language that doesn't have them. It's a bit clumsy if you compare
+language that doesn’t have them. It’s a bit clumsy if you compare
 it to first-class continuations, but this is more or less a given,
 at least in my opinion. It also helps my understanding of how to
 implement continuations, even if I have already implemented them
@@ -316,7 +316,7 @@ advanced than I would have expected. The same for the pattern-matching
 implementation, which is wonderfully elegant and simple. I could reimplement
 a simple pattern-matcher in zepto for a blog post maybe. In general the
 code presented in the blog post is incredibly advanced, at least much more
-than anything I would've thought is to be found in a paper from the mid-70's.
+than anything I would’ve thought is to be found in a paper from the mid-70s.
 
 On another note, them basically implementing `Promise.race` and then calling
 it useless is wonderfully ironic.
@@ -329,11 +329,11 @@ everyone seems to want to jump on that bandwagon with bad ideas lately. I still
 read about it and think I have a pretty okay grasp on the concepts, I just never
 had a project that required me to write a truly learning system. With that in mind,
 this is still a very interesting paper, because it describes in great detail an
-approach to AI writing poetry in a sensible way. It's a bit annoying that they did
+approach to AI writing poetry in a sensible way. It’s a bit annoying that they did
 not provide an example poem that was generated—I was really interested in seeing
 one of those—, but I liked the idea of having multiple neural nets, one for writing
 the draft and one for refining it. That felt similar to how I approach writing:
-brainstorm and build, then make sense of the mess you've just created. I have always
+brainstorm and build, then make sense of the mess you’ve just created. I have always
 been a poor editor, so maybe the second neural net would be of greater help for me,
 but I assume it will be some time until I can tap into the potential of AI that
 helps me convey what I want to write.
@@ -341,7 +341,7 @@ helps me convey what I want to write.
 * [An Incremental Approach to Compiler Construction](https://github.com/namin/inc/blob/master/docs/paper.pdf) by **Abdulaziz Ghuloum** (2006)
 
 I am not sure I agree with the methodology—and the implementation—provided in
-this paper. It mgith be that the reader has implemented a compiler after they've
+this paper. It mgith be that the reader has implemented a compiler after they’ve
 worked through the paper, but the compiler is really bad, the architecture does
 not lend itself well to extension, and paedagogically the reader has not gained
 as much as they would have with a better engineered, "do things the right way"
@@ -352,14 +352,14 @@ have to base their compiler on that.
 
 This paper broke my heart. It is incredible that at this day and age people still
 think HTTPS interception can increase security instead of severely decreasing it.
-I don't think I have to say more on that matter. Almost 11% percent intercepted
+I don’t think I have to say more on that matter. Almost 11% percent intercepted
 traffic is damn scary.
 
 * [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
 
 The main take-away from this paper is that I am probably too thick to implement
 a good garbage collector. Generational garbage collectors are relatively hard
-to build properly—I've tried and failed before. Larceny is a truly interesting
+to build properly—I’ve tried and failed before. Larceny is a truly interesting
 Scheme implementation. I should try it out sometime, because I thoroughly enjoyed
 reading papers about it—its documentation on its compiler passes are pretty
 pristine.
@@ -368,8 +368,8 @@ pristine.
 
 More blockchain bullshit. Yay. This incredibly badly written paper presents a
 fundamentally flawed idea—basically a shitty framework to RethinkDB—a database
-that's failed as well, and for good reasons. I know I sound like an ass here,
-but I've lost patience with people who have no idea about how to build a database
+that’s failed as well, and for good reasons. I know I sound like an ass here,
+but I’ve lost patience with people who have no idea about how to build a database
 building databases, because I am the one who cleans up after the mess when a
 startup ends up choosing that tech and the DB ends up blowing up (mostly because
 of configuration flaws, of course, but if your default configurations are
@@ -386,11 +386,11 @@ Kind of like I felt reading Haskell before I knew it.
 
 * [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
 
-I've read this paper before, and it is still wonderful. Scheme speaks to me in a
+I’ve read this paper before, and it is still wonderful. Scheme speaks to me in a
 very peculiar way. But, instead of waxing poetic, I will just quote the end of
 the paper, because there is a very deep insight for language designers to be
 found here: "No amount of language design can *force* a programmer to write clear
-programs. If the programmer's conception of the problem is badly organized, then
+programs. If the programmer’s conception of the problem is badly organized, then
 [their] program will also be badly organized. The extent to which a programming
 language can help a programmer to organize [their] problem is precisely the extent
 to which it provides features appropriate to [their] problem domain. The emphasis
@@ -404,23 +404,23 @@ general conclusion from this paper—especially considering three datasets had t
 excluded from part of the conclusions, reducing the sample size to seven. Nonetheless,
 it is interesting research into how effective syntax highlighting really is, because
 most of the arguments for or against syntax highlighting seem to be strawman arguments
-or highly subjective (I won't link to blog posts that come to mind, because I'm not that
+or highly subjective (I won’t link to blog posts that come to mind, because I’m not that
 much of an ass). In toto, this paper is a valuable addition to the conversation about the
 cost and gains of syntax highlighting.
 
 * [Fast Deterministic Selection](https://arxiv.org/pdf/1606.00484.pdf) by **Andrei Alexandrescu**
 
-I always liked Alexandrescu's talks. Sadly, I've not yet managed to
+I always liked Alexandrescu’s talks. Sadly, I’ve not yet managed to
 try out D, the programming language he is mostly working on except for
 his work on C++. This paper presents a fun new algorithm for selection
-in a field of research that has not seen great advances since Hoare's
+in a field of research that has not seen great advances since Hoare’s
 seminal paper (except for Median of Medians, which builds on it). I
 am looking forward to try it out in D and see how it performs. I might
 also want to implement it in another language if it performs well.
 
 * [The view from the left](http://strictlypositive.org/view-Dec6.ps.gz) by **Conor McBride & James McKinna** (2004)
 
-I can't say I understood a lot of it, but I still feel like a learned
+I can’t say I understood a lot of it, but I still feel like a learned
 a lot, just struggling through it and looking up all kinds of things.
 I respect Connor McBride a lot—I was not familiar with James McKinnas
 work, but I am will be keeping an eye out from now on—and so that was
@@ -430,26 +430,26 @@ rewarding in itself already.
 
 Another Epigram paper, but shorter and more approachable, because it
 describes the implementation of a specfic feature (syntax manipulation).
-It's probably also closer to my field of expertise and thus easier for
+It’s probably also closer to my field of expertise and thus easier for
 me to understand. I enjoyed this paper as well. That being said, their
 insistence of putting an accent on role is a little irritating, because
-I don't understand it—one of the reasons I don't like The New Yorker
+I don’t understand it—one of the reasons I don’t like The New Yorker
 articles sometimes. Also, I like how they talk about their users when
 they say: “Our foes cannot choose wicked names in order to make mischief.”
 
 * [Futexes Are Tricky](https://www.akkadia.org/drepper/futex.pdf) by **Ulrich Drepper** (2011)
 
 Indeed they are. This paper is a very useful resource if one needs to
-use futexes. It's not that great for light reading—at least not section
+use futexes. It’s not that great for light reading—at least not section
 2, which goes into great detail to explain every input for the syscall.
-It's useful, just not made for reading as prose. The whole paper is written
+It’s useful, just not made for reading as prose. The whole paper is written
 in a tutorial-style, and realitvely instructive. I enjoyed learning about
 futexes, in any case.
 
 * [Distributed Algorithm for Optimal Power Flow on a Radial Network](http://smart.caltech.edu/papers/distributedalg.pdf) by **Qiuyu Peng and Steven Low** (2014)
 
-Coming from a field I've not had much exposure to, this paper is filled
-with lingo I don't understand. It didn't prevent me from finding it
+Coming from a field I’ve not had much exposure to, this paper is filled
+with lingo I don’t understand. It didn’t prevent me from finding it
 intriguing, though, and I think I actually learned something.
 
 * [Optimal Decentralized Primary Frequency Control in Power Networks](http://smart.caltech.edu/papers/optimaldecent.pdf) by **Changhong Zhao and Steven Low** (2014)
@@ -472,7 +472,7 @@ information-adding functions in the other. Pretty darn clever.
 * [Model, View, Controller](http://heim.ifi.uio.no/~trygver/1979/mvc-2/1979-12-MVC.pdf) by **Trygve M. H. Reenskaug** (1979)
 
 Another one of those papers that was incredibly insightful and solved
-a problem we still face today, very cleanly. It's incredibly short,
+a problem we still face today, very cleanly. It’s incredibly short,
 more of a personal note than a paper, but it cleanly sets boundaries
 between components.
 
@@ -493,15 +493,15 @@ all is well.
 
 * [Symmetric Cryptography in Javascript](http://bitwiseshiftleft.github.io/sjcl/acsac.pdf) by **Emily Stark et al.** (2009)
 
-Interesting read, even if it's a little outdated. I would love to see an
+Interesting read, even if it’s a little outdated. I would love to see an
 up-to-date version, especially because the benchmakrs where so browser-focused.
 A lot has changed since 2009 in browser performance.
 
 * [Why and how to use arbitrary precision](http://perso.ens-lyon.fr/philippe.theveny/cise.pdf) by **Kave R. Ghazi et al.** (2010)
 
 This paper ties in to my lates project, a [reimplementation](https://github.com/hellerve/bc)
-of bc. The constant folding part is especially interesting. I didn't
-know about GCC's usagfe of mpfr in optimizations either and that section,
+of bc. The constant folding part is especially interesting. I didn’t
+know about GCC’s usage of mpfr in optimizations either and that section,
 albeit short, was especially intriguing for that reason.
 
 * [Designing extensible, domain-specific languages for mathematical diagrams](https://www.cs.cmu.edu/~kqy/resources/diagrams_obt.pdf) by **Katherine Ye et al.** (2017)
@@ -535,23 +535,23 @@ it is.
 * [Coherent Noise for Non-Photorealistic Rendering](http://graphics.pixar.com/library/NPRNoise/paper.pdf) by **Michael Kass & Davide Pesare** (2011)
 
 Yet another nifty solution for the shower door effect, this time using coherent
-noise. It seems to perform quite well and should be reasonably cheap, so I'm all
+noise. It seems to perform quite well and should be reasonably cheap, so I’m all
 for it, though I cannot estimate whether it actually helps with anything.
 
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) by **Volodymyr Mnih** (2013)
 
 Yet another paper from my paper reading group. It, too, was a bit painful to
 read through, even though the topic seemed interesting at first. Of course, I
-learned a lot about Reinforcement Learning in our session, but I don't think
-the paper would've told me much—especially because the data in Reinforcement
+learned a lot about Reinforcement Learning in our session, but I don’t think
+the paper would’ve told me much—especially because the data in Reinforcement
 Learning is often so different from the data in other flavors of ML. The
-linear algebra didn't help, of course, although it wasn't _too_ bad.
+linear algebra didn’t help, of course, although it wasn’t _too_ bad.
 
 * [Generating Pseudo-random Floating-Point Value](http://allendowney.com/research/rand/downey07randfloat.pdf) by **Allen B. Downey** (2007)
 
 Extremely interesting algorithm, but I never really generated random floating
-point values, so I cannot really say whether the algorithm is any good. It's
-deeply satisfying to read anyway if you're into numerics.
+point values, so I cannot really say whether the algorithm is any good. It’s
+deeply satisfying to read anyway if you’re into numerics.
 
 * [Phyllotaxis](http://algorithmicbotany.org/papers/abop/abop-ch4.pdf) (Chapter 4 of “The Algorithmic Beauty of Plants”) by **Przemyslaw Prusinkiewicz && Aristid Lindenmayer** (1990)
 
@@ -561,16 +561,16 @@ and an art print for my girlfriend, so I cannot complain.
 
 * [Stylizing Animations by Example](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf) by **Pierre Bénard et al.** (2013)
 
-Wow, this was dense. I can't say I understood all of the math—but then I don't
-think that's expected. What I can say is that this is more of a reference
-paper than one you would read for fun, but maybe that's just me. I'm not
+Wow, this was dense. I can’t say I understood all of the math—but then I don’t
+think that’s expected. What I can say is that this is more of a reference
+paper than one you would read for fun, but maybe that’s just me. I’m not
 sure of the general usefulness of having read it, other than for the issue
 at hand (taking pictures and interpolating the frames between them by
 models).
 
 * [Gyrophone: Recognizing Speech From Gyroscope Signals](https://crypto.stanford.edu/gyrophone/files/gyromic.pdf) by **Yan Michalevsky et al.** (2014)
 
-Pretty scary stuff I didn't know about, although I don't know how I could
+Pretty scary stuff I didn’t know about, although I don’t know how I could
 have possibly missed it. At first I thought of it as a rather constructed attack,
 but as soon they showed that the gyroscope can be upgraded to work at 8kHz
 I was pretty scared.
@@ -583,7 +583,7 @@ illustrations.
 
 * [Improving Noise](http://mrl.nyu.edu/~perlin/paper445.pdf) by **Ken Perlin** (2002)
 
-One of Ken Perlin's seminal papers on noise that led to simplex. I'm forever
+One of Ken Perlin’s seminal papers on noise that led to simplex. I’m forever
 grateful to Perlin, mostly for the beauty and elegance of smooth noise functions
 in general, and simplex in particular.
 
@@ -600,52 +600,52 @@ for higher dimensions (namely 3D and 4D).
 
 * [An efficient line drawing algorithm](http://staffwww.itn.liu.se/~stegu/circle/circlealgorithm.pdf) by **Stefan Gustavson** (2003)
 
-An algorithm that's beautiful in its simplicity. I read this not for practical
-reasons, and so the clarity of the algorithm appealed to me greatly. I'm going
+An algorithm that’s beautiful in its simplicity. I read this not for practical
+reasons, and so the clarity of the algorithm appealed to me greatly. I’m going
 to write a blog post on this.
 
 * [A Cellular Texture Basis Function](http://www.rhythmiccanvas.com/research/papers/worley.pdf) by **Steven Worley** (1996)
 
 Another seminal paper, this time by Worley. I am fascinated by Voronoi cells
-and Worley's contribution makes them even more interesting to me. The paper is
+and Worley’s contribution makes them even more interesting to me. The paper is
 somewhat hard to read, though, not very hands-on and mathematical. I enjoyed it
-because I already knew the concept it explains, but if I hadn't I doubt I would
+because I already knew the concept it explains, but if I hadn’t I doubt I would
 have understood.
 
 * [Stackelberg Games for Adversarial Prediction Problems](https://pdfs.semanticscholar.org/2e82/acecef77e72e14eb805b7ee9c145ab00e726.pdf) by **Michael Brückner & Tobias Scheffer** (2011)
 
-My first dabblings into Adversarial AI. While the paper wasn't too enjoyable to
-read, the ideas are quite fun to work with. I'm interested in seeing an actual
+My first dabblings into Adversarial AI. While the paper wasn’t too enjoyable to
+read, the ideas are quite fun to work with. I’m interested in seeing an actual
 application in, say, a spam filter.
 
 Again, going through the paper with my reading group was what actually made me
-understand it. Otherwise I wouldn't have grokked it, I think.
+understand it. Otherwise I wouldn’t have grokked it, I think.
 
 * [Making digital filters sound "analog"](http://quod.lib.umich.edu/cgi/p/pod/dod-idx/making-digital-filters-sound-analog.pdf?c=icmc;idno=bbp2372.1992.009) by **Dave Rossum** (1992)
 
-Short, but interesting paper on analog modeling. I'm told this is another classic,
-although I feel like I'm missing the point a little. Maybe I'm not involved enough
+Short, but interesting paper on analog modeling. I’m told this is another classic,
+although I feel like I’m missing the point a little. Maybe I’m not involved enough
 to see the appeal.
 
 * [Practical Exhaustive Optimization Phase Order Exploration and Evaluation](http://www.cs.fsu.edu/~whalley/papers/taco09.pdf) by **Prasad A. Kulkarni et al.** (2008)
 
 Very well-written and clear paper on pahse ordering. I was surprised that the
-authors didn't try to keep a list of ordering "prefixes" (i.e. a dictionary
+authors didn’t try to keep a list of ordering "prefixes" (i.e. a dictionary
 from `sequence of phases` to `current output`) in memory to speed up the
-application-maybe the space used by this datum is higher than I' imagine?
-I'm also unfamiliar with the framework they used, so it might well be an
+application-maybe the space used by this datum is motr than I imagine?
+I’m also unfamiliar with the framework they used, so it might well be an
 infeasible idea in their environment.
 
 Then again, some of the numbers blew my mind: “For this study, we stop the
 exhaustive search on any function if the time required exceeded an approximate
 limit of 2 weeks. Please note that exhaustive phase order evaluation for most
 of the functions requires a few min utes or a few hours, with only the largest
-enumerated functions requiring a few days.” How is that even possible? It's
+enumerated functions requiring a few days.” How is that even possible? It’s
 the magic of exponentiality, I guess, but oh my.
 
-There's more that threw me off about the paper, though. The “results” section
-in particular had my alarm bells go off when the authors didn't detail why they
-excluded certain functions from the benchmark and the results. Maybe I'm too
+There’s more that threw me off about the paper, though. The “results” section
+in particular had my alarm bells go off when the authors didn’t detail why they
+excluded certain functions from the benchmark and the results. Maybe I’m too
 used to thinking in terms of psychology where this kind of methodological error
 has poisoned a lot of papers.
 
@@ -658,20 +658,28 @@ the grid and the role data centers play within it now. Highly recommendable,
 and I was especially intrigued to hear about the elaborate systems that are
 in play between consumers and producers of energy within the grid.
 
+* [Succinct Indexable Dictionaries with Applications to Encoding k-ary Trees, Prefix Sums and Multisets](https://arxiv.org/pdf/0705.0552.pdf) by **Raman et al.** (2007)
+
+An interesting paper for an interesting algorithmic problem that I currently
+don’t have. It is fairly theoretical in its description, spending a lot of time
+proving various of its properties. Nonetheless, I enjoyed the paper’s problems
+and proposed solutions. I might need some more time to think about it and its
+implications.
+
 ### Books
 
-* [You Can't Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
+* [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
 
-As one Reddit user helpfully put it: “You can't spell slaughter without laughter
-either”. Technically this is not a book but a master's thesis, but I'll count
+As one Reddit user helpfully put it: “You can’t spell slaughter without laughter
+either”. Technically this is not a book but a master’s thesis, but I’ll count
 it as a book for reasons of vanity. It is relatively readable, but not very
 exciting either. Rust excites me less and less the more I do with it, and this
-thesis didn't help. I'll read a bit more about it, but for now I'll have to
+thesis didn’t help. I’ll read a bit more about it, but for now I’ll have to
 conclude that Rust is not for me, neither theoretically nor practically.
 
 * *If Hemingway Wrote JavaScript* by **Angus Croll** (2014)
 
-One of the most delightful tech books I've ever read. It is whimsical, and
+One of the most delightful tech books I’ve ever read. It is whimsical, and
 while only tangentially pedagogical, an incredibly gratifying read. I expect
 to revisit it again and again—its disjointed nature makes this very easy and
 immediately valuable.
@@ -682,7 +690,7 @@ immediately valuable.
 * [A Study of Prisoners and Guards in a Simulated Prison](http://www.zimbardo.com/downloads/1973%20A%20Study%20of%20Prisoners%20and%20Guards,%20Naval%20Research%20Reviews.pdf) by **Philip Zimbardo et al.** (1973)
 
 One of the most famous papers of psychology. I had to read one
-of Zimbardo's books when studying psychology at University, but
+of Zimbardo’s books when studying psychology at University, but
 never got around to actually reading this infamous paper. It is
 both well-written and topically interesting, but extremely disturbing.
 I doubt any ethics committee would let an experiment like that
@@ -699,7 +707,7 @@ Of course, the situation described in this paper is not the
 situation we are in right now (we have gone a long way since
 the 70s after all), but we should be wary of the fact that back
 then, too, we thought we did things the right way when in fact
-we didn't.
+we didn’t.
 
 * [High-Selectivity Electrochemical Conversion of CO2 to Ethanol using a Copper Nanoparticle/N-Doped Graphene Electrode](http://onlinelibrary.wiley.com/doi/10.1002/slct.201601169/full) by **Yang Song et al.** (2016)
 
@@ -719,7 +727,7 @@ cheaper than traditional western medicine.
 * [Caesarean sections and for-profit status of hospitals: systematic review and meta-analysis](http://bmjopen.bmj.com/content/bmjopen/7/2/e013670.full.pdf) by **Olir Hoxha et al.** (2017)
 
 Somewhat unsettling research, but unsurprising—I am a cynic, after
-all. It's also not necessarily bad a priori that more C sections are
+all. It’s also not necessarily bad a priori that more C sections are
 performed, I guess, but it hints at an underlying profit-driven environment
 in profit-driven hospitals (duh). This holds true regardless of patient
 history, apparently, which, if generalizable (which I hope is not the case)
@@ -731,21 +739,21 @@ A highly entertaining read.
 
 * [Tezos:  A Self-Amending Crypto-Ledger Position Paper](https://www.tezos.com/pdf/position_paper.pdf) by **L.M. Goodman** (2014)
 
-I'm still pondering whether I should take part in the crowd sale.
+I’m still pondering whether I should take part in the crowd sale.
 But this sounds really cool.
 
 * [On the Typography Of Flight-Deck Documentation](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19930010781.pdf) by **Asaf Degani** (1992)
 
-One of the most insightful looks into typography that I've found.
-I don't anticipate I will be responsible for any flight-related
+One of the most insightful looks into typography that I’ve found.
+I don’t anticipate I will be responsible for any flight-related
 typography any time soon, but the advice given in this paper is
 rock-solid.
 
 * [Legible, are you sure? An experimentation-based typographical design in Safety-critical context](http://lii-enac.fr/articles/vinot-chi-2012.pdf) by **Jean-Luc Vinot & Sylvie Athènes** (2012)
 
 Related to the item above, but a bit more analytical and focusing
-on digital graphical interfaces instead of print. It's also not
-as easy to infer simple rules from the paper, but it's still
+on digital graphical interfaces instead of print. It’s also not
+as easy to infer simple rules from the paper, but it’s still
 presenting deep insights.
 
 *False Suffocation Alarms, Spontaneous Panics, and Related Conditions—An Integrative Hypothesis* by **Donald F. Klein** (1992)
@@ -776,42 +784,42 @@ quite nicely (starting at the paragraph labeled `3.`).
 * *Erzählte Zeit—50 deutsche Kurzgeschichten der Gegenwart* by **Manfred Durzak (Editor)** (1989)
 
 A great collection of German short stories detailling life in Germany
-during various periods of the 20th century. I don't think I can write
+during various periods of the 20th century. I don’t think I can write
 up a coherent comment about the book; there is just too much ground to
-cover. I skipped two short stories that didn't appeal to me writing-wise,
+cover. I skipped two short stories that didn’t appeal to me writing-wise,
 but other than that I was very happy with the layout, sequencing, and the
-stories themselves. I don't think there is a translation to any other
-language of this particular book, but I'm sure most of the individual
+stories themselves. I don’t think there is a translation to any other
+language of this particular book, but I’m sure most of the individual
 stories are translated.
 
 * *The Lover* by **Marguerite Duras** (1984)
 
-Beautifully written story; it was the first book I read of Duras' and I definitely
+Beautifully written story; it was the first book I read of Duras’ and I definitely
 missed out. I need to read the Hiroshima Mon Amour screenplay next, and I
-think I would like to see the movie, although I'm typically not a fan of
-movie adaptations if I really liked the book. We'll see.
+think I would like to see the movie, although I’m typically not a fan of
+movie adaptations if I really liked the book. We’ll see.
 
 * *Die Berliner Antigone—Erzählungen und Gedichte* by **Rolf Hochhuth** (1986)
 
-Although I'm not a big fan of his style—he is a touch too preachy, like many
+Although I’m not a big fan of his style—he is a touch too preachy, like many
 great German poets after the war, although for good reason—he delivers solid
 stories that are interesting as historical commentary. Both of the prose and
 the poems in this book are too clearly pointed for me, although I assume it is
 hard to write about the war and the holocaust without being preachy. One of the
-few who don't fall into that trap is Paul Celan, himself a holocaust survivor
-and incredible writer, and I don't think a comparison is fair.
+few who don’t fall into that trap is Paul Celan, himself a holocaust survivor
+and incredible writer, and I don’t think a comparison is fair.
 
 * *Selected Poems* by **E. E. Cummings (edited by Richard S. Kennedy)** (2007)
 
-I like E.E. Cummings' early and a few of his late poems. I have no taste for
+I like E.E. Cummings’ early and a few of his late poems. I have no taste for
 his cubist poems, and his poems dealing with love and sexuality are severely
 overrated in my eyes. The section introductions written by the editor try to
-give an overview over the author's views and environment that influenced his
+give an overview over the author’s views and environment that influenced his
 writing, but most of them end up being toadyish.
 
 * *Die Sekunden danach* by **Matthias Politycki** (2009)
 
-I reread it after years of not reading any of his works. It's still one of the
+I reread it after years of not reading any of his works. It’s still one of the
 most enjoyable poetry books on my shelf. His style is clear, but subtle, and
 effortlessly lighthearted. My favorite poems are about his random encounters,
 often with women, beautiful moments, captured in a clear and unspectacular
@@ -819,8 +827,8 @@ manner. I like his matter-of-fact tone a lot.
 
 * *On Value* by **Triple Canopy & Ralph Lemon** (2015)
 
-I purchased this book at the PS1 warmup party at MoMA. I don't know what I
-expected, but this surely wasn't it. I enjoyed the read, however. The book
+I purchased this book at the PS1 warmup party at MoMA. I don’t know what I
+expected, but this sure wasn’t it. I enjoyed the read, however. The book
 is a series of essays and conversations by and of modern artists, particularly
 dancers. Their throughts on their art and craft and its presentation felt both
 intimate and illuminating, curated and natural.

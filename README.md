@@ -51,6 +51,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Beating Floating Point at its Own Game: Posit Arithmetic](http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf) by **John L. Gustafson & Isaac Yonemoto** (2017)
 * [Insights into Sexism: Male Status and Performance Moderates Female-Directed Hostile and Amicable Behaviour](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131613&type=printable) by **Michael M. Kasumovic & Jeffrey H. Kuznekoff** (2015)
 * [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
+* [Herbarium Racketensis: A Stroll through the Woods (Functional Pearl)](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf) by **Vincent St-Amour** (2017)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

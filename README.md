@@ -771,6 +771,10 @@ Still not convinced.
 
 I thoroughly enjoyed this read, reading it as a joke.
 
+* [Is the Chocolate-Eating, Coffee-Drinking, Dog-Walking Red Wine Drinker a Prototype?](https://www.princeton.edu/~joha/publications/Haushofer_et_al_Food_Preferences.pdf) by **Haushofer et al.** (2014)
+
+It had to be tested.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

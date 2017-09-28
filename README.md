@@ -838,3 +838,11 @@ expected, but this sure wasn’t it. I enjoyed the read, however. The book
 is a series of essays and conversations by and of modern artists, particularly
 dancers. Their throughts on their art and craft and its presentation felt both
 intimate and illuminating, curated and natural.
+
+* *Scotland and Its Whiskies: The Great Whiskies and Their Landscapes* by
+  **Michael Jackson**
+
+A beautifully written book with equally beautiful photography. Michael Jackson
+is one of the best writers this most special of drinks has ever seen, and it
+was the writer it deserved. This book is a playful tale of a journey through
+Scotland and its pretty distilleries. Highly recommended read.

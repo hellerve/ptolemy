@@ -668,6 +668,20 @@ proving various of its properties. Nonetheless, I enjoyed the paper’s problems
 and proposed solutions. I might need some more time to think about it and its
 implications.
 
+* [How to Write a 21st Century Proof](https://lamport.azurewebsites.net/pubs/proof.pdf) by **Leslie Lamport** (2012)
+
+I’ve been obsessing over TLA+ for the last few days, and reading Lamport’s
+papers about it has been a highly entertaining addition to my currculum. I’m
+not sure I will ever find the time to tinker with it enough to suggest it to my
+clients, but I’ll sure as hell try.
+
+* [Euclid Writes an Algorithm: A Fairytale](https://lamport.azurewebsites.net/pubs/euclid.pdf) by **Leslie Lamport** (2011)
+
+A cute little story that has an underhanded agenda (I don’t particularly like
+that, but in this case I was aware what it would be and read the paper for it
+anyway). The illustrations are not my cup of tea, and the humor is not mine
+necessarily, either, but the contents are educational.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

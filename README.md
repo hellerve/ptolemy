@@ -689,6 +689,13 @@ of branching using search trees always seemed like overkill to me, but clearly
 there must be something there. I’m not a performance expert, after all, and the
 explanations provided in this paper are fairly impressive.
 
+* [The Implementation of Case Statements in Pascal](http://eprints.utas.edu.au/126/1/CaseStmts.pdf) by **Arthur Sale** (1981)
+
+This paper is mostly interesting for historical purposes: the considerations
+applied to compiler optimizations were completely different, largely driven by
+resource constraints that we generally can forget about—this doesn’t mean that
+we don’t have problems with the efficiency of compilers anymore, of course.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

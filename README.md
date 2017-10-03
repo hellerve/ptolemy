@@ -696,6 +696,15 @@ applied to compiler optimizations were completely different, largely driven by
 resource constraints that we generally can forget about—this doesn’t mean that
 we don’t have problems with the efficiency of compilers anymore, of course.
 
+* [A Superoptimizer Analysis of Multiway Branch Code Generation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.602.1875&rep=rep1&type=pdf) by **Roger Anthony Sayle** (2008)
+
+This paper tries to be an update for the above Pascal Case paper. One major
+update, apart from 27 years of research difference, is that the author actually
+tries to go through the data to find out which approaches to optimization would
+actually make a difference. This is something that Sale—the author of the 1981
+paper—requested, and so, over a quarter of a century later, he got what he
+asked for.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

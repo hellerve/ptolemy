@@ -682,6 +682,13 @@ that, but in this case I was aware what it would be and read the paper for it
 anyway). The illustrations are not my cup of tea, and the humor is not mine
 necessarily, either, but the contents are educational.
 
+* [On Conditional Branches in Optimal Search Trees](https://arxiv.org/pdf/cs/0604016.pdf) by **Michael B. Baer** (2006)
+
+Pretty intersting paper on the performance of branching. The implementation
+of branching using search trees always seemed like overkill to me, but clearly
+there must be something there. I’m not a performance expert, after all, and the
+explanations provided in this paper are fairly impressive.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

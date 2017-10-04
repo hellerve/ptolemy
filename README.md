@@ -705,6 +705,12 @@ actually make a difference. This is something that Sale—the author of the 1981
 paper—requested, and so, over a quarter of a century later, he got what he
 asked for.
 
+* [FSA-based Packet Filters](http://staff.polito.it/riccardo.sisto/cisco/report.pdf) by **Pierluigi Rolando et al.** (?)
+
+Highly detailed paper on packet filtering that highlights a few of the more
+interesting optimizations that are possible in filters. I enjoyed the in-depth
+descriptions of the algorithms used to reduce memory and CPU usage.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -711,6 +711,15 @@ Highly detailed paper on packet filtering that highlights a few of the more
 interesting optimizations that are possible in filters. I enjoyed the in-depth
 descriptions of the algorithms used to reduce memory and CPU usage.
 
+* [The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf) by **M. Anton Ertl & David Gregg** (2003)
+
+This paper didn’t age particularly well in real numbers, but the general
+assessments are still more or less true. Of course some of the statements—Java
+being 119 times slower than C, for instance—are incredibly outdated, but the
+optimizations (threaded code vs. switch statements, for instance) are still
+fresh. The title, however is a little misleading, because it’s mostly about
+branching, not general efficiency.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

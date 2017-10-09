@@ -720,6 +720,13 @@ optimizations (threaded code vs. switch statements, for instance) are still
 fresh. The title, however is a little misleading, because it’s mostly about
 branching, not general efficiency.
 
+* [The Anatomy of a Search Engine](http://infolab.stanford.edu/~backrub/google.html) by **Sergey Brin & Lawrence Page** (1998)
+
+It baffles me that this paper is less than 20 years old. So much has changed
+with the advent of the tool described in this paper. It’s a fun read, but
+somewhat frightening. I like how open the early architecture of Google was,
+because it is an interesting piece of technology.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

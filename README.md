@@ -727,6 +727,13 @@ with the advent of the tool described in this paper. It’s a fun read, but
 somewhat frightening. I like how open the early architecture of Google was,
 because it is an interesting piece of technology.
 
+* [Iago Attacks: Why the System Call API is a Bad Untrusted RPC Interface](https://cseweb.ucsd.edu/~hovav/dist/iago.pdf) by **Stephen Checkoway & Hovav Shacham** (2013)
+
+I can’t say I understand the threat model of this paper fully, but what I can
+say is that the technical details are interesting, and the descriptions are
+worth reading. I quite enjoy learning about the nitty-gritty internals of
+memory allocators, even if their explicit goal is to break applications.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

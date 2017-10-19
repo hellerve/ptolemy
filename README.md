@@ -912,3 +912,10 @@ A beautifully written book with equally beautiful photography. Michael Jackson
 is one of the best writers this most special of drinks has ever seen, and it
 was the writer it deserved. This book is a playful tale of a journey through
 Scotland and its pretty distilleries. Highly recommended read.
+
+* *The Witch’s Vacuum Cleaner* by **Terry Pratchett**
+
+Terry Pratchett at his youngest. The stories are incredibly charming and cute,
+and it is well suited for reading to anyone, though I’d recommend someone who’s
+close to you. Strangers can act funny if you shout even the best stories at
+them.

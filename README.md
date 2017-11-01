@@ -734,6 +734,13 @@ say is that the technical details are interesting, and the descriptions are
 worth reading. I quite enjoy learning about the nitty-gritty internals of
 memory allocators, even if their explicit goal is to break applications.
 
+* [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf) by **Tomas Kalibera & Richard Jones**
+
+This paper seemed very familiar—I think I’ve read it before, but forgot to put
+it on here. It’s fairly nice in its demands for rigour in benchmarking, and pretty
+useful for me at the moment. Let’s see how I do in implementing ideas from this
+paper—I’ve not been known for my scientific rigour in the past.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

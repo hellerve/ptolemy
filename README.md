@@ -913,21 +913,21 @@ dancers. Their throughts on their art and craft and its presentation felt both
 intimate and illuminating, curated and natural.
 
 * *Scotland and Its Whiskies: The Great Whiskies and Their Landscapes* by
-  **Michael Jackson**
+  **Michael Jackson** (2001)
 
 A beautifully written book with equally beautiful photography. Michael Jackson
 is one of the best writers this most special of drinks has ever seen, and it
 was the writer it deserved. This book is a playful tale of a journey through
 Scotland and its pretty distilleries. Highly recommended read.
 
-* *The Witch’s Vacuum Cleaner* by **Terry Pratchett**
+* *The Witch’s Vacuum Cleaner* by **Terry Pratchett** (2017)
 
 Terry Pratchett at his youngest. The stories are incredibly charming and cute,
 and it is well suited for reading to anyone, though I’d recommend someone who’s
 close to you. Strangers can act funny if you shout even the best stories at
 them.
 
-* [CLOSURE](https://github.com/steveklabnik/CLOSURE) by **\_why, the lucky stiff**
+* [CLOSURE](https://github.com/steveklabnik/CLOSURE) by **\_why, the lucky stiff** (2013)
 
 I was quite obsessed with \_why for some time, ca. 2012. Over the years I’ve
 thought of him every now and then, but I didn’t know about this last relic he

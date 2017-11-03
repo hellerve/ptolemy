@@ -759,6 +759,12 @@ while only tangentially pedagogical, an incredibly gratifying read. I expect
 to revisit it again and again—its disjointed nature makes this very easy and
 immediately valuable.
 
+* *How Not to Program in C++* by **Steve Oualline** (2003)
+
+This book didn’t age very well. Much of its content feels outdated, and some of
+the brain teasers feel petty, just fluff to fill up the book. I enjoyed a few
+of the riddles a lot, but in general I was annoyed at them pretty quickly.
+
 ## Recreational
 
 ### Papers

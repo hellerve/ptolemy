@@ -772,6 +772,10 @@ This book didn’t age very well. Much of its content feels outdated, and some o
 the brain teasers feel petty, just fluff to fill up the book. I enjoyed a few
 of the riddles a lot, but in general I was annoyed at them pretty quickly.
 
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://nickm.com/trope_tank/10_PRINT_121114.pdf) by **Nick Montfort et al.** (2013)
+
+It’s pretty grandiose.
+
 ## Recreational
 
 ### Papers

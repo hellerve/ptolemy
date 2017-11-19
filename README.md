@@ -741,6 +741,13 @@ it on here. It’s fairly nice in its demands for rigour in benchmarking, and pr
 useful for me at the moment. Let’s see how I do in implementing ideas from this
 paper—I’ve not been known for my scientific rigour in the past.
 
+* [Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays](https://infoscience.epfl.ch/record/52465/files/IC_TECH_REPORT_200244.pdf) by **Phil Bagwell** (2002)
+
+An interesting idea; I admire Phil Bagwell’s work on data structures, and this
+paper doesn’t let me down. Though it is at times very hard to read, the
+contents are highly stimulating. One of the more promising data structures
+that I’ve recently discovered.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

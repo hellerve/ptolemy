@@ -748,6 +748,19 @@ paper doesn’t let me down. Though it is at times very hard to read, the
 contents are highly stimulating. One of the more promising data structures
 that I’ve recently discovered.
 
+* [Lively Linear Lisp — 'Look Ma, No Garbage!'](http://home.pipeline.com/~hbaker1/LinearLisp.html) by **Henry G. Baker** (1991)
+
+This is a little pearl, dense, powerful and beautiful. There is some deep
+insight in this paper, although some of the statements rely on a purely
+functional—in the sense of not performing IO—environment, such as “Nested
+functional composition has the obvious mechanical interpretation, since the
+intermediate results are utilized by exactly one consumer. The mechanical
+metaphor also shows that parallel execution of subexpressions is possible
+and correct (so long as the primitive CONS itself—the creator of argument
+lists—evaluates its arguments in parallel), since there is no mechanism whereby
+the subexpressions can communicate.”, which in my mind is only sensible in a
+“box is getting hot” environment.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -761,6 +761,14 @@ lists—evaluates its arguments in parallel), since there is no mechanism whereb
 the subexpressions can communicate.”, which in my mind is only sensible in a
 “box is getting hot” environment.
 
+* [A Little Implementation Language](http://www.ultimate.com/phil/lil/lil.html) by **P.J. Plauger** (1976)
+
+The language described is cute and the idea beautiful. While I agree with the
+author that a language like this might not be needed in this day and age—and,
+admittedly, not in the last 40 years—I think it would be rewarding and possibly
+worth it to investigate whether it is suited as an intermediate representation
+for a compiler, similar to the god-awful LLVM IR, but more readable.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

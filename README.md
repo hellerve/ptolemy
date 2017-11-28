@@ -971,3 +971,10 @@ I was quite obsessed with \_why for some time, ca. 2012. Over the years I’ve
 thought of him every now and then, but I didn’t know about this last relic he
 gave to his followers—I don’t think he’d like that term very much, but I think
 it’s appropriate. Anyway, I devoured it. It’s pretty great.
+
+* *He sacado mi esperanza a lucir* by **Hans-Eckardt Wenzel** (2014)
+
+A beautiful book of poems by one of my favorite German musicians. I picked it
+up when I saw him live—books are great memorabilia. The poems are great in
+their own right, but it’s even better if you want to learn Spanish from German
+or the other way around, because it’s also quite wordy poetry.

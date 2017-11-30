@@ -769,6 +769,13 @@ admittedly, not in the last 40 years—I think it would be rewarding and possibl
 worth it to investigate whether it is suited as an intermediate representation
 for a compiler, similar to the god-awful LLVM IR, but more readable.
 
+* [The use of subroutines in programmes](http://www.laputan.org/pub/papers/wheeler.pdf) by **David J. Wheeler** (1952)
+
+It is sometimes baffling to me now that practices that are now very much the
+norm have not always been the norm. Of course I rationally know this to be the
+case, but it is still surprising when a paper like this one catches me
+off-guard.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

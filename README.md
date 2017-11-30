@@ -978,3 +978,17 @@ A beautiful book of poems by one of my favorite German musicians. I picked it
 up when I saw him live—books are great memorabilia. The poems are great in
 their own right, but it’s even better if you want to learn Spanish from German
 or the other way around, because it’s also quite wordy poetry.
+
+* *Nachtstücke* by **E.T.A. Hoffmann (Artemis und Winkler edition)** (2012)
+
+I knew all of the stories in this book already, but haven’t read them in years
+and this edition is a little different from what I remembered. It’s a classic
+of German romantic literature, and rightfully so. Others have said better than
+I ever could what this book is.
+
+* *Herz, stirb oder singe* by **Juan Ramón Jiménez (Diogenes edition)** (1977)
+
+A gorgeous book of poems that I’ve read a bunch of times over the years. It has
+been very influential on my poetry and, less obviously, my Spanish. This
+edition is uncharacteristically sparse on detail on the author, which intrigued
+teenage me even more. Now, of course, Jiménez is one of my favorite poets.

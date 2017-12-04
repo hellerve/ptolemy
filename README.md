@@ -999,3 +999,11 @@ A gorgeous book of poems that I’ve read a bunch of times over the years. It ha
 been very influential on my poetry and, less obviously, my Spanish. This
 edition is uncharacteristically sparse on detail on the author, which intrigued
 teenage me even more. Now, of course, Jiménez is one of my favorite poets.
+
+* *Unter dem Stern des Bösen* by **Gabriel García Márquez** (1966)
+
+A confusing little book that I love. It’s another one of the books I just had
+to reread this year, especially because I’m reading another one of his in
+Spanish right now, very slowly and despairing about whether I will ever not be
+terrible at the language. This one I read in German, and it was like visiting
+an old friend with a different address, familiar, yet different.

@@ -776,6 +776,14 @@ norm have not always been the norm. Of course I rationally know this to be the
 case, but it is still surprising when a paper like this one catches me
 off-guard.
 
+* [Some Were Meant for C—The Endurance of an Unmanageable Language](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf) by **Kell** (2017)
+
+I come from an entirely different school than the author of this paper, and
+naturally I disagree with him. It is, however, a deeply insightful paper with
+a lot of interesting ideas about how and why C is still unparalleled in certain
+areas. A highly educational read with a selection of fun little programs to
+look at.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

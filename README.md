@@ -1015,3 +1015,10 @@ to reread this year, especially because I’m reading another one of his in
 Spanish right now, very slowly and despairing about whether I will ever not be
 terrible at the language. This one I read in German, and it was like visiting
 an old friend with a different address, familiar, yet different.
+
+* *Parzival* by **Wolfram von Eschenbach (Schöningh Edition)** (1965)
+
+This is one of the most pleasurable editions of Parzival that I’ve read. It is
+a small selection of the core stories within the book, which makes it a little
+more palatable to the modern reader. It is less meandering and more focused,
+although it is still a fairly foreign read.

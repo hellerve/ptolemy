@@ -812,6 +812,15 @@ of the riddles a lot, but in general I was annoyed at them pretty quickly.
 
 It’s pretty grandiose.
 
+* [97 things every programmer should know](https://www.gitbook.com/book/97-things-every-x-should-know/97-things-every-programmer-should-know/details) by **Kevlin Henney (editor)** (2010)
+
+While most of the adivce in this book is fairly solid, the writing varies
+wildly. Some of the experts could’ve used a lot more editor attention, but who
+am I to judge? The contents are fairly light, and I think most of the advice is
+not as profound or rarely brought to the attention of us lowly developers as
+the authors think. Maybe I’m just still grumpy about Uncle Bob’s incoherent
+ramblings, who knows.
+
 ## Recreational
 
 ### Papers

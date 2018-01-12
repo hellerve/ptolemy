@@ -777,13 +777,20 @@ norm have not always been the norm. Of course I rationally know this to be the
 case, but it is still surprising when a paper like this one catches me
 off-guard.
 
-* [Some Were Meant for C—The Endurance of an Unmanageable Language](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf) by **Kell** (2017)
+* [Some Were Meant for C—The Endurance of an Unmanageable Language](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf) by **Stephen Kell** (2017)
 
 I come from an entirely different school than the author of this paper, and
 naturally I disagree with him. It is, however, a deeply insightful paper with
 a lot of interesting ideas about how and why C is still unparalleled in certain
 areas. A highly educational read with a selection of fun little programs to
 look at.
+
+* [The rsync algorithm](https://www.andrew.cmu.edu/course/15-749/READINGS/required/cas/tridgell96.pdf) by **Andrew Tridgell & Paul Mackerras** (1996)
+
+rsync is a remarkable piece of software, and the algorithm that powers it is
+testament to that. I love this description of the algorithm, high-level and
+short as it might be. It is quite enjoyable to read, and I think I understood
+the algorithm itself quite well.
 
 ### Books
 

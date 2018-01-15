@@ -1039,3 +1039,9 @@ This is one of the most pleasurable editions of Parzival that I’ve read. It is
 a small selection of the core stories within the book, which makes it a little
 more palatable to the modern reader. It is less meandering and more focused,
 although it is still a fairly foreign read.
+
+* *Brigitta* by **Adalbert Stifter** (Reclam edition from 2003)
+
+One of the more boring books that I’ve read in my life. The story is not
+necessarily bad, but the writing reads incredibly self-indulgent to me. It is
+fairly short and has pretty parts, but on a whole I didn’t enjoy reading it.

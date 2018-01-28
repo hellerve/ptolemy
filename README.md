@@ -1045,3 +1045,10 @@ although it is still a fairly foreign read.
 One of the more boring books that I’ve read in my life. The story is not
 necessarily bad, but the writing reads incredibly self-indulgent to me. It is
 fairly short and has pretty parts, but on a whole I didn’t enjoy reading it.
+
+* *Gute Reise, Genosse* by **Kirill Gradov** (1984)
+
+Insightful book into the life in the Sovjet Union. I first read it when I was
+around 12 years old, and it had great influence on the way I pictured living in
+the Sovjet Union. It is still a nice read, and feels like a glimpse into a
+foreign world.

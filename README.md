@@ -792,6 +792,14 @@ testament to that. I love this description of the algorithm, high-level and
 short as it might be. It is quite enjoyable to read, and I think I understood
 the algorithm itself quite well.
 
+* [The Paradigms of Programming](https://dl.acm.org/citation.cfm?id=359140) by **Robert Floyd** (1979)
+
+Turing award speeches are always a good place to look for interesting ideas,
+and this one is no exception. The picture Floyd paints of our profession is
+still depressingly accurate—to the point that you wonder how we still haven’t
+learned from it. But then again, such is the case with many of the papers on
+this list.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

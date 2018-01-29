@@ -1052,3 +1052,10 @@ Insightful book into the life in the Sovjet Union. I first read it when I was
 around 12 years old, and it had great influence on the way I pictured living in
 the Sovjet Union. It is still a nice read, and feels like a glimpse into a
 foreign world.
+
+* *Zero To One: Notes on Startups, or How to Build the Future* by **Peter Thiel & Blake Masters** (2014)
+
+I’m not in the crazy startup space that Thiel and Masters describe, and I’m
+quite happy about that. There is some insight in that book, and a bunch of
+bullshit and survival bias. It’s written quite entertainingly, and sifting
+through it for the gems is never boring, so I quite enjoyed the read.

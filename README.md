@@ -800,6 +800,14 @@ still depressingly accurate—to the point that you wonder how we still haven’
 learned from it. But then again, such is the case with many of the papers on
 this list.
 
+* [Some thoughts on security after ten years of qmail 1.0](https://cr.yp.to/qmail/qmailsec-20071101.pdf) by **Daniel Bernstein** (2007)
+
+While his writing is a little obnoxious, the insight imparted on us in this
+paper is extremely valuable. The ideas are all simple, which is what makes them
+so great. I will definitely steal some of the design ideas for the next project
+that I have to design and build from scratch; some are even applicable without
+a major redesign/rebuild.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1075,3 +1075,9 @@ I’m not in the crazy startup space that Thiel and Masters describe, and I’m
 quite happy about that. There is some insight in that book, and a bunch of
 bullshit and survival bias. It’s written quite entertainingly, and sifting
 through it for the gems is never boring, so I quite enjoyed the read.
+
+* *Prosaminiaturen—Opus III* by **Wolfgang Haak** (2008)
+
+Paul Celan and he have influenced my writing—in German— like no other
+writers have. This is one of my favorite books, and I read it every other
+year, at least partially. Highly recommmended read.

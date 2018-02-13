@@ -808,6 +808,12 @@ so great. I will definitely steal some of the design ideas for the next project
 that I have to design and build from scratch; some are even applicable without
 a major redesign/rebuild.
 
+* [When Textbook RSA is Used to Protect the Privacy of Hundreds of Millions of Users](https://arxiv.org/pdf/1802.03367.pdf) by **Jeffrey Knockel et al.** (2018)
+
+This is one of the scariest things I’ve read in this list. While many of the
+flaws are depressingly basic, they’re also not ounlandish, in a perverse way.
+One more reason to be sad at the state of programming as a craft and science.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

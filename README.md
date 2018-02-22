@@ -1087,3 +1087,10 @@ through it for the gems is never boring, so I quite enjoyed the read.
 Paul Celan and he have influenced my writing—in German— like no other
 writers have. This is one of my favorite books, and I read it every other
 year, at least partially. Highly recommmended read.
+
+* *Writings to an Unfinished Accompaniment* by **W. S. Mervin** (1976)
+
+Mervin is one of my favorite American poets. I didn’t know him before I found a
+double edition of this and another of his books in a used book store in Berlin.
+I devoured them. He is definitely part of the canon, but somehow I didn’t hear
+about him until very late.

@@ -1094,3 +1094,9 @@ Mervin is one of my favorite American poets. I didn’t know him before I found 
 double edition of this and another of his books in a used book store in Berlin.
 I devoured them. He is definitely part of the canon, but somehow I didn’t hear
 about him until very late.
+
+* *The Moving Target* by **W. S. Mervin** (1976)
+
+I prefer the book above, but it is interesting to see how Mervin’s writing
+changed and developed over the years. Had I read this one first, however, I
+probably wouldn’t have been enamoured with his writing as much.

@@ -1100,3 +1100,10 @@ about him until very late.
 I prefer the book above, but it is interesting to see how Mervin’s writing
 changed and developed over the years. Had I read this one first, however, I
 probably wouldn’t have been enamoured with his writing as much.
+
+* *Eiche und Angora* by **Martin Walser** (1962)
+
+A painful and funny, sad and satiristic play. I didn’t know about it before
+finding it in a used book store, and read it within a few days. It is touching
+while still maintaining its comedy. This might be my new favorite play, and my
+favorite book to deal with Germany’s disgraceful past.

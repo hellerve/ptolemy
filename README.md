@@ -1107,3 +1107,10 @@ A painful and funny, sad and satiristic play. I didn’t know about it before
 finding it in a used book store, and read it within a few days. It is touching
 while still maintaining its comedy. This might be my new favorite play, and my
 favorite book to deal with Germany’s disgraceful past.
+
+* *Erzählungen* by **Christa Wolf** (1983)
+
+I’m a big fan of Wolf’s writing. She is often introduced as one of East
+Germany’s most important writers, and rightfully so. Her short stories are
+surprisingly critical of the regime (surprising that they were published, that
+is to say), and incredibly candid.

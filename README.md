@@ -814,6 +814,15 @@ This is one of the scariest things I’ve read in this list. While many of the
 flaws are depressingly basic, they’re also not ounlandish, in a perverse way.
 One more reason to be sad at the state of programming as a craft and science.
 
+* [Optimizing Pattern Matching](http://pauillac.inria.fr/~maranget/papers/opat/) by **Fabrice Le Fessant & Luc Maranget** (2001)
+
+One thing that struck me while reading thee papers was how *simple* most of the
+discussed optimizations were. While I’ve very publicly dabbled in compiler
+development from time to time, many optimization techniques I’ve looked at
+still seem scary and complex. Not the ones described in this paper. I don’t know
+whether that’s a testament to the author’s abilities to describe them—to me,
+anyway— or rather due to their objective simplicity.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

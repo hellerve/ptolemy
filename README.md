@@ -821,7 +821,17 @@ discussed optimizations were. While I’ve very publicly dabbled in compiler
 development from time to time, many optimization techniques I’ve looked at
 still seem scary and complex. Not the ones described in this paper. I don’t know
 whether that’s a testament to the author’s abilities to describe them—to me,
-anyway— or rather due to their objective simplicity.
+anyway—or rather due to their objective simplicity.
+
+* [Notation as a Tool of Thought](http://www.jsoftware.com/papers/tot.htm) by **Kenneth E. Iverson** (1979)
+
+This paper is all over the place. I didn’t particularly enjoy reading it, even
+though I admire Iverson greatly. The point he was trying to make was, at least
+in my eyes, poorly illuminated, especially due to him repeatedly jumping into
+long-winded examples—in fact, a significant part of this paper is spent on
+explaining solutions to various problems that I didn’t care about going in: what
+I wanted to hear was how mathematical notation is flawed, and how Iverson
+intends to fix it.
 
 ### Books
 

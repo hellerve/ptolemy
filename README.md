@@ -870,6 +870,25 @@ not as profound or rarely brought to the attention of us lowly developers as
 the authors think. Maybe I’m just still grumpy about Uncle Bob’s incoherent
 ramblings, who knows.
 
+* [The Craft of Text Editing](http://www.finseth.com/craft/) by **Craig A. Finseth** (1999)
+
+I had to read this one, what with me implementing [my own terminal
+editor](https://github.com/hellerve/e) and all. There is a lot of interesting
+information in this one. Some of it is purely historical, as some standards have
+popped up and changed the assumptions (for instance UTF-8, ANSI escape
+sequences, and such). Some of it is still interesting.
+
+Reading this gave me feature envy for `e`, but I think it’s best if I don’t
+change it, even if some algorithmic improvement woud arguably be low effort and
+high impact. Take for instance gap buffers: they are fairly well understood and,
+considering all the resources that you get on them, more or less trivial to
+implement. But `e` is an editor mostly for programming and writing “regular”
+prose, where the lines aren’t all that long. Add this fact to the consideration
+that, while gap buffers are easy to implement, they would complect the design of
+the editor, and I’d veto them until they prove necessary to my users—of which
+there aren’t many, as I assume—or to me. So, while it was an interesting read, I
+will refrain from implementing my new-found knowledge prematurely.
+
 ## Recreational
 
 ### Papers

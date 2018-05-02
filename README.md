@@ -833,6 +833,15 @@ explaining solutions to various problems that I didn’t care about going in: wh
 I wanted to hear was how mathematical notation is flawed, and how Iverson
 intends to fix it.
 
+[A little Scheme in Pharo](https://files.pharo.org/books-pdfs/booklet-AMiniSchemeInPharo/2018-03-17-MiniScheme.pdf) by **Stéphane Ducasse & Guillermo Polito** (2018)
+
+This paper is fun to reimplement. It’s more of a tutorial than a paper, really.
+What’s especially fun about this is that, intentionally or not, some of the code
+required to make this work is missing (namely applying primitives). As a total
+Pharo newbie, it was fun to figure out how to do this. It took me two
+approaches, but I was pleased with the final result. And it sure helped make my
+workflow more efficient.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1161,3 +1161,9 @@ I’m a big fan of Wolf’s writing. She is often introduced as one of East
 Germany’s most important writers, and rightfully so. Her short stories are
 surprisingly critical of the regime (surprising that they were published, that
 is to say), and incredibly candid.
+
+* *Der Revisor* by **Nikolai Gogol** (1836)
+
+It is quite fascinating how this pushed all of my buttons. I was deeply annoyed
+with almost every character in the story (which is exactly what the author
+wanted, I suppose). I’d love to see it on stage sometime.

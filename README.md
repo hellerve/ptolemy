@@ -987,6 +987,12 @@ I thoroughly enjoyed this read, reading it as a joke.
 
 It had to be tested.
 
+* [Motivation and Nonsense in Chinese Secret Languages](https://brannerchinese.com/publications/Branner_final_pre-publication_draft_of_Secret_Languages_paper_dated_201004_corrections20111004.pdf) by **David P. Brenner** (2010)
+
+One of the most interesting, readable papers I’ve ever read. The ease with which
+the topics are discussed and broken down, even for laymen like me, is positively
+startling, in a good way.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

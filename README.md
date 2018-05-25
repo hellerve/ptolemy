@@ -1173,3 +1173,10 @@ is to say), and incredibly candid.
 It is quite fascinating how this pushed all of my buttons. I was deeply annoyed
 with almost every character in the story (which is exactly what the author
 wanted, I suppose). I’d love to see it on stage sometime.
+
+* *Lenz* by **Georg Büchner** (1839)
+
+Terribly fascinating in both story and backstory. The reclam edition I read came
+bundled with a few resources and a very comprehensive explanation of the history
+and context of this fragment. It is very disjointed, but beautifully written and
+highly gripping.

@@ -1180,3 +1180,9 @@ Terribly fascinating in both story and backstory. The reclam edition I read came
 bundled with a few resources and a very comprehensive explanation of the history
 and context of this fragment. It is very disjointed, but beautifully written and
 highly gripping.
+
+* *Der zerbrochene Krug* by **Heinrich von Kleist** (1807)
+
+A weird, but satisfying book. As with Lenz, the backstory—particularly the bits
+about Goethe—are fascinating as well. I understand it doesn’t jive well with
+audiences, but that’s a mark of many great plays anyway.

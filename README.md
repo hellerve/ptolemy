@@ -1186,3 +1186,12 @@ highly gripping.
 A weird, but satisfying book. As with Lenz, the backstory—particularly the bits
 about Goethe—are fascinating as well. I understand it doesn’t jive well with
 audiences, but that’s a mark of many great plays anyway.
+
+* *Antigone* by **Sophocles** (Translation by Wilhelm Kuchenmüller, 1955)
+
+This short play, in a beautiful translation by a capable philologist, sucks even
+the reader in with its mesmerizing rhythm (iambic pentameter throughout). It’s
+a compelling story set after the fallout of the Seven Against Thebes that
+imagines the fate of Antigone and Ismene after Eteokles and Polynices died. It
+is powerful in its appeal to humanity and as an example of what happens when
+power and rage combine to blind their master.

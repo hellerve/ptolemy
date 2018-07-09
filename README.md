@@ -910,6 +910,10 @@ both well-written and topically interesting, but extremely disturbing.
 I doubt any ethics committee would let an experiment like that
 happen these days.
 
+*EDIT:* It is also harshly criticized these days. If you want to read
+dissenting voices, I suggest you check out [this
+article](https://medium.com/s/trustissues/the-lifespan-of-a-lie-d869212b1f62).
+
 * [On Being Sane In Insane Places](https://isites.harvard.edu/fs/docs/icb.topic625827.files/On_Being_Sane_In_Insane_Places-1.pdf) by **David Rosenhan** (1973)
 
 Another very interesting pyschological paper that I discovered

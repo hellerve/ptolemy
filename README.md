@@ -1199,3 +1199,13 @@ a compelling story set after the fallout of the Seven Against Thebes that
 imagines the fate of Antigone and Ismene after Eteokles and Polynices died. It
 is powerful in its appeal to humanity and as an example of what happens when
 power and rage combine to blind their master.
+
+* *Die Germanen* by **Rudolf Simek** (2006)
+
+This book is a good, non-ideological look at the histories of the Germanic
+peoples, how they connect, how they differ, and how they interrelate with other
+cultures of the time (mostly the Huns and the Romans). I very much enjoyed
+reading this, because it helped understand that the Germanic peoples were not
+just barbarians, but also not the peoples the Germans or Slavic people owe their
+heritage to. It’s more complex than that, and this book does not shy away from
+the complexity, isntead embracing it and trying to make sense of it.

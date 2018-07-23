@@ -1209,3 +1209,10 @@ reading this, because it helped understand that the Germanic peoples were not
 just barbarians, but also not the peoples the Germans or Slavic people owe their
 heritage to. It’s more complex than that, and this book does not shy away from
 the complexity, isntead embracing it and trying to make sense of it.
+
+* *Ein fliehendes Pferd* by **Martin Walser** (1978)
+
+This is the third book by Martin Walser that I read this year. This year, he’s
+slowly morphing into my favorite author. His calm, collected writing, centered
+around realistic characters, is both entertaining and insightful. This book in
+particular has a beautiful calmness about it.

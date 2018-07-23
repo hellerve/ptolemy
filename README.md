@@ -1172,6 +1172,11 @@ Germany’s most important writers, and rightfully so. Her short stories are
 surprisingly critical of the regime (surprising that they were published, that
 is to say), and incredibly candid.
 
+* *Brief an Lord Liszt* by **Martin Walser** (1982)
+
+This book is deeply personal and honest, a recollection of a feud without
+fingerpointing, but with all of the drama. Masterfully crafted and cutting.
+
 * *Der Revisor* by **Nikolai Gogol** (1836)
 
 It is quite fascinating how this pushed all of my buttons. I was deeply annoyed

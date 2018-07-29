@@ -1221,3 +1221,14 @@ This is the third book by Martin Walser that I read this year. This year, he’s
 slowly morphing into my favorite author. His calm, collected writing, centered
 around realistic characters, is both entertaining and insightful. This book in
 particular has a beautiful calmness about it.
+
+## Management
+
+### Books
+
+* *[The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)* by **Matt Mochary** (2018)
+
+This book is astonishingly good. While I work for a consultancy and not a
+startup and face a very different set of opportunities and challenges than
+startup management does, large parts of this book were insightful, useful, and
+interesting to read. What a way to start my management section.

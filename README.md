@@ -1222,6 +1222,13 @@ slowly morphing into my favorite author. His calm, collected writing, centered
 around realistic characters, is both entertaining and insightful. This book in
 particular has a beautiful calmness about it.
 
+* *Pankraz der Schmoller* by **Gottfried Keller** (1856)
+
+This might be my least favorite book of this year. Even though it is short, it
+was hard for me to get through. I quite enjoyed the afterword, as it gave me
+some context about the book and the period it was written in, but the book
+itself wasn’t my cup of tea at all.
+
 ## Management
 
 ### Books

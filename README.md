@@ -1229,6 +1229,16 @@ was hard for me to get through. I quite enjoyed the afterword, as it gave me
 some context about the book and the period it was written in, but the book
 itself wasn’t my cup of tea at all.
 
+* *The Truth* by **Terry Pratchett** (2000)
+
+This was one of the first discworld novels I ever read, and I still enjoy it.
+Nuff said.
+
+* *The Black Swan: The Impact of the Highly Improbable* by **Nassim Nicholas Taleb** (2007)
+
+Very informal and pretty insightful, but obscured by an unnecessarily relaxed
+style that makes some of the reasoning feel pretty sloppy.
+
 ## Management
 
 ### Books

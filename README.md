@@ -1241,6 +1241,15 @@ style that makes some of the reasoning feel pretty sloppy.
 
 ## Management
 
+### Papers
+
+* [Open Source Archetypes: A Framework For Purposeful Open Source](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) by **Mozilla Foundation & Open Tech Strategies** (2018)
+
+This book provides a good overview of open source archetypes (duh) that can help
+in the decision when and how to go about creating a community and licensing your
+software as open source. Obviously a great amount of work was invested in
+creating this.
+
 ### Books
 
 * *[The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)* by **Matt Mochary** (2018)

@@ -842,6 +842,13 @@ Pharo newbie, it was fun to figure out how to do this. It took me two
 approaches, but I was pleased with the final result. And it sure helped make my
 workflow more efficient.
 
+[Making Digital Filters Sound Analog](https://quod.lib.umich.edu/i/icmc/bbp2372.1992.009/--making-digital-filters-sound-analog?view=toc) by **Dave Rossum** (1992)
+
+This paper is a little old, and feels naive and simplistic when you compare it
+to the complex edifices that now come out of analogue modelling efforts. Of
+course it’s worth reminding yourself what humble beginnings anologue-modelled
+DSP had, only two decades ago, and this paper is good at that!
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

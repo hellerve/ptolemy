@@ -1246,6 +1246,14 @@ Nuff said.
 Very informal and pretty insightful, but obscured by an unnecessarily relaxed
 style that makes some of the reasoning feel pretty sloppy.
 
+* *Deutschstunde* by **Siegfried Lenz** (1968)
+
+A beautiful book on multiple levels. The title alone hints at the duplicity of
+the story: it is both the tale of having to write an essay, and an exploration
+of German nature itself. It’s decidedly descriptive, all deductions are made by
+the reader—though as always you are compelled to follow the main character’s
+reasoning—, and you are free to leave this book with your own conclusions.
+
 ## Management
 
 ### Papers

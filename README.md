@@ -59,6 +59,20 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Urbit: A Solid-State Interpreter](http://media.urbit.org/whitepaper.pdf) by **Curtis Yarvin et al.** (2016)
 * [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by **Ralf Jung et al.** (2018)
 * [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by **Vannevar Bush** (1945)
+* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20%28Havelund%29.pdf) by **Klaus Havelund et al.** (2000)
+* [Linear Haskell: practical linearity in a higher-order polymorphic language](https://arxiv.org/abs/1710.09756) by **Jean-Philippe Bernardy et al.** (2017)
+* [The Power of Two Random Choices: A Survey of Techniques and Results](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf) by **Michael Mitzenmacher et al.** (2001)
+* [Why Is Random Testing Effective for Partition Tolerance Bugs?](https://people.mpi-sws.org/~fniksic/popl2018/paper.pdf) by **Rupak Majumdar & Filip Niksic** (2018)
+* [Programming and Proving with Distributed Protocols](https://homes.cs.washington.edu/~jrw12/disel.pdf) by **Ilya Sergey et al.** (2018)
+* [JaVerT: JavaScript Verification Toolchain](https://www.doc.ic.ac.uk/~jfaustin/javert.pdf) by **José Fragoso Santos et al.** (2018)
+* [A Static Verification Framework for Message Passing in Go using Behavioural Types](http://mrg.doc.ic.ac.uk/publications/a-static-verification-framework-for-message-passing-in-go-using-behavioural-types/draft.pdf) by **Julien Lange et al.** (2018)
+* [`cons` should not evaluate its arguments](ftp://www.cs.indiana.edu/pub/techreports/TR44.pdf) by **D. P. Friedman & D. S. Wise** (1976)
+* [A Theory of the Learnable](https://people.mpi-inf.mpg.de/~mehlhorn/SeminarEvolvability/ValiantLearnable.pdf) by **L. G. Valiant** (1984)
+* [Quantum algorithms: an overview](https://arxiv.org/pdf/1511.04206.pdf) by **Ashley Montanaro** (2015)
+* [How Professional Hackers Understand Protected Code while Performing Attack Tasks](http://users.elis.ugent.be/~brdsutte/research/publications/2017ICPCceccato.pdf) by **M. Ceccato et al.** (2017)
+* [Pointer Analysis: Haven’t We Solved This Problem Yet?](http://www.cs.trinity.edu/~mlewis/CSCI3294-F01/Papers/p54-hind.pdf) by **Michael Hind** (2001)
+* [Why Programmer-specified Aliasing is a Bad Idea](https://people.cs.pitt.edu/~mock/papers/clei2004.pdf) by **Markus Mock** (2004)
+* [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) by **Giuseppe Scanniello et al.** (2017)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -93,6 +107,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *The Order of Things* by **Michel Foucault** (1966)
 * *Do Androids Dream of Electric Sheep?* by **Philip K. Dick** (1968)
 * [Dialogues Concerning Natural Religion](http://www.davidhume.org/texts/dnr.html) by **David Hume** (1779)
+* [An Improviser’s OS](http://www.waynekrantz.com/?albums=wayne-krantz-an-improvisers-os-book) by **Wayne Krantz** (2018)
 
 ## Done
 

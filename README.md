@@ -53,6 +53,12 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Insights into Sexism: Male Status and Performance Moderates Female-Directed Hostile and Amicable Behaviour](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131613&type=printable) by **Michael M. Kasumovic & Jeffrey H. Kuznekoff** (2015)
 * [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
 * [Herbarium Racketensis: A Stroll through the Woods (Functional Pearl)](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf) by **Vincent St-Amour** (2017)
+* [Analyzing human random generation behavior: A review of methods used and a computer program for describing performance](https://link.springer.com/content/pdf/10.3758%2FBF03209475.pdf) by **John N. Tawse & Derek Neil** (1998)
+* [Tackling the Awkward Squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mark.pdf) by **Simon Peyton-Jones** (2010)
+* [Linda In Context](http://worrydream.com/refs/Carriero%20-%20Linda%20in%20Context.pdf) by **Nicholas Carriero & David Gelernter** (1989)
+* [Urbit: A Solid-State Interpreter](http://media.urbit.org/whitepaper.pdf) by **Curtis Yarvin et al.** (2016)
+* [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by **Ralf Jung et al.** (2018)
+* [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by **Vannevar Bush** (1945)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -69,6 +75,8 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Optimizing compilation with the Value State Dependence Graph](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-705.pdf) by **Alan C. Lawrence** (2007)
 * [Succinct Data Structures](http://www.research.att.com/export/sites/att_labs/people/Jacobson_Guy_J/library/publications/JacobsonThesis.pdf) by **Guy Jacobson** (1989)
 * [Space-Efficient Data Structures for Information Retrieval](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7491/Claude_Francisco.pdf) by **Francisco Claude** (2013)
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) by **Greg Kroah-Hartman** (2009)
+* [A Retargetable C Compiler: Design and Implementation](https://sites.google.com/site/lccretargetablecompiler/) by **David R. Hanson & Christopher W. Fraser** (1995)
 
 ### Recreational
 

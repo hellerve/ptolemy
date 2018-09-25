@@ -73,6 +73,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Pointer Analysis: Haven’t We Solved This Problem Yet?](http://www.cs.trinity.edu/~mlewis/CSCI3294-F01/Papers/p54-hind.pdf) by **Michael Hind** (2001)
 * [Why Programmer-specified Aliasing is a Bad Idea](https://people.cs.pitt.edu/~mock/papers/clei2004.pdf) by **Markus Mock** (2004)
 * [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) by **Giuseppe Scanniello et al.** (2017)
+* [Cyclic Symmetric Multi-Scale Turing Patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf) by **Jonathan McCabe** (2010)
+* [The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf) by **Roberto Ierusalimschy et al.** (2005)
+* [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -95,6 +98,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) by **Osvaldo Simeone** (2018)
 * [On the Design of Editors for Small Computers](http://history.dcs.ed.ac.uk/archive/apps/Whitfield-Thesis/thesis.html) by **C. H. Whitfield** (1972)
 * [The little book about OS development](https://littleosbook.github.io/) by **Erik Helin & Adam Renberg** (2015)
+* [Programming Language Foundations in Agda](https://plfa.github.io/) by **Wen Kokke & Philip Wadler** (2018?)
 
 ### Recreational
 

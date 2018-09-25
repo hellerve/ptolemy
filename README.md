@@ -99,6 +99,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [On the Design of Editors for Small Computers](http://history.dcs.ed.ac.uk/archive/apps/Whitfield-Thesis/thesis.html) by **C. H. Whitfield** (1972)
 * [The little book about OS development](https://littleosbook.github.io/) by **Erik Helin & Adam Renberg** (2015)
 * [Programming Language Foundations in Agda](https://plfa.github.io/) by **Wen Kokke & Philip Wadler** (2018?)
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) by **Tu Do** (2018?)
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/) by **Robert Nystrom** (2014)
+* [The Power of Prolog](https://www.metalevel.at/prolog) by **Markus Triska** (2005)
 
 ### Recreational
 

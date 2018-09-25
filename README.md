@@ -91,6 +91,10 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Space-Efficient Data Structures for Information Retrieval](https://uwspace.uwaterloo.ca/bitstream/handle/10012/7491/Claude_Francisco.pdf) by **Francisco Claude** (2013)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) by **Greg Kroah-Hartman** (2009)
 * [A Retargetable C Compiler: Design and Implementation](https://sites.google.com/site/lccretargetablecompiler/) by **David R. Hanson & Christopher W. Fraser** (1995)
+* [An  Extension-Oriented Compiler](https://pdos.csail.mit.edu/~rsc/rsc-thesis.pdf) by **Russ Cox** (2001)
+* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf) by **Osvaldo Simeone** (2018)
+* [On the Design of Editors for Small Computers](http://history.dcs.ed.ac.uk/archive/apps/Whitfield-Thesis/thesis.html) by **C. H. Whitfield** (1972)
+* [The little book about OS development](https://littleosbook.github.io/) by **Erik Helin & Adam Renberg** (2015)
 
 ### Recreational
 
@@ -108,6 +112,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * *Do Androids Dream of Electric Sheep?* by **Philip K. Dick** (1968)
 * [Dialogues Concerning Natural Religion](http://www.davidhume.org/texts/dnr.html) by **David Hume** (1779)
 * [An Improviser’s OS](http://www.waynekrantz.com/?albums=wayne-krantz-an-improvisers-os-book) by **Wayne Krantz** (2018)
+* [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
 
 ## Done
 

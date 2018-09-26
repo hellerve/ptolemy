@@ -73,7 +73,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Pointer Analysis: Haven’t We Solved This Problem Yet?](http://www.cs.trinity.edu/~mlewis/CSCI3294-F01/Papers/p54-hind.pdf) by **Michael Hind** (2001)
 * [Why Programmer-specified Aliasing is a Bad Idea](https://people.cs.pitt.edu/~mock/papers/clei2004.pdf) by **Markus Mock** (2004)
 * [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) by **Giuseppe Scanniello et al.** (2017)
-* [Cyclic Symmetric Multi-Scale Turing Patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf) by **Jonathan McCabe** (2010)
 * [The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf) by **Roberto Ierusalimschy et al.** (2005)
 * [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
 
@@ -883,6 +882,13 @@ This paper is a little old, and feels naive and simplistic when you compare it
 to the complex edifices that now come out of analogue modelling efforts. Of
 course it’s worth reminding yourself what humble beginnings anologue-modelled
 DSP had, only two decades ago, and this paper is good at that!
+
+* [Cyclic Symmetric Multi-Scale Turing Patterns](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf) by **Jonathan McCabe** (2010)
+
+A super fun read that inspired me to play around with Turing patterns some more.
+The paper is a little sparse on specifics on how to add the multiscalability
+that produces the fractal qualities seen in the last part, and I wasn’t able to
+reproduce them yet. I will continue to work on it!
 
 ### Books
 

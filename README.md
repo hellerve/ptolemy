@@ -81,6 +81,11 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Accounting for Style in Machine Translation](http://mt-archive.info/TMI-1990-DiMarco.pdf) by **Chrysanne DiMarco & Graeme Hirst** (1990)
 * [Software Engineering at Google](https://arxiv.org/abs/1702.01715) by **Fergus Henderson** (2017)
 * [You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf) by **Eshwar Chandrasekharan et al.** (2017)
+* [Evolving Virtual Creatures](http://www.karlsims.com/papers/siggraph94.pdf) by **Karl Sims** (1994)
+* [Non-linear Digital Implementation of the Moog Ladder Filter](http://www.mirlab.org/conference_papers/International_Conference/DAFx%202004/Proc/P_061.pdf) by **Antti Huovilainen** (2004)
+* [Global Illumination Compendium](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf) by **Philip Dutré** (2003)
+* [A Box, Darkly: Obfuscation, Weird Languages, and Code Aesthetics](http://nickm.com/cis/a_box_darkly.pdf) by **Michael Mateas & Nick Montfort** (2005)
+* [Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/pdf/1808.00659.pdf) by **Zhenghao Hu** (2018)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -109,6 +114,18 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [The Power of Prolog](https://www.metalevel.at/prolog) by **Markus Triska** (2005)
 * [The AWK Programming Language](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) by **Alfred V.Aho et al.** (1988)
 * [Understanding Computation: From Simple Machines to Impossible Programs](http://computationbook.com/) by **Tom Stuart** (2013)
+* [Process Compendium 2004-2010](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view) by **Casey E. B. Reas** (2010)
+* [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](https://lamport.azurewebsites.net/tla/book-02-08-08.pdf) by **Leslie Lamport** (2002)
+* [Let’s Build a Compiler (in Haskell)](http://alephnullplex.github.io/cradle/) by **Geoff Ford** (2014)
+* [The Art of VA Filter Design](https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_1.1.1.pdf) by **Vadim Zavalishin** (2015)
+* [Programming from A to Z](https://shiffman.net/a2z/) by **Daniel Shiffman** (2018?)
+* [Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/) by **Julius O. Smith III** (2010)
+* [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) by **Various** (2018)
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm) by **Steven W. Smith** (1997)
+* [Traditional methods of pattern designing; an introduction to the study of the decorative art](https://archive.org/details/traditionalmetho00chririch) by **Archibald H. Christie** (1910)
+* [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf) by **Silvanus P. Thompson** (1943)
+* [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com/) by **Matthew Butterick** (2017)
+* [Purely Functional Data Structures](http://www.cs.cmu.edu/%7Erwh/theses/okasaki.pdf) by **Chris Okasaki** (1996)
 
 ### Recreational
 

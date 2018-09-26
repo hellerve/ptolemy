@@ -75,6 +75,12 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) by **Giuseppe Scanniello et al.** (2017)
 * [The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf) by **Roberto Ierusalimschy et al.** (2005)
 * [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
+* [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugen Kohlbecker et al.** (1986)
+* [Dual EC: A Standardized Back Door](https://projectbullrun.org/dual-ec/documents/dual-ec-20150731.pdf) by **Daniel J. Bernstein et al.** (2015)
+* [On the Practical Exploitability of Dual EC in TLS Implementations](http://dualec.org/) by **Stephen Checkoway et al.** (2014)
+* [Accounting for Style in Machine Translation](http://mt-archive.info/TMI-1990-DiMarco.pdf) by **Chrysanne DiMarco & Graeme Hirst** (1990)
+* [Software Engineering at Google](https://arxiv.org/abs/1702.01715) by **Fergus Henderson** (2017)
+* [You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf) by **Eshwar Chandrasekharan et al.** (2017)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -101,6 +107,8 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) by **Tu Do** (2018?)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) by **Robert Nystrom** (2014)
 * [The Power of Prolog](https://www.metalevel.at/prolog) by **Markus Triska** (2005)
+* [The AWK Programming Language](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf) by **Alfred V.Aho et al.** (1988)
+* [Understanding Computation: From Simple Machines to Impossible Programs](http://computationbook.com/) by **Tom Stuart** (2013)
 
 ### Recreational
 

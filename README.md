@@ -99,6 +99,15 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Finger trees: a simple general-purpose data structure](http://www.staff.city.ac.uk/~ross/papers/FingerTree.pdf) by **Ralf Hinze & Ross Paterson** (2006)
 * [Theory and Practice of Chunked Sequences](http://www.chargueraud.org/research/2014/chunkedseq/chunkedseq.pdf) by **Umut A. Acar** (2014)
 * [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/record/213452/files/rrbvector.pdf) by **Nicolas Stucki** (2015)
+* [Hierarchical Temporal Memory including HTM Cortical Learning Algorithms](https://numenta.com/assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf) by **Numenta** (2011)
+* [Using an Abstracted Interpreter to Understand Abstract Interpretation](https://www.cs.indiana.edu/l/www/classes/b621/abiall.pdf) by **Daniel P. Friedman & Anurag Mendhekar** (?)
+* [Phrasal Forms](http://www.jsoftware.com/papers/fork1.htm) by **K. E. Iverson & E. E. McDonnell** (?)
+* [Applicative programming with effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf) by **Conor McBride & Ross Paterson** (2008)
+* [Theorems for free](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf) by **Philip Wadler** (1989)
+* [Epigram: Practical Programming with Dependent Types](http://cs.ru.nl/F.Wiedijk/courses/tt-2010/tvftl/epigram-notes.pdf) by **Conor McBride** (2010)
+* [Dimension Types](https://link.springer.com/content/pdf/10.1007%2F3-540-57880-3_23.pdf) by **Andrew Kennedy** (1994)
+* [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by **A. M. Turing** (1950)
+* [Ideal Hash Trees](https://infoscience.epfl.ch/record/64398/files/idealhashtrees.pdf) by **Phil Bagwell** (2001)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -145,12 +154,17 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by **Benjamin C. Pierce** (2002)
 * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by **Jan Van der Spiegel** (2001)
 * [Elements of Clojure](https://leanpub.com/elementsofclojure) by **Zachary Tellman** (2019?)
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by **Bartosz Milewski** (2018)
+* [Programming languages and dimensions](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-391.pdf) by **Andrew John Kennedy** (1996)
+* [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook/) by **Attila Egri-Nagy** (2018)
+* [Notional Machines and Introductory Programming Education](https://www.researchgate.net/publication/259998496_Notional_Machines_and_Introductory_Programming_Education) by **Juha Sorva** (2015)
 
 ### Recreational
 
 #### Papers
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
 * [Holy Stigmata, Anorexia, and Self-Mutilation: Parallels in Pain and Imagining](http://www.academia.edu/541052/Holy_Stigmata_Anorexia_and_Self-Mutilation_Parallels_in_Pain_and_Imagining) by **Robert Mullen** (2010)
+* [What Mary Didn’t Know](http://home.sandiego.edu/~baber/analytic/Jackson.pdf) by **Frank Jackson** (1986)
 
 #### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)

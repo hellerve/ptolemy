@@ -9,7 +9,7 @@ on reading in 2017.
 Some of the papers and books do not have links included, because they
 might be protected by paywalls or other DRM, because it seems we have to
 pay for progress. You might find these papers online anyway,
-[SciHub](sci-hub.io) is a great resource; it might be illegal in your
+[SciHub](https://sci-hub.tw) is a great resource; it might be illegal in your
 country to use this site, though.
 
 Named after Ptolemy I Soter, who built the Library of Alexandria.

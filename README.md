@@ -86,6 +86,11 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Global Illumination Compendium](https://people.cs.kuleuven.be/~philip.dutre/GI/TotalCompendium.pdf) by **Philip Dutré** (2003)
 * [A Box, Darkly: Obfuscation, Weird Languages, and Code Aesthetics](http://nickm.com/cis/a_box_darkly.pdf) by **Michael Mateas & Nick Montfort** (2005)
 * [Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/pdf/1808.00659.pdf) by **Zhenghao Hu** (2018)
+* [Behavioral Experiments in Email Filter Evasion](http://vorobeychik.com/2016/evasionhs.pdf) by **Liyiming Ke et al.** (2016)
+* [Heracles: Improving Resource Efficiency at Scale](http://csl.stanford.edu/~christos/publications/2015.heracles.isca.pdf) by **David Lo et al.** (2015)
+* [Intel x86 considered harmful](https://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) by **Joanna Rutkowska** (2015)
+* [Mixin’ Up the ML Module System](https://people.mpi-sws.org/~rossberg/mixml/mixml-icfp08-extended.pdf) by **Derek Dreyer & Andreas Rossberg** (2008)
+* [1ML – Core and Modules United (F-ing First-Class Modules)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf) by **Andreas Rossberg** (2016)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -127,6 +132,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com/) by **Matthew Butterick** (2017)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/%7Erwh/theses/okasaki.pdf) by **Chris Okasaki** (1996)
 * [Graphics Programming Black Book](http://www.jagregory.com/abrash-black-book/) by **Michael Abrash** (1997)
+* [Introducing the Spartan 3E FPGA and VHDL](https://github.com/hamsternz/IntroToSpartanFPGABook/blob/master/IntroToSpartanFPGABook.pdf) by **Mike Field** (2014)
+* [Advanced Topics in Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/attapl/) by **Benjamin C. Pierce** (2004)
+* [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by **Benjamin C. Pierce** (2002)
 
 ### Recreational
 

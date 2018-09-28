@@ -126,6 +126,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf) by **Silvanus P. Thompson** (1943)
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com/) by **Matthew Butterick** (2017)
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/%7Erwh/theses/okasaki.pdf) by **Chris Okasaki** (1996)
+* [Graphics Programming Black Book](http://www.jagregory.com/abrash-black-book/) by **Michael Abrash** (1997)
 
 ### Recreational
 

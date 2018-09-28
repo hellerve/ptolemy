@@ -96,6 +96,9 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Bounding Data Races in Space and Time](http://kcsrk.info/papers/pldi18-memory.pdf) by **Stephen Dolan** (2018)
 * [Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383) by **Lydia T. Liu et al.** (2018)
 * [Language and Operating System Features for Real-time Programming](https://www.usenix.org/legacy/publications/compsystems/1988/win_donner.pdf) by **Marc D. Donner & David H. Jameson** (1988)
+* [Finger trees: a simple general-purpose data structure](http://www.staff.city.ac.uk/~ross/papers/FingerTree.pdf) by **Ralf Hinze & Ross Paterson** (2006)
+* [Theory and Practice of Chunked Sequences](http://www.chargueraud.org/research/2014/chunkedseq/chunkedseq.pdf) by **Umut A. Acar** (2014)
+* [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/record/213452/files/rrbvector.pdf) by **Nicolas Stucki** (2015)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -141,6 +144,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Advanced Topics in Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/attapl/) by **Benjamin C. Pierce** (2004)
 * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by **Benjamin C. Pierce** (2002)
 * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by **Jan Van der Spiegel** (2001)
+* [Elements of Clojure](https://leanpub.com/elementsofclojure) by **Zachary Tellman** (2019?)
 
 ### Recreational
 

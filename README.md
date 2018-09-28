@@ -91,6 +91,11 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Intel x86 considered harmful](https://blog.invisiblethings.org/papers/2015/x86_harmful.pdf) by **Joanna Rutkowska** (2015)
 * [Mixin’ Up the ML Module System](https://people.mpi-sws.org/~rossberg/mixml/mixml-icfp08-extended.pdf) by **Derek Dreyer & Andreas Rossberg** (2008)
 * [1ML – Core and Modules United (F-ing First-Class Modules)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf) by **Andreas Rossberg** (2016)
+* [Linear Scan Register Allocation on SSA Form](http://www.christianwimmer.at/Publications/Wimmer10a/Wimmer10a.pdf) by **Christian Wimmer & Michael Franz** (2010)
+* [Profile guided code positioning](https://dl.acm.org/citation.cfm?id=93550) by **Karl Pettis & Robert C. Hansen** (1990)
+* [Bounding Data Races in Space and Time](http://kcsrk.info/papers/pldi18-memory.pdf) by **Stephen Dolan** (2018)
+* [Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383) by **Lydia T. Liu et al.** (2018)
+* [Language and Operating System Features for Real-time Programming](https://www.usenix.org/legacy/publications/compsystems/1988/win_donner.pdf) by **Marc D. Donner & David H. Jameson** (1988)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -135,6 +140,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Introducing the Spartan 3E FPGA and VHDL](https://github.com/hamsternz/IntroToSpartanFPGABook/blob/master/IntroToSpartanFPGABook.pdf) by **Mike Field** (2014)
 * [Advanced Topics in Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/attapl/) by **Benjamin C. Pierce** (2004)
 * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by **Benjamin C. Pierce** (2002)
+* [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by **Jan Van der Spiegel** (2001)
 
 ### Recreational
 

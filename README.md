@@ -79,7 +79,6 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Dual EC: A Standardized Back Door](https://projectbullrun.org/dual-ec/documents/dual-ec-20150731.pdf) by **Daniel J. Bernstein et al.** (2015)
 * [On the Practical Exploitability of Dual EC in TLS Implementations](http://dualec.org/) by **Stephen Checkoway et al.** (2014)
 * [Accounting for Style in Machine Translation](http://mt-archive.info/TMI-1990-DiMarco.pdf) by **Chrysanne DiMarco & Graeme Hirst** (1990)
-* [Software Engineering at Google](https://arxiv.org/abs/1702.01715) by **Fergus Henderson** (2017)
 * [You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf) by **Eshwar Chandrasekharan et al.** (2017)
 * [Evolving Virtual Creatures](http://www.karlsims.com/papers/siggraph94.pdf) by **Karl Sims** (1994)
 * [Non-linear Digital Implementation of the Moog Ladder Filter](http://www.mirlab.org/conference_papers/International_Conference/DAFx%202004/Proc/P_061.pdf) by **Antti Huovilainen** (2004)
@@ -948,6 +947,13 @@ A super fun read that inspired me to play around with Turing patterns some more.
 The paper is a little sparse on specifics on how to add the multiscalability
 that produces the fractal qualities seen in the last part, and I wasn’t able to
 reproduce them yet. I will continue to work on it!
+
+* [Software Engineering at Google](https://arxiv.org/abs/1702.01715) by **Fergus Henderson** (2017)
+
+As a paper it’s quite terrible. It doesn’t read especially interesting, and the
+information in it is of course biased. Some of the practices discussed in the
+paper are huge read flags that make me highly uncomfortable, but seem not to
+faze the author. O tempora, o mores.
 
 ### Books
 

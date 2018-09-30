@@ -108,6 +108,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Dimension Types](https://link.springer.com/content/pdf/10.1007%2F3-540-57880-3_23.pdf) by **Andrew Kennedy** (1994)
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by **A. M. Turing** (1950)
 * [Ideal Hash Trees](https://infoscience.epfl.ch/record/64398/files/idealhashtrees.pdf) by **Phil Bagwell** (2001)
+* [Notional Machines and Introductory Programming Education](https://www.researchgate.net/publication/259998496_Notional_Machines_and_Introductory_Programming_Education) by **Juha Sorva** (2015)
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -157,7 +158,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by **Bartosz Milewski** (2018)
 * [Programming languages and dimensions](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-391.pdf) by **Andrew John Kennedy** (1996)
 * [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook/) by **Attila Egri-Nagy** (2018)
-* [Notional Machines and Introductory Programming Education](https://www.researchgate.net/publication/259998496_Notional_Machines_and_Introductory_Programming_Education) by **Juha Sorva** (2015)
+* [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) by **Douglas Thain** (2018)
 
 ### Recreational
 

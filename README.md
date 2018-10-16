@@ -108,6 +108,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by **A. M. Turing** (1950)
 * [Ideal Hash Trees](https://infoscience.epfl.ch/record/64398/files/idealhashtrees.pdf) by **Phil Bagwell** (2001)
 * [Notional Machines and Introductory Programming Education](https://www.researchgate.net/publication/259998496_Notional_Machines_and_Introductory_Programming_Education) by **Juha Sorva** (2015)
+* [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf) by **Erik Meijer et al.**
 
 #### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

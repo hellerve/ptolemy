@@ -159,6 +159,7 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [Programming languages and dimensions](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-391.pdf) by **Andrew John Kennedy** (1996)
 * [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook/) by **Attila Egri-Nagy** (2018)
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) by **Douglas Thain** (2018)
+* [Higher Order Perl](https://hop.perl.plover.com/) by **Mark Jason Dominus** (2005)
 
 ### Recreational
 

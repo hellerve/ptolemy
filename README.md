@@ -959,6 +959,11 @@ information in it is of course biased. Some of the practices discussed in the
 paper are huge read flags that make me highly uncomfortable, but seem not to
 faze the author. O tempora, o mores.
 
+* [Randomly-Scoped Lambda Calculus](http://www.club.cc.cmu.edu/~rharwood/tmp/random.pdf) by **Ben Blum** (2013)
+
+A very enjoyable writeup of a ridiculous idea. I’m excited by ridiculous ideas,
+and I’m excited by this paper.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
@@ -1363,6 +1368,12 @@ the story: it is both the tale of having to write an essay, and an exploration
 of German nature itself. It’s decidedly descriptive, all deductions are made by
 the reader—though as always you are compelled to follow the main character’s
 reasoning—, and you are free to leave this book with your own conclusions.
+
+* *Ansichten eines Clowns* by **Heinrich Böll** (1963)
+
+I read this book for the fourth or fifth time in 2018, and I was still gripped
+by it. It’s a great book to devour. I enjoy the story, and the radical honesty
+with which all of the characters—including the main character—are portrayed.
 
 ## Management
 

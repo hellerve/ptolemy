@@ -1375,6 +1375,13 @@ I read this book for the fourth or fifth time in 2018, and I was still gripped
 by it. It’s a great book to devour. I enjoy the story, and the radical honesty
 with which all of the characters—including the main character—are portrayed.
 
+* *Die Gruppe 47* by **Helmut Böttiger** (2012)
+
+A well-written history of the most important group of German writers post-WWII.
+It’s informing and entertaining, and it’s incredibly well-researched, citing
+from books, letters, private correspondences of famous authors and publishers.
+I’m already telling everyone to read it.
+
 ## Management
 
 ### Papers

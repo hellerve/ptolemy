@@ -1382,6 +1382,20 @@ It’s informing and entertaining, and it’s incredibly well-researched, citing
 from books, letters, private correspondences of famous authors and publishers.
 I’m already telling everyone to read it.
 
+* *Der Goldkäfer* by **Edgar Allan Poe** (1843)
+
+A beautiful story. I read it for the third or fourth time this year (2018), and
+it is always a quick and enjoyable read. My edition also boosts a set of
+gorgeous illustrations from the early 20th century, which accompany the story
+very nicely.
+
+* [Out of the Aeons](http://www.hplovecraft.com/writings/texts/fiction/oa.aspx) by **H.P. Lovecraft & Hazel Heald** (1935)
+
+A fantastic little short story. Lovecraft is one of my favorite writers, not so
+much because of the stories he told, but because of his flowery prose and
+magnificent command of the English language. I learned a new word from this
+story: “proboscidian”.
+
 ## Management
 
 ### Papers

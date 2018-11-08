@@ -14,5 +14,5 @@ country to use this site, though.
 
 Named after Ptolemy I Soter, who built the Library of Alexandria.
 
-Look at my—frightfully long—[to do list](/todo.md), [the list of things I’ve
+Look at my—frightfully long—[to do list](/todo.md), the [list of things I’ve
 already read](/done.md), or [suggest something](https://github.com/hellerve/ptolemy/issues/new)!

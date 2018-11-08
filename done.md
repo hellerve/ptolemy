@@ -780,6 +780,14 @@ faze the author. O tempora, o mores.
 A very enjoyable writeup of a ridiculous idea. I’m excited by ridiculous ideas,
 and I’m excited by this paper.
 
+* [The Final Pretty Printer](http://davidchristiansen.dk/drafts/final-pretty-printer-draft.pdf) by **David Christiansen, David Darais & Weixi Ma** (2017)
+
+A very interesting twist on Wadler’s paper on pretty printing from the 20th
+century; I enjoy extensibility, and providing it in a monadic way is, while
+foreign to me, extremely intriguing. As always with these kinds of papers it
+went a little bit over my head, but this is why I enjoyed it so much. I’ll have
+to reread it once I implement seriously useful tools for working with Carp.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

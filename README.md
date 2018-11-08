@@ -181,6 +181,10 @@ Named after Ptolemy I Soter, who built the Library of Alexandria.
 * [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
 * [Notes on the Synthesis of Form](https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form) by **Christopher Alexander** (1964)
 * [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by **Robert M. Pirsig** (1974)
+* [Fictional Separation Logic](http://cs.au.dk/~birke/papers/sharing-conf.pdf) by **Jonas Braband Jensen & Lars Birkedal** (2012)
+* [Views: Compositional Reasoning for Concurrent Programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/views.pdf) by **Thomas Dinsdale-Young et al.** (2016)
+* [Some Philosophical Problems from the Standpoint of Artificial Intelligence](http://www-formal.stanford.edu/jmc/mcchay69.pdf) by **John McCarth
+y and Patrick J. Hayes** (1969)
 
 ## Done
 

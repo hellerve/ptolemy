@@ -97,6 +97,7 @@
 * [Views: Compositional Reasoning for Concurrent Programs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/views.pdf) by **Thomas Dinsdale-Young et al.** (2016)
 * [Some Philosophical Problems from the Standpoint of Artificial Intelligence](http://www-formal.stanford.edu/jmc/mcchay69.pdf) by **John McCarthy and Patrick J. Hayes** (1969)
 * [Cognitive Dimensions of Notations: Design Tools for Cognitive Technology](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf) by **A.F. Blackwell et al.** (2001)
+* [How Should Compilers Explain Problems to Developers?](http://static.barik.net/barik/publications/fse2018/barik_fse18.pdf) by **Titus Barik et al.** (2018)
 
 
 ### Books

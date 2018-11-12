@@ -98,6 +98,7 @@
 * [Some Philosophical Problems from the Standpoint of Artificial Intelligence](http://www-formal.stanford.edu/jmc/mcchay69.pdf) by **John McCarthy and Patrick J. Hayes** (1969)
 * [Cognitive Dimensions of Notations: Design Tools for Cognitive Technology](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf) by **A.F. Blackwell et al.** (2001)
 * [How Should Compilers Explain Problems to Developers?](http://static.barik.net/barik/publications/fse2018/barik_fse18.pdf) by **Titus Barik et al.** (2018)
+* [Using Routers to Build Logic Circuits: How Powerful is BGP?](https://vanbever.eu/pdfs/vanbever_turing_icnp_2013.pdf) by **Marco Chiesa et al.** (2013)
 
 
 ### Books

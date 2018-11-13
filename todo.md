@@ -99,6 +99,7 @@
 * [Cognitive Dimensions of Notations: Design Tools for Cognitive Technology](https://www.cl.cam.ac.uk/~afb21/publications/CT2001.pdf) by **A.F. Blackwell et al.** (2001)
 * [How Should Compilers Explain Problems to Developers?](http://static.barik.net/barik/publications/fse2018/barik_fse18.pdf) by **Titus Barik et al.** (2018)
 * [Using Routers to Build Logic Circuits: How Powerful is BGP?](https://vanbever.eu/pdfs/vanbever_turing_icnp_2013.pdf) by **Marco Chiesa et al.** (2013)
+* [A History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf) by **Paul Hudak et al.** (2007)
 
 
 ### Books

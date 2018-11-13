@@ -795,6 +795,13 @@ halfway through and I only got back into it about 5 pages later, in the section
 about Evaluation. Surely the implementation is interesting, but I find the
 description unnecessarily obtuse and convoluted; that might just be me, though.
 
+* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) by **Peter Van Roy** (2009)
+
+While an interesting overview of different programming paradigms, this already
+feels a little dated. It also feels a little biased towards Oz/Mozart, of which
+I’m not a huge fan—so bias met bias. Nonetheless, it’s very comprehensive and
+thoughtful an approach to classifying paradigms.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

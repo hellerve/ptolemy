@@ -1234,6 +1234,14 @@ much because of the stories he told, but because of his flowery prose and
 magnificent command of the English language. I learned a new word from this
 story: “proboscidian”.
 
+* *Gateway* by **Frederik Pohl** (1977)
+
+Easily one of my favorite books this year. The premise is extremely intriguing
+and sets a great scene for big questions about humanity and space. The narrator
+is not the nicest person, but he makes for a very intriguing character to
+explore. Thanks to @lamarqua for getting me into this by giving me—and
+Meredith—the book in the first place.
+
 ## Management
 
 ### Papers

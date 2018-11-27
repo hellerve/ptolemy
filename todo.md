@@ -152,6 +152,7 @@
 * [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook/) by **Attila Egri-Nagy** (2018)
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) by **Douglas Thain** (2018)
 * [Higher Order Perl](https://hop.perl.plover.com/) by **Mark Jason Dominus** (2005)
+* [The Early Development of Programming Languages](http://bitsavers.trailing-edge.com/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.pdf) by **Donald Knuth & Luis Trabb Pardo** (1976)
 
 ## Recreational
 

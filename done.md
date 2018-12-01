@@ -802,6 +802,15 @@ feels a little dated. It also feels a little biased towards Oz/Mozart, of which
 I’m not a huge fan—so bias met bias. Nonetheless, it’s very comprehensive and
 thoughtful an approach to classifying paradigms.
 
+* [Crash-Only Software](https://www.usenix.org/legacy/events/hotos03/tech/full_papers/candea/candea.pdf) by **George Candea & Armando Fox** (2003)
+
+This paper is msotly historically interesting, because it describes a paradigm
+that, through Erlang and related technologies, has entered the mainstream by
+now. The paper talks about these concepts in the context of Java, which is
+interesting enough in its own right, but I’d have hoped for at least a mention
+of Erlang; I guess it wasn’t part of the general consciousness of Computer
+Science back then.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

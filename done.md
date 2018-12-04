@@ -975,6 +975,13 @@ One of the most interesting, readable papers I’ve ever read. The ease with whi
 the topics are discussed and broken down, even for laymen like me, is positively
 startling, in a good way.
 
+* [Attitudinal emotions and head movements in Danish first acquaintance conversations](http://www.ep.liu.se/ecp/093/013/ecp12093013.pdf) by **Bjørn Wessel-Tolvig & Patrizia Paggio** (2012)
+
+I’m a layman, but this paper seems like it lacks a lot of data. The topic is
+fairly intriguing and should be studied more, but, as the authors themselves
+admit in the conclusion, there is just too little data for any claim to be made,
+which is a bummer.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

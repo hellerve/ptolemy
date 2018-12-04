@@ -3,7 +3,6 @@
 ## Computer Science
 
 ### Papers
-* [A Programming Language for Mechanical Translation](http://www.mt-archive.info/MT-1958-Yngve.pdf) by **Victor Yngve** (1958)
 * [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)

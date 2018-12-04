@@ -811,6 +811,15 @@ interesting enough in its own right, but I’d have hoped for at least a mention
 of Erlang; I guess it wasn’t part of the general consciousness of Computer
 Science back then.
 
+* [A Programming Language for Mechanical Translation](http://www.mt-archive.info/MT-1958-Yngve.pdf) by **Victor Yngve** (1958)
+
+This is one of those papers where the age is perceptible from the first
+sentence. I quote in full: “It has been said that the automatic digital
+computer can do anything with symbols that we can tell it in detail how to do.”
+The paper presents a valiant if a little dated approach to parsing natural
+language, but is almost entirely impenetrable due to the writing style that is
+exceedingly descriptive.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

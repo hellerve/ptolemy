@@ -820,6 +820,13 @@ The paper presents a valiant if a little dated approach to parsing natural
 language, but is almost entirely impenetrable due to the writing style that is
 exceedingly descriptive.
 
+* [Climbing Up the Semantic Tower — at Runtime](http://fare.tunes.org/files/climbing/climbing.pdf) by **François-René Rideau** (2018)
+
+This paper is deceptively short and mind-bogglingly dense. I enjoyed reading it,
+even though I don’t understand half of it. The [Youtube video](https://www.youtube.com/watch?v=heU8NyX5Hus)
+linked to in the paper helped clear thins up tremendously, but still it is quite
+hard to follow for me. Exciting times!
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1274,6 +1274,14 @@ is not the nicest person, but he makes for a very intriguing character to
 explore. Thanks to @lamarqua for getting me into this by giving me—and
 Meredith—the book in the first place.
 
+* *If on a winter's night a traveler* by **Italo Calvino** (1979)
+
+A masturbatory postmodernist tale that serves mostly itself. It’s not
+impenetrable and has its moments, but in the end it’s nothing more than an
+exercise in mutual patting of backs between the author and the knowledgeable,
+well-read reader who understands that literary tradition is blasé and properly
+teling a story bourgeouis.
+
 ## Management
 
 ### Papers

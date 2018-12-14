@@ -99,7 +99,9 @@
 * [How Should Compilers Explain Problems to Developers?](http://static.barik.net/barik/publications/fse2018/barik_fse18.pdf) by **Titus Barik et al.** (2018)
 * [Using Routers to Build Logic Circuits: How Powerful is BGP?](https://vanbever.eu/pdfs/vanbever_turing_icnp_2013.pdf) by **Marco Chiesa et al.** (2013)
 * [A History of Haskell: Being Lazy With Class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf) by **Paul Hudak et al.** (2007)
-
+* [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) by **Xing Hu et al.** (2018)
+* [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) by **Giuseppe Castagna et al.** (2019)
+* [How To Write Shared Librarie](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf) by **Ulrich Drepper** (2011)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

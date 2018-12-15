@@ -102,6 +102,7 @@
 * [Deep Code Comment Generation](https://xin-xia.github.io/publication/icpc182.pdf) by **Xing Hu et al.** (2018)
 * [Gradual Typing: A New Perspective](https://www.irif.fr/~gc/papers/popl19.pdf) by **Giuseppe Castagna et al.** (2019)
 * [How To Write Shared Librarie](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf) by **Ulrich Drepper** (2011)
+* [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) by **Arnar Bigisson et al.** (2014)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

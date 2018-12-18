@@ -104,6 +104,7 @@
 * [How To Write Shared Librarie](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf) by **Ulrich Drepper** (2011)
 * [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) by **Arnar Bigisson et al.** (2014)
 * [Reasonably Programmable Literal Notation](https://github.com/cyrus-/ptsms-paper/blob/master/icfp18/omar-icfp18-final.pdf) by **Cyrus Omar & Jonathan Aldrich** (2018)
+* [Dijkstra Monads for Free](https://www.fstar-lang.org/papers/dm4free/) by **Danel Ahman et al.** (2017)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

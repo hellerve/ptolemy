@@ -1282,6 +1282,16 @@ exercise in mutual patting of backs between the author and the knowledgeable,
 well-read reader who understands that literary tradition is blasé and properly
 teling a story bourgeouis.
 
+* *The Prince* by **Niccolò Machiavelli** (1513/1532)
+
+Maciavelli was a product of his time, and his meditations are primarily
+interesting from a historical perspective. His works shaped the thoughts of many
+emperors, and his knowledge of the lives and deeds of historical figures was
+almost unparalleled. My edition in particular featured accompanying commentary
+by Max Oberbreyer from 1879 that felt more dated than the original work, but
+were nonetheless illuminating and very useful for a bit of context on the people
+Machiavelli uses as examples.
+
 ## Management
 
 ### Papers

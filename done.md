@@ -827,6 +827,14 @@ even though I don’t understand half of it. The [Youtube video](https://www.you
 linked to in the paper helped clear thins up tremendously, but still it is quite
 hard to follow for me. Exciting times!
 
+* *An Industrial Case: Pitfalls and Benefits of Applying Formal Methods to the
+Development of a Network-Centric RTOS* by **Eric Verhulst et al.** (2008)
+
+I never heard of the operating system OpenComRTS before. It seems like a well
+thought out project with some interesting features, and I’d like to take a
+closer look at it when I find the time. For now I’m just enamoured with the idea
+of verifying a kernel with TLA+.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1300,6 +1300,16 @@ by Max Oberbreyer from 1879 that felt more dated than the original work, but
 were nonetheless illuminating and very useful for a bit of context on the people
 Machiavelli uses as examples.
 
+* *A History of the World in 6 Glasses* by **Tom Standage** (2006)
+
+A neat little book with a good history (as far as I can tell) of some of the
+world’s most influential drinks. The chapter on only drink I knew some of the
+history of prior to reading the book—Rum—was a bit of a red flag, though,
+because the author has a nasty habit of pretending his favorite theory about
+a historical factoid that’s still a topic of discussion—the etymology of the
+drink’s name, for instance—is gospel and the only one worth mentioning. It is
+nonetheless informative and fun to read.
+
 ## Management
 
 ### Papers

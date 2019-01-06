@@ -159,6 +159,7 @@
 * [The Early Development of Programming Languages](http://bitsavers.trailing-edge.com/pdf/stanford/cs_techReports/STAN-CS-76-562_EarlyDevelPgmgLang_Aug76.pdf) by **Donald Knuth & Luis Trabb Pardo** (1976)
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) by **Allen B. Downey** (2016)
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) by **Mike Kamermans** (2018)
+* [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by **Jeff Erickson** (2018)
 
 ## Recreational
 

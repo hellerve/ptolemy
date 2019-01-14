@@ -161,6 +161,7 @@
 * [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) by **Allen B. Downey** (2016)
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) by **Mike Kamermans** (2018)
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by **Jeff Erickson** (2018)
+* [Engineering a Safer World—Systems Thinking Applied to Safety](http://mitpress.mit.edu/books/engineering-safer-world) by **Nancy G. Leveson** (2012)
 
 ## Recreational
 

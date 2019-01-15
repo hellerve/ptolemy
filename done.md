@@ -997,6 +997,14 @@ fairly intriguing and should be studied more, but, as the authors themselves
 admit in the conclusion, there is just too little data for any claim to be made,
 which is a bummer.
 
+* [Is Justified True Belief Knowledge?](http://www-bcf.usc.edu/~kleinsch/Gettier.pdf) by **Edmund L. Gettier** (1963)
+
+This is one of those rare papers where someone broke new ground by writing a few
+pages (three, in this case) that just happened to blow everyone away. In this
+case the paper is even more compelling, because it is understandable even to
+someone who is not well-versed in the context of the paper. Very enjoyable,
+enlightening read, and a style to which I aspire (like most, I imagine).
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

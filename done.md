@@ -835,6 +835,12 @@ thought out project with some interesting features, and I’d like to take a
 closer look at it when I find the time. For now I’m just enamoured with the idea
 of verifying a kernel with TLA+.
 
+* [The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf) by **Roberto Ierusalimschy et al.** (2005)
+
+This paper gives a concise technical overview of some of the more interesting
+VM techniques employed in the Lua interpreter. Lua is probably my favorite VM to
+look at, and the authors do a pretty great job at explaining why that is.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

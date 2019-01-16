@@ -56,7 +56,6 @@
 * [Pointer Analysis: Haven’t We Solved This Problem Yet?](http://www.cs.trinity.edu/~mlewis/CSCI3294-F01/Papers/p54-hind.pdf) by **Michael Hind** (2001)
 * [Why Programmer-specified Aliasing is a Bad Idea](https://people.cs.pitt.edu/~mock/papers/clei2004.pdf) by **Markus Mock** (2004)
 * [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) by **Giuseppe Scanniello et al.** (2017)
-* [The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf) by **Roberto Ierusalimschy et al.** (2005)
 * [SHILL: A Secure Shell Scripting Language](http://shill.seas.harvard.edu/shill-osdi-2014.pdf) by **Scott Moore et al.** (2014)
 * [Hygienic Macro Expansion](http://web.cs.ucdavis.edu/%7Edevanbu/teaching/260/kohlbecker.pdf) by **Eugen Kohlbecker et al.** (1986)
 * [Dual EC: A Standardized Back Door](https://projectbullrun.org/dual-ec/documents/dual-ec-20150731.pdf) by **Daniel J. Bernstein et al.** (2015)

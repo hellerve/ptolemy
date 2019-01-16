@@ -891,6 +891,14 @@ the editor, and I’d veto them until they prove necessary to my users—of whic
 there aren’t many, as I assume—or to me. So, while it was an interesting read, I
 will refrain from implementing my new-found knowledge prematurely.
 
+* [Experimenting with Programming Languages](http://www.vpri.org/pdf/tr2008003_experimenting.pdf) by **Alessandro Warth** (2008)
+
+The original description of OMeta. OMeta has quickly become one of my favorite
+approaches to parsers—it is weird, original, and fun to work with. The ideas of
+worlds described in chapter 4 are less well known, but just as eye-opening. As
+always, reading this gave me an itch to try and build dozens of things—it’s hard
+to read Warth’s work without wanting to try it all out.
+
 ## Recreational
 
 ### Papers

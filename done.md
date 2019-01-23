@@ -841,6 +841,15 @@ This paper gives a concise technical overview of some of the more interesting
 VM techniques employed in the Lua interpreter. Lua is probably my favorite VM to
 look at, and the authors do a pretty great job at explaining why that is.
 
+* [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
+
+This paper is quite useful as a reference for people wanting to build compilers
+for functional languages; it shows a few implementation techniques that might
+be interesting to explore for people wanting to speed up the code their compiler
+generates (and who doesn’t want that). That being said, I’d enjoy revisiting
+the benchmarks in this paper over 10 years later and seeing how the compiler
+discussed in it fairs against newer versions of GHC.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -3,7 +3,6 @@
 ## Computer Science
 
 ### Papers
-* [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 * [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)

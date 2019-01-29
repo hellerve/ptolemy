@@ -167,6 +167,7 @@
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
 * [Holy Stigmata, Anorexia, and Self-Mutilation: Parallels in Pain and Imagining](http://www.academia.edu/541052/Holy_Stigmata_Anorexia_and_Self-Mutilation_Parallels_in_Pain_and_Imagining) by **Robert Mullen** (2010)
 * [What Mary Didn’t Know](http://home.sandiego.edu/~baber/analytic/Jackson.pdf) by **Frank Jackson** (1986)
+* [Traversable Wormholes, Stargates, and Negative Energy](http://electrogravityphysics.com/wp-content/uploads/traversable-wormholes-stargates-negative-energy001.pdf) by **Eric W. Davis** (2009)
 
 ### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)

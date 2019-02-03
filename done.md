@@ -1341,6 +1341,14 @@ a historical factoid that’s still a topic of discussion—the etymology of the
 drink’s name, for instance—is gospel and the only one worth mentioning. It is
 nonetheless informative and fun to read.
 
+* *Das Vorbild* by **Siegfried Lenz** (1978)
+
+Another incredibly poignant book by Siegfried Lenz. He was an incredibly
+descriptor (and caricaturist) of the German spirit of the time, and all of his
+characters feel like archetypes. I had a lot of fun reading this, even though
+not a single one of the characters was likable—and I think they weren’t meant
+to be.
+
 ## Management
 
 ### Papers

@@ -1349,6 +1349,13 @@ characters feel like archetypes. I had a lot of fun reading this, even though
 not a single one of the characters was likable—and I think they weren’t meant
 to be.
 
+* *Picknick am Wegesrand* by **Arkadi & Boris Strugatzki** (1972)
+
+A fun, gripping read. I have my gripes with the last part and especially the
+ending (I won’t spoil it here, though). My edition also featured an afterword by
+Stanislaw Lem which was insufferable, pretentious, and mistakes opinion for the
+scientific method; it ruined an otherwise perfectly good read for me.
+
 ## Management
 
 ### Papers

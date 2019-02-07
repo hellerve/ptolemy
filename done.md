@@ -914,6 +914,14 @@ worlds described in chapter 4 are less well known, but just as eye-opening. As
 always, reading this gave me an itch to try and build dozens of things—it’s hard
 to read Warth’s work without wanting to try it all out.
 
+* [PLANNER: A Language for Manipulating Models and Proving Theorems in a Robot](https://dspace.mit.edu/bitstream/handle/1721.1/6171/AIM-168.pdf?sequence=2) by **Carl Hewitt** (1970)
+
+I regard PLANNER as one of the most interesting chapters in the history of
+programming languages. It’s the grandfather of theorem provers and logic
+programming languages like Prolog alike, and it’s fun to read about its
+implementation. This document is not really a front-to-back kind of read and
+more of a reference work, but it is quite enlightening!
+
 ## Recreational
 
 ### Papers

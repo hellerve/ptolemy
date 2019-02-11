@@ -1036,6 +1036,12 @@ case the paper is even more compelling, because it is understandable even to
 someone who is not well-versed in the context of the paper. Very enjoyable,
 enlightening read, and a style to which I aspire (like most, I imagine).
 
+* *The Proper Treatment of “Your Ass” in English* by **John Beavers & Andrew Koontz-Garboden** (2003)
+
+Very entertaining read. It’s not really my area of expertise—not at all,
+really—, and still it’s quite fun to read. Of course the pun density is quite
+high, but that just comes with the territory.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

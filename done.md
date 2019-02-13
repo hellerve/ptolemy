@@ -850,6 +850,12 @@ generates (and who doesn’t want that). That being said, I’d enjoy revisiting
 the benchmarks in this paper over 10 years later and seeing how the compiler
 discussed in it fairs against newer versions of GHC.
 
+* [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) by **Joseph Redmond & Ali Farhadi** (2018?)
+
+This is probably the most entertaining paper I read all year, and I don’t even
+know anything about machine learning, let alone image classification. It’s quite
+fun, though, and I really enjoy the unprofessional tone.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

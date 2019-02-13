@@ -1395,3 +1395,10 @@ This book is astonishingly good. While I work for a consultancy and not a
 startup and face a very different set of opportunities and challenges than
 startup management does, large parts of this book were insightful, useful, and
 interesting to read. What a way to start my management section.
+
+* **The Hard Thing about Hard Things** by **Ben Horowitz** (2014)
+
+This book is part autobiography, part management advice. I enjoyed reading it;
+it’s lighthearted, doesn’t feel overly long, and doesn’t dwell on anything for
+too long. Nonetheless, I’m not sure how useful it truly is; it’s fairly personal
+and biased, but at least it doesn’t give off a false sense of objectivity.

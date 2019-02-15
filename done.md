@@ -856,6 +856,13 @@ This is probably the most entertaining paper I read all year, and I don’t even
 know anything about machine learning, let alone image classification. It’s quite
 fun, though, and I really enjoy the unprofessional tone.
 
+* [An Introduction to Dependent Types and Agda](http://www2.tcs.ifi.lmu.de/~abel/lehre/SS09/Fun/DepTypes.pdf) by **Andreas Abel** (2009)
+
+This one just boggled my mind. It’s the first time I really felt like I
+understood the power of dependent types as proof systems, and it gave me a great
+intuition into how to start learning Agda. I realized that the concepts actually
+aren’t complicated at all, but it took me a while to really understannd that.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

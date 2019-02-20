@@ -863,6 +863,14 @@ understood the power of dependent types as proof systems, and it gave me a great
 intuition into how to start learning Agda. I realized that the concepts actually
 aren’t complicated at all, but it took me a while to really understannd that.
 
+* [“Major key alert!” - Anomalous keys in Tor relay](https://nymity.ch/anomalous-tor-keys/pdf/anomalous-tor-keys.pdf) by **George Kadianakis et al.** (2017)
+
+This was a fascinating read. The topic is captivating—security topics always
+have a certain pull to them—and the language is clear enough so that a layman
+like me who does not bring a deep knowledge of the technologies used in the
+Tor network understands the approaches used by the researchers and
+feels—probably illusorily—like they are able to interpret the findings as well.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

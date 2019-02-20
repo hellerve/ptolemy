@@ -28,7 +28,6 @@
 * [The Art of the Interpreter or, the Modularity Complex (Parts Zero, One, and Two)](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-453.pdf) by **Guy Steele and Gerald Sussman** (1978)
 * [Design of LISP-based Processors, or SCHEME: A Dielectric LISP, or Finite Memories Considered Harmful, or LAMBDA: The Ultimate Opcode](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-514.pdf) by **Guy Steele and Gerald Sussman** (1979)
 * [An Open Framework for the Reproducible Study of the Iterated Prisoner’s Dilemma](http://openresearchsoftware.metajnl.com/articles/10.5334/jors.125/) by **Vincent Knight et al.** (2016)
-* [“Major key alert!” - Anomalous keys in Tor relay](https://nymity.ch/anomalous-tor-keys/pdf/anomalous-tor-keys.pdf) by **George Kadianakis et al.** (2017)
 * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/pdf/1707.09627.pdf) by **Kevin Ellis et al.** (2017)
 * [Beating Floating Point at its Own Game: Posit Arithmetic](http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf) by **John L. Gustafson & Isaac Yonemoto** (2017)
 * [Insights into Sexism: Male Status and Performance Moderates Female-Directed Hostile and Amicable Behaviour](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131613&type=printable) by **Michael M. Kasumovic & Jeffrey H. Kuznekoff** (2015)

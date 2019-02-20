@@ -1198,13 +1198,6 @@ around 12 years old, and it had great influence on the way I pictured living in
 the Sovjet Union. It is still a nice read, and feels like a glimpse into a
 foreign world.
 
-* *Zero To One: Notes on Startups, or How to Build the Future* by **Peter Thiel & Blake Masters** (2014)
-
-I’m not in the crazy startup space that Thiel and Masters describe, and I’m
-quite happy about that. There is some insight in that book, and a bunch of
-bullshit and survival bias. It’s written quite entertainingly, and sifting
-through it for the gems is never boring, so I quite enjoyed the read.
-
 * *Prosaminiaturen—Opus III* by **Wolfgang Haak** (2008)
 
 Paul Celan and he have influenced my writing—in German— like no other
@@ -1403,6 +1396,13 @@ software as open source. Obviously a great amount of work was invested in
 creating this.
 
 ### Books
+
+* *Zero To One: Notes on Startups, or How to Build the Future* by **Peter Thiel & Blake Masters** (2014)
+
+I’m not in the crazy startup space that Thiel and Masters describe, and I’m
+quite happy about that. There is some insight in that book, and a bunch of
+bullshit and survival bias. It’s written quite entertainingly, and sifting
+through it for the gems is never boring, so I quite enjoyed the read.
 
 * *[The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#)* by **Matt Mochary** (2018)
 

@@ -178,5 +178,3 @@
 * [Dialogues Concerning Natural Religion](http://www.davidhume.org/texts/dnr.html) by **David Hume** (1779)
 * [An Improviser’s OS](http://www.waynekrantz.com/?albums=wayne-krantz-an-improvisers-os-book) by **Wayne Krantz** (2018)
 * [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
-* [Notes on the Synthesis of Form](https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form) by **Christopher Alexander** (1964)
-* [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by **Robert M. Pirsig** (1974)

@@ -1384,6 +1384,35 @@ ending (I won’t spoil it here, though). My edition also featured an afterword 
 Stanislaw Lem which was insufferable, pretentious, and mistakes opinion for the
 scientific method; it ruined an otherwise perfectly good read for me.
 
+* [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by **Robert M. Pirsig** (1974)
+
+This might’ve been the best, most insightful I’vé ever read. I’m just floored.
+
+* [Notes on the Synthesis of Form](https://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form) by **Christopher Alexander** (1964)
+
+The core idea, breaking down tradeoffs, linking them, and working your way up
+again, is worth talking about. Unfortunately, the book gets a little repetitive
+after a while and the appendices (a case study and mathematical formulation) are
+not so fun to read. I’ll have to revisit those.
+
+* *Gedichte* by **Rose Ausländer** (2017)
+
+I really enjoy Rose Ausländer’s early poems. Her later poems (from the seventies
+and eighties, to be precise) feel very different, and are a little too direct
+and not linguistically interesting enough for me. Nonetheless the edition that I
+have has a good collection of different samples from different periods in her
+life, and it’s great fun to read them side by side.
+
+* *The Revolution Betrayed* by **Leon Trotsky** (1936)
+
+Both politically and historically interesting, this book is a good vivisection
+of the state of the Soviet union of the 1930s by a disillusioned revolutionary.
+It keeps surprpising me how many of the basic arguments against communism and
+socialism have been dealt with such a long time ago, and while people keep
+bringing them up, unchallengedly, when we have books like this one that clearly
+explain what the Soviet union was and wasn’t, and where it all went down the
+drain.
+
 ## Management
 
 ### Papers

@@ -1063,6 +1063,10 @@ Very entertaining read. It’s not really my area of expertise—not at all,
 really—, and still it’s quite fun to read. Of course the pun density is quite
 high, but that just comes with the territory.
 
+* [Fandomized Algorithms and Fandom Number Generation](https://github.com/lkuper/fandomized-algorithms) by **Lindsey Kuper & Alex Rudnick** (2013)
+
+Short, but sweet, but I don’t think I’ll try the tech out any time soon.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

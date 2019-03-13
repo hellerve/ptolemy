@@ -1067,6 +1067,12 @@ high, but that just comes with the territory.
 
 Short, but sweet, but I don’t think I’ll try the tech out any time soon.
 
+* [A Mathematician’s Lamen](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) by **Paul Lockhart** (2002)
+
+I must’ve read it for the second time, but I can’t remember reading it for the
+first time (except for a recollection of some of the things that have been said,
+without knowing where they come from). It’s a good, enjoyable, cathartic read.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

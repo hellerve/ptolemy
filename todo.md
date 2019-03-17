@@ -101,6 +101,7 @@
 * [Reasonably Programmable Literal Notation](https://github.com/cyrus-/ptsms-paper/blob/master/icfp18/omar-icfp18-final.pdf) by **Cyrus Omar & Jonathan Aldrich** (2018)
 * [Dijkstra Monads for Free](https://www.fstar-lang.org/papers/dm4free/) by **Danel Ahman et al.** (2017)
 * [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) by **Ruby Y. Tahboub et al.** (2018)
+* [Coq in Coq](http://www.lix.polytechnique.fr/~barras/publi/coqincoq.pdf) by **Bruno Barras & Benjamin Werner** (1997)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

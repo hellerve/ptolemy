@@ -1423,6 +1423,15 @@ bringing them up, unchallengedly, when we have books like this one that clearly
 explain what the Soviet union was and wasn’t, and where it all went down the
 drain.
 
+* *Perfecting Sound Forever: An Aural History of Recorded Music* by **Greg Milner** (2010)
+
+A fun read, but has its shortcomings. It’s extremely centered around recording
+history in the US, features a bunch of weird quacky types (such as Mr. Diamond),
+and it features almost exclusively men as protagonists of the history of
+recording—which might reflect the industry makeup, but was very obviously weird
+to me. Nonetheless, I learned a bunch of things about the history of recording
+and some of the more important historical records.
+
 ## Management
 
 ### Papers

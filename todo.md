@@ -103,6 +103,8 @@
 * [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) by **Ruby Y. Tahboub et al.** (2018)
 * [Coq in Coq](http://www.lix.polytechnique.fr/~barras/publi/coqincoq.pdf) by **Bruno Barras & Benjamin Werner** (1997)
 * [Collapsing Towers of Interpreters](http://lampwww.epfl.ch/~amin/pub/collapsing-towers.pdf) by **Nada Amin & Tiark Rompf** (2018)
+* [A Concrete Presentation of Game Semantics](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/galop08.pdf) by **W. Blum & C.-H. L. Ong** (2008)
+* [Algorithmic Game Semantics and its Applications: Final Report](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/final-report-agsa.pdf) by **S. Abramsky & C.-H. L. Ong** (2006)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

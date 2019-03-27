@@ -162,6 +162,7 @@
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) by **Mike Kamermans** (2018)
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by **Jeff Erickson** (2018)
 * [Engineering a Safer World—Systems Thinking Applied to Safety](http://mitpress.mit.edu/books/engineering-safer-world) by **Nancy G. Leveson** (2012)
+* [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by **Brendan Fong & David I.Spivak** (2018)
 
 ## Recreational
 

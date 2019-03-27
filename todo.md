@@ -105,6 +105,7 @@
 * [Collapsing Towers of Interpreters](http://lampwww.epfl.ch/~amin/pub/collapsing-towers.pdf) by **Nada Amin & Tiark Rompf** (2018)
 * [A Concrete Presentation of Game Semantics](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/galop08.pdf) by **W. Blum & C.-H. L. Ong** (2008)
 * [Algorithmic Game Semantics and its Applications: Final Report](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/final-report-agsa.pdf) by **S. Abramsky & C.-H. L. Ong** (2006)
+* [Program Testing and the Meaning Explanations of Intuitionistic Type Theory](http://www.cse.chalmers.se/~peterd/papers/MartinLofFestschrift.pdf) by **Peter Dybjer** (2012)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

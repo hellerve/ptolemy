@@ -106,6 +106,10 @@
 * [A Concrete Presentation of Game Semantics](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/galop08.pdf) by **W. Blum & C.-H. L. Ong** (2008)
 * [Algorithmic Game Semantics and its Applications: Final Report](http://www.cs.ox.ac.uk/people/luke.ong/personal/publications/final-report-agsa.pdf) by **S. Abramsky & C.-H. L. Ong** (2006)
 * [Program Testing and the Meaning Explanations of Intuitionistic Type Theory](http://www.cse.chalmers.se/~peterd/papers/MartinLofFestschrift.pdf) by **Peter Dybjer** (2012)
+* [Combining Testing and Proving in Dependent Type Theory](http://www.cse.chalmers.se/~peterd/papers/Testing_Proving.pdf) by **Peter Dybjer et al.** (2003)
+* [Verifying Haskell Programs by Combining Testing and Proving](http://www.cse.chalmers.se/~peterd/papers/Dallas.pdf) by **Peter Dybjer et al.** (2003)
+* [Verifying Haskell Programs by Combining Testing, Model Checking and Interactive Theorem Proving](http://www.cse.chalmers.se/~peterd/papers/TestingModelChecking.pdf) by **Peter Dybjer et al.** (2004)
+* [Random Generators for Dependent Types](http://www.cse.chalmers.se/~peterd/papers/Guiyang.pdf) by **Peter Dybjer et al.** (2004)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

@@ -871,6 +871,12 @@ like me who does not bring a deep knowledge of the technologies used in the
 Tor network understands the approaches used by the researchers and
 feels—probably illusorily—like they are able to interpret the findings as well.
 
+* [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf) by **Maged Michael and Michael Scott** (1996)
+
+This paper has it all: source code, pseudo code, a comprehensive-seeming study
+of the prior arts, and a goo set of benchmarks. It made me want to try to
+reimplement the algorithm, if only to play around with some C or Carp.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

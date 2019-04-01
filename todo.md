@@ -14,7 +14,6 @@
 * [Scalable Synchronous Queues](http://www.cs.rochester.edu/u/scott/papers/2009_Scherer_CACM_SSQ.pdf) by **William Scherer III et al.** (2009)
 * [Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages](http://bracha.org/mirrors.pdf) by **Gilad Bracha and David Ungar** (2004)
 * [Nonblocking Concurrent Data Structures with Condition Synchronization](https://web.archive.org/web/20110206165336/http://www.cs.rice.edu/~wns1/papers/2004-DISC-DDS.pdf) by **William Scherer III et al.** (2004)
-* [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.cs.rochester.edu/~scott/papers/1996_PODC_queues.pdf) by **Maged Michael and Michael Scott** (1996)
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)
 * [Scalable Garbage Collection with Guaranteed MMU](http://www.cesura17.net/~will/Professional/Research/Papers/gfremsets.pdf) by **William Clienger and Felix Klock II** (2009)

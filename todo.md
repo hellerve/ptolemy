@@ -110,6 +110,7 @@
 * [Verifying Haskell Programs by Combining Testing, Model Checking and Interactive Theorem Proving](http://www.cse.chalmers.se/~peterd/papers/TestingModelChecking.pdf) by **Peter Dybjer et al.** (2004)
 * [Random Generators for Dependent Types](http://www.cse.chalmers.se/~peterd/papers/Guiyang.pdf) by **Peter Dybjer et al.** (2004)
 * [Partial Evaluation of Computation Process - An Approach to a Compiler-Compiler](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.10.2747) by **Yoshihiko Futamura** (1999)
+* [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://eb.host.cs.st-andrews.ac.uk/drafts/impldtp.pdf) by **Edwin Brady** (2013)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -167,6 +168,7 @@
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by **Jeff Erickson** (2018)
 * [Engineering a Safer World—Systems Thinking Applied to Safety](http://mitpress.mit.edu/books/engineering-safer-world) by **Nancy G. Leveson** (2012)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by **Brendan Fong & David I.Spivak** (2018)
+* [Practical Implementation of a Dependently Typed Functional Programming Language](https://eb.host.cs.st-andrews.ac.uk/writings/thesis.pdf) by **Edwin C. Brady** (2005)
 
 ## Recreational
 

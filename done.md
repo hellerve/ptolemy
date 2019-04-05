@@ -1438,13 +1438,19 @@ recording—which might reflect the industry makeup, but was very obviously weir
 to me. Nonetheless, I learned a bunch of things about the history of recording
 and some of the more important historical records.
 
-* *What’s Yours is Mine: Against The SHaring Economy* by **Tom Slee** (2017)
+* *What’s Yours is Mine: Against The Sharing Economy* by **Tom Slee** (2017)
 
 A beautiful examination of the race to the bottom that is the Sharing Economy
 since it got the big money. There’s lots of interesting insight to be had in
 the book, but it’s most useful as a reference work, quantifying the feeling of
 political and social activists, economists, and politicians around the world,
 and giving us a numerical frame for a policy debate that’s long overdue.
+
+* *Jürgen* by **Heinz Strunk** (2017)
+
+What a painful, gorgeous book. It hurts a lot to read, and puts its fingers on
+the pain points of German culture; and that’s a great thing! I read the book in
+little more than a day, and it was a day well spent!
 
 ## Management
 

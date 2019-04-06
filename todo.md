@@ -111,6 +111,7 @@
 * [Random Generators for Dependent Types](http://www.cse.chalmers.se/~peterd/papers/Guiyang.pdf) by **Peter Dybjer et al.** (2004)
 * [Partial Evaluation of Computation Process - An Approach to a Compiler-Compiler](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.10.2747) by **Yoshihiko Futamura** (1999)
 * [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://eb.host.cs.st-andrews.ac.uk/drafts/impldtp.pdf) by **Edwin Brady** (2013)
+* [Ivor, A Proof Engine](https://eb.host.cs.st-andrews.ac.uk/writings/ivor.pdf) by **Edwin Brady** (2006)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

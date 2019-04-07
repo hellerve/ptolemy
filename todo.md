@@ -191,3 +191,4 @@
 * [Dialogues Concerning Natural Religion](http://www.davidhume.org/texts/dnr.html) by **David Hume** (1779)
 * [An Improviser’s OS](http://www.waynekrantz.com/?albums=wayne-krantz-an-improvisers-os-book) by **Wayne Krantz** (2018)
 * [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
+* *Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager* by **an Anonymous Hedge Fund Manager (duh)** (2010)

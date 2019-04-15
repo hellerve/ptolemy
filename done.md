@@ -1452,6 +1452,15 @@ What a painful, gorgeous book. It hurts a lot to read, and puts its fingers on
 the pain points of German culture; and that’s a great thing! I read the book in
 little more than a day, and it was a day well spent!
 
+* *Eine Frau schaut auf Männer, die auf Frauen schauen: Essays über Kunst, Geschlecht und Geist* by **Siri Hustvedt** (2019)
+
+I didn’t know any of Siri Hustvedt’s work going into this book, I just thought
+the title sounded interesting in the bookstore. The book is extremely
+stimulating, because it is very eclectic, touching on topics I’m familiar with
+and some I know nothing about. I didn’t agree with the message of all of the
+essays, or even enjoy all of them, but it’s a good book nonetheless; and it made
+me decide to finally read some Kierkegaard!
+
 ## Management
 
 ### Papers

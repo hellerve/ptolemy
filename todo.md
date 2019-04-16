@@ -114,6 +114,7 @@
 * [Ivor, A Proof Engine](https://eb.host.cs.st-andrews.ac.uk/writings/ivor.pdf) by **Edwin Brady** (2006)
 * [Lambdascope—Another optimal implementation of the lambda-calculus](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.3616) by **Vincent van Oostrom et al.** (2008)
 * [About the efficient reduction of lambda terms](https://www.researchgate.net/publication/312462365_About_the_efficient_reduction_of_lambda_terms) by **Andrea Asperti** (2017)
+* [Sharing in the Evaluation of lambda Expression](http://pauillac.inria.fr/~levy/pubs/88icot.pdf) by **Jean-Jacques Lévy** (1988)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

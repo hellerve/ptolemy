@@ -877,6 +877,14 @@ This paper has it all: source code, pseudo code, a comprehensive-seeming study
 of the prior arts, and a goo set of benchmarks. It made me want to try to
 reimplement the algorithm, if only to play around with some C or Carp.
 
+* [A Mulching Proposal—Analysing and Improving an Algorithmic System for Turning the Elderly into High-Nutrient Slurry](https://ironholds.org/resources/papers/mulching.pdf) by **Os Keyes et al.** (2019)
+
+One of those rare papers that’s both very fun and quite insightful. It’s
+undoubtedly silly, but the message is very clear, and very real: any one way of
+judging algorithms—especially checklist-style analyses—will fall short of
+underlying social and/or ethical implications. You can’t rely on blue prints for
+making decisions that have implications beyond the technical.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

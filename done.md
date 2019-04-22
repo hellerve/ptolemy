@@ -885,6 +885,11 @@ judging algorithms—especially checklist-style analyses—will fall short of
 underlying social and/or ethical implications. You can’t rely on blue prints for
 making decisions that have implications beyond the technical.
 
+* [Experiences Threat Modeling at Microsoft](https://adam.shostack.org/modsec08/Shostack-ModSec08-Experiences-Threat-Modeling-At-Microsoft.pdf) by **Adam Shostack** (2008)
+
+Very legible, an easy and enjoyable read! Threat modeling is a fun activity, and
+this paper is a classic!
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

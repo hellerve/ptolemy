@@ -115,7 +115,6 @@
 * [Lambdascope—Another optimal implementation of the lambda-calculus](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.109.3616) by **Vincent van Oostrom et al.** (2008)
 * [About the efficient reduction of lambda terms](https://www.researchgate.net/publication/312462365_About_the_efficient_reduction_of_lambda_terms) by **Andrea Asperti** (2017)
 * [Sharing in the Evaluation of lambda Expression](http://pauillac.inria.fr/~levy/pubs/88icot.pdf) by **Jean-Jacques Lévy** (1988)
-* [Simply Easy! An Implementation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andreas Löh et al.** (2007)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

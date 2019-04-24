@@ -33,7 +33,6 @@
 * [Herbarium Racketensis: A Stroll through the Woods (Functional Pearl)](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf) by **Vincent St-Amour** (2017)
 * [Analyzing human random generation behavior: A review of methods used and a computer program for describing performance](https://link.springer.com/content/pdf/10.3758%2FBF03209475.pdf) by **John N. Tawse & Derek Neil** (1998)
 * [Tackling the Awkward Squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mark.pdf) by **Simon Peyton-Jones** (2010)
-* [Linda In Context](http://worrydream.com/refs/Carriero%20-%20Linda%20in%20Context.pdf) by **Nicholas Carriero & David Gelernter** (1989)
 * [Urbit: A Solid-State Interpreter](http://media.urbit.org/whitepaper.pdf) by **Curtis Yarvin et al.** (2016)
 * [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by **Ralf Jung et al.** (2018)
 * [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by **Vannevar Bush** (1945)

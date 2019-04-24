@@ -890,6 +890,14 @@ making decisions that have implications beyond the technical.
 Very legible, an easy and enjoyable read! Threat modeling is a fun activity, and
 this paper is a classic!
 
+* [Linda In Context](http://worrydream.com/refs/Carriero%20-%20Linda%20in%20Context.pdf) by **Nicholas Carriero & David Gelernter** (1989)
+
+Although at some points unfair to its competition, this paper showcases a
+compelling programming model seemingly lost to time—at least in the mainstream.
+That’s fairly sad, as the case the authors make for Linda is fairly solid. I
+don’t know as much about its context as I probably should; oh well, yet another
+thing to look at!
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

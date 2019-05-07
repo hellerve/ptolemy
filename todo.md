@@ -115,6 +115,7 @@
 * [About the efficient reduction of lambda terms](https://www.researchgate.net/publication/312462365_About_the_efficient_reduction_of_lambda_terms) by **Andrea Asperti** (2017)
 * [Sharing in the Evaluation of lambda Expression](http://pauillac.inria.fr/~levy/pubs/88icot.pdf) by **Jean-Jacques Lévy** (1988)
 * [Cubical Type Theory: a constructive interpretation of the univalence axiom](http://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf) by **Cyril Cohen et al.** (2016)
+* [Generative Type Abstraction and Type-level Computation](https://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf) by **Stephanie Weirich et al.** (2011)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

@@ -117,6 +117,9 @@
 * [Cubical Type Theory: a constructive interpretation of the univalence axiom](http://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf) by **Cyril Cohen et al.** (2016)
 * [Generative Type Abstraction and Type-level Computation](https://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf) by **Stephanie Weirich et al.** (2011)
 * [Wellfounded Recursion with Copatterns—A Unified Approach to Termination and Productivity](https://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf) by **Andreas Abel & Brigitte Pientka** (2013)
+* [Practical Type Inference for Arbitrary-Rank Types](https://repository.upenn.edu/cis_papers/315/) by **Simon Peyton Jones et al.** (2007)
+* [Innovations in Computational Type Theory using Nuprl](http://www.nuprl.org/documents/Allen/05-jal-final.pdf) by **S.F. Allen et al.** (2005)
+* [Homotopical Patch Theory](http://dlicata.web.wesleyan.edu/pubs/amlh14patch/amlh14patch.pdf) by **Carlo Angiuli** (2014)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -175,6 +178,7 @@
 * [Engineering a Safer World—Systems Thinking Applied to Safety](http://mitpress.mit.edu/books/engineering-safer-world) by **Nancy G. Leveson** (2012)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by **Brendan Fong & David I.Spivak** (2018)
 * [Practical Implementation of a Dependently Typed Functional Programming Language](https://eb.host.cs.st-andrews.ac.uk/writings/thesis.pdf) by **Edwin C. Brady** (2005)
+* [Dependently Typed Programmingwith Domain-Specific Logics](http://dlicata.web.wesleyan.edu/pubs/thesis/thesis.pdf) by **Daniel R. Licata** (2011)
 
 ## Recreational
 

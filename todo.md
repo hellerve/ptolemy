@@ -116,6 +116,7 @@
 * [Sharing in the Evaluation of lambda Expression](http://pauillac.inria.fr/~levy/pubs/88icot.pdf) by **Jean-Jacques Lévy** (1988)
 * [Cubical Type Theory: a constructive interpretation of the univalence axiom](http://www.math.ias.edu/~amortberg/papers/cubicaltt.pdf) by **Cyril Cohen et al.** (2016)
 * [Generative Type Abstraction and Type-level Computation](https://www.seas.upenn.edu/~sweirich/papers/popl163af-weirich.pdf) by **Stephanie Weirich et al.** (2011)
+* [Wellfounded Recursion with Copatterns—A Unified Approach to Termination and Productivity](https://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf) by **Andreas Abel & Brigitte Pientka** (2013)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

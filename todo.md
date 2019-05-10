@@ -178,7 +178,8 @@
 * [Engineering a Safer World—Systems Thinking Applied to Safety](http://mitpress.mit.edu/books/engineering-safer-world) by **Nancy G. Leveson** (2012)
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by **Brendan Fong & David I.Spivak** (2018)
 * [Practical Implementation of a Dependently Typed Functional Programming Language](https://eb.host.cs.st-andrews.ac.uk/writings/thesis.pdf) by **Edwin C. Brady** (2005)
-* [Dependently Typed Programmingwith Domain-Specific Logics](http://dlicata.web.wesleyan.edu/pubs/thesis/thesis.pdf) by **Daniel R. Licata** (2011)
+* [Dependently Typed Programming with Domain-Specific Logics](http://dlicata.web.wesleyan.edu/pubs/thesis/thesis.pdf) by **Daniel R. Licata** (2011)
+* [The Innovators](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781476708706) by **Walter Isaacson** (2015)
 
 ## Recreational
 

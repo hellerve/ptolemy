@@ -898,6 +898,12 @@ That’s fairly sad, as the case the authors make for Linda is fairly solid. I
 don’t know as much about its context as I probably should; oh well, yet another
 thing to look at!
 
+* [Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages](http://bracha.org/mirrors.pdf) by **Gilad Bracha and David Ungar** (2004)
+
+A quite informative and comprehensive overview of mirrors, though a little
+dated. I quite enjoy the descriptions of the tradeoffs involved when designing
+reflection systems, however, and I’ve admired the authors’ work for a while now.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

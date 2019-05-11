@@ -12,7 +12,6 @@
 * [An optimistic approach to lock-free FIFO queues](http://people.csail.mit.edu/edya/publications/OptimisticFIFOQueue-journal.pdf) by **Edya Ladan-Mozes and Nir Shavit** (2004)
 * [A Practical Minimal Perfect Hashing Method](http://homepages.dcc.ufmg.br/~nivio/papers/wea05.pdf) by **Fabiano Botelho et al.**
 * [Scalable Synchronous Queues](http://www.cs.rochester.edu/u/scott/papers/2009_Scherer_CACM_SSQ.pdf) by **William Scherer III et al.** (2009)
-* [Mirrors: Design Principles for Meta-level Facilities of Object-Oriented Programming Languages](http://bracha.org/mirrors.pdf) by **Gilad Bracha and David Ungar** (2004)
 * [Nonblocking Concurrent Data Structures with Condition Synchronization](https://web.archive.org/web/20110206165336/http://www.cs.rice.edu/~wns1/papers/2004-DISC-DDS.pdf) by **William Scherer III et al.** (2004)
 * [Algebra of Parameterised Graph](https://www.staff.ncl.ac.uk/andrey.mokhov/algebra.pdf) by **Andrey Mokhov and Victor Khomeko** (2014)
 * [A Fast Procedure for Computing the Distance Between Complex Objects in Thee-Dimensional Space](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/gilbert.pdf) by **Elmer Gilbert et al.** (1988)

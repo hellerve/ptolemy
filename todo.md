@@ -119,6 +119,7 @@
 * [Practical Type Inference for Arbitrary-Rank Types](https://repository.upenn.edu/cis_papers/315/) by **Simon Peyton Jones et al.** (2007)
 * [Innovations in Computational Type Theory using Nuprl](http://www.nuprl.org/documents/Allen/05-jal-final.pdf) by **S.F. Allen et al.** (2005)
 * [Homotopical Patch Theory](http://dlicata.web.wesleyan.edu/pubs/amlh14patch/amlh14patch.pdf) by **Carlo Angiuli** (2014)
+* [Interactive design of bonsai tree models](http://algorithmicbotany.org/papers/bonsai.eg2003.pdf) by **Frederic Boudon et al.** (2003)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

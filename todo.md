@@ -181,6 +181,7 @@
 * [Dependently Typed Programming with Domain-Specific Logics](http://dlicata.web.wesleyan.edu/pubs/thesis/thesis.pdf) by **Daniel R. Licata** (2011)
 * [The Innovators](https://www.simonandschuster.com/books/The-Innovators/Walter-Isaacson/9781476708706) by **Walter Isaacson** (2015)
 * [But How Do It Know?](http://buthowdoitknow.com/) by **J. Clark Scott** (2009)
+* [Rust in Action](https://livebook.manning.com/#!/book/rust-in-action/welcome/v-9/) by **T. S. McNamara** (unreleased)
 
 ## Recreational
 

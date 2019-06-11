@@ -1488,6 +1488,12 @@ and some I know nothing about. I didn’t agree with the message of all of the
 essays, or even enjoy all of them, but it’s a good book nonetheless; and it made
 me decide to finally read some Kierkegaard!
 
+* *De coniuratione Catilinae* by **Salust** (41 B.C.)
+
+It’s scary how little the rhethoric of populist deception has changed in the
+last 2000 years. Some of the monologues by Catilina could be transplanted 1-to-1
+to the current times, and would make as much sense as they did back then.
+
 ## Management
 
 ### Papers

@@ -904,6 +904,15 @@ A quite informative and comprehensive overview of mirrors, though a little
 dated. I quite enjoy the descriptions of the tradeoffs involved when designing
 reflection systems, however, and I’ve admired the authors’ work for a while now.
 
+* [Object Oriented Shader Composition Using CLOS](https://github.com/Shinmera/talks/blob/master/els2018-glsl-oop/paper.pdf) by **Nicolas Hafner** (2018)
+
+Short and crisp. The paper presents an interesting idea, but I’d have liked more
+examples, especially if and how incoming and outgoing variables are merged. From
+the listings I assume that this merge can’t always happen completely
+automatically—Figure 1 and Figure 3 name the incoming vector `position`, while
+Figure 2 names it `vertex_data`—, but I’m not sure whether that’s just taken
+care of by implementing the superclass in CLOS.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

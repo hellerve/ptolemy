@@ -1530,9 +1530,15 @@ startup and face a very different set of opportunities and challenges than
 startup management does, large parts of this book were insightful, useful, and
 interesting to read. What a way to start my management section.
 
-* **The Hard Thing about Hard Things** by **Ben Horowitz** (2014)
+* *The Hard Thing about Hard Things* by **Ben Horowitz** (2014)
 
 This book is part autobiography, part management advice. I enjoyed reading it;
 it’s lighthearted, doesn’t feel overly long, and doesn’t dwell on anything for
 too long. Nonetheless, I’m not sure how useful it truly is; it’s fairly personal
 and biased, but at least it doesn’t give off a false sense of objectivity.
+
+* *Monsieur Ibrahim et les Fleurs du Coran* by **Éric-Emmanuel Schmitt** (2001)
+
+Understandable even for me, this book is beautiful in its simplicity. I enjoyed both the
+writing and the story. I wanted to read more Éric-Emmanuel Schmitt for a long time, and I
+believe now might finally be the right time.

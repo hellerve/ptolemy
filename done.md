@@ -1503,6 +1503,12 @@ It’s scary how little the rhethoric of populist deception has changed in the
 last 2000 years. Some of the monologues by Catilina could be transplanted 1-to-1
 to the current times, and would make as much sense as they did back then.
 
+* *Monsieur Ibrahim et les Fleurs du Coran* by **Éric-Emmanuel Schmitt** (2001)
+
+Understandable even for me, this book is beautiful in its simplicity. I enjoyed both the
+writing and the story. I wanted to read more Éric-Emmanuel Schmitt for a long time, and I
+believe now might finally be the right time.
+
 * *Diese Einsamkeit ohne Überfluß* by **Sigrid Damm** (2000)
 
 What a beautiful tale, about so many things. She tells us about her work, about her life,
@@ -1549,9 +1555,3 @@ This book is part autobiography, part management advice. I enjoyed reading it;
 it’s lighthearted, doesn’t feel overly long, and doesn’t dwell on anything for
 too long. Nonetheless, I’m not sure how useful it truly is; it’s fairly personal
 and biased, but at least it doesn’t give off a false sense of objectivity.
-
-* *Monsieur Ibrahim et les Fleurs du Coran* by **Éric-Emmanuel Schmitt** (2001)
-
-Understandable even for me, this book is beautiful in its simplicity. I enjoyed both the
-writing and the story. I wanted to read more Éric-Emmanuel Schmitt for a long time, and I
-believe now might finally be the right time.

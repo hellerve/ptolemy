@@ -1503,6 +1503,19 @@ It’s scary how little the rhethoric of populist deception has changed in the
 last 2000 years. Some of the monologues by Catilina could be transplanted 1-to-1
 to the current times, and would make as much sense as they did back then.
 
+* *Diese Einsamkeit ohne Überfluß* by **Sigrid Damm** (2000)
+
+What a beautiful tale, about so many things. She tells us about her work, about her life,
+and about the time that is 1995. Sadly my edition (by Suhrkamp) is riddled with spelling
+mistakes that reek of OCR, but I tried not to think about that.
+
+* *Leibhaftig* by **Christa Wolf** (2002)
+
+A moving tale of an illness and about life in East Germany—especially when trying to both
+have a career and make a difference. I felt with the author, and I felt an urge to help
+her, and in the end it left me feeling both happy and helpless, knowing that health and
+illness are things that come and go, and that they’re part of life.
+
 ## Management
 
 ### Papers

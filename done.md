@@ -1522,6 +1522,25 @@ have a career and make a difference. I felt with the author, and I felt an urge 
 her, and in the end it left me feeling both happy and helpless, knowing that health and
 illness are things that come and go, and that they’re part of life.
 
+* *Die letzte Wette* by **Jason Starr** (2002)
+
+An emotional but accurate betrayal of human interactions, relationships, and lives gone
+wrong. It felt very genuine and the characters made sense to me—though some were a little
+over the top, but such is fiction—, and most elicited at least a little bit of
+understanding, no matter how misguided or fallible they were. The mark of a good book.
+
+* *Das Bonusgeheimnis* by **Martin Suter** (2014)
+
+Funny as always. The stories are entertaining, and, though satirical, not too far away
+from reality. The punchlines never fail to deliver, and the book generally aged well.
+
+* *In der Nacht leuchten die Wörter* by **Ernesto Cardenal (1979)
+
+I’m not a big fan of epic, long poems. This book was worth reading anyway, for its
+political and historical dimension alone. The author’s descriptions and depictions of life
+in Central America in the midst of multiple USA-led “regime changes” is visceral. ¡Viva la
+revoluçion cubana!
+
 ## Management
 
 ### Papers

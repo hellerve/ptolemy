@@ -183,6 +183,7 @@
 * [But How Do It Know?](http://buthowdoitknow.com/) by **J. Clark Scott** (2009)
 * [Rust in Action](https://livebook.manning.com/#!/book/rust-in-action/welcome/v-9/) by **T. S. McNamara** (unreleased)
 * [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by **Pat Shaughnessy** (2013)
+* [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/) by **Daniel Kleitman** (20199
 
 ## Recreational
 

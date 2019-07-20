@@ -913,6 +913,17 @@ automatically—Figure 1 and Figure 3 name the incoming vector `position`, while
 Figure 2 names it `vertex_data`—, but I’m not sure whether that’s just taken
 care of by implementing the superclass in CLOS.
 
+* [Dedalus: Datalog in Time and Space](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf) by **Peter Alvaro et al.** (2009)
+
+I got this paper by a talk from Peter
+Alvaro—[see also](https://github.com/hellerve/programming-talks)—, because he
+talked a little bit about Dedalus and I got very intrigued. I was familiar with
+the basic idea behind it—Datalog plus negation and time—, and that was lucky,
+for otherwise I wouldn’t have taken away much. The paper is very technical in a
+domain I don’t know much about, and much of the jargon doesn’t immediately click
+for me. I was able to get the gist of it with the background by the talk,
+however, and enjoyed the paper a lot.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

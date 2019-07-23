@@ -924,6 +924,15 @@ domain I don’t know much about, and much of the jargon doesn’t immediately c
 for me. I was able to get the gist of it with the background by the talk,
 however, and enjoyed the paper a lot.
 
+* [The Inferno Operating System](http://www.vitanuova.com/inferno/papers/bltj.pdf) by **Sean Dorward et al.**
+
+The lineage of Inferno is clear: Plan9 was a great influence, and the language
+Limbo is clearly an ancestor of Go. Rob Pike sometimes earns a little ridicule
+for how persistent he was pushing the ideas underlying Plan9, Inferno, and Go,
+but once he found the niche that Go is filling today, it all started to fall
+into place. Nonetheless, the GUI applications developed in Limbo are
+interesting, and their structure is undoubtedly appealing.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

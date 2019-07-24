@@ -933,6 +933,12 @@ but once he found the niche that Go is filling today, it all started to fall
 into place. Nonetheless, the GUI applications developed in Limbo are
 interesting, and their structure is undoubtedly appealing.
 
+* [Some Elements of Mathematica Design](https://www.stephenwolfram.com/publications/academic/elements-mathematica-design.pdf) by **Stephen Wolfram** (1992)
+
+The insight in this paper is not earth-shattering—and a little self-congratulatory,
+unsurprisingly—, but it’s useful. API design is a discipline that’s near and dear to my
+heart, and Stephen Wolfram certainly has some insight into that.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

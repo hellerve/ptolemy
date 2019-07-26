@@ -120,6 +120,7 @@
 * [Innovations in Computational Type Theory using Nuprl](http://www.nuprl.org/documents/Allen/05-jal-final.pdf) by **S.F. Allen et al.** (2005)
 * [Homotopical Patch Theory](http://dlicata.web.wesleyan.edu/pubs/amlh14patch/amlh14patch.pdf) by **Carlo Angiuli** (2014)
 * [Interactive design of bonsai tree models](http://algorithmicbotany.org/papers/bonsai.eg2003.pdf) by **Frederic Boudon et al.** (2003)
+* [The Limbo Programming Language](http://www.vitanuova.com/inferno/papers/limbo.pdf) by **Dennis M. Ritchie** (2005)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
@@ -183,7 +184,7 @@
 * [But How Do It Know?](http://buthowdoitknow.com/) by **J. Clark Scott** (2009)
 * [Rust in Action](https://livebook.manning.com/#!/book/rust-in-action/welcome/v-9/) by **T. S. McNamara** (unreleased)
 * [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by **Pat Shaughnessy** (2013)
-* [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/) by **Daniel Kleitman** (20199
+* [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/) by **Daniel Kleitman** (2019)
 
 ## Recreational
 

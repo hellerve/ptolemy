@@ -939,6 +939,14 @@ The insight in this paper is not earth-shattering—and a little self-congratula
 unsurprisingly—, but it’s useful. API design is a discipline that’s near and dear to my
 heart, and Stephen Wolfram certainly has some insight into that.
 
+* [Descriptive Complexity: A Logician’s Approach to Computation](https://www.ams.org/notices/199510/immerman.pdf) by **Neil Immerman** (1995)
+
+An extremely dense paper, it was recommended to me as one of the most interesting papers
+in complexity research. It was a little hard to follow for me, but it was enjoyable
+nonetheless. I’m not usually concerned with complexity classes, but of course I feel a
+certain attraction to the field (maybe only motivated by the desire to relive my study
+days, where these kinds of questions were at least of grade-related importance).
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

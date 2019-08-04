@@ -1608,6 +1608,13 @@ but a lot of it did, and that was pretty cool.
 
 This was the weirdest thing I’ve read in a while.
 
+* *Orff* by **Lilo Gersdorf** (1981)
+
+An interesting monograph that mostly talks about Carl Orff’s magnificent
+compositional work, and doesn’t contain a lot of information about his life.
+I’d have been especially interested about his time during the Nazi regime, but
+it was mostly circumnavigated by the author.
+
 ## Management
 
 ### Papers

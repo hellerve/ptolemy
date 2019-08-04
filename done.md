@@ -1591,6 +1591,13 @@ political and historical dimension alone. The author’s descriptions and depict
 in Central America in the midst of multiple USA-led “regime changes” is visceral. ¡Viva la
 revoluçion cubana!
 
+* *Die Ratten* by **Gerhard Hauptmann** (1911)
+
+I’m quite surprised how little the dialects have changed since then, especially
+with the addition of the polish dialect/accent of one of the protagonists
+(Piperkarcka), which feels pretty accurate to me. Apart from that it also
+happens to be a fantastic play that I love very much.
+
 ## Management
 
 ### Papers

@@ -1598,6 +1598,16 @@ with the addition of the polish dialect/accent of one of the protagonists
 (Piperkarcka), which feels pretty accurate to me. Apart from that it also
 happens to be a fantastic play that I love very much.
 
+* *Panikraum* by **Hendrik Jackson** (2018)
+
+Some of the most intricate, elaborate, and difficult poetry I’ve ever read. It’s
+extremely dense, but also a ton of fun. Not all the material “clicked” for me,
+but a lot of it did, and that was pretty cool.
+
+* *God Bless You, Dr. Kevorkian* by **Kurt Vonnegut** (1999)
+
+This was the weirdest thing I’ve read in a while.
+
 ## Management
 
 ### Papers

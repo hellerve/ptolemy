@@ -1615,6 +1615,12 @@ compositional work, and doesn’t contain a lot of information about his life.
 I’d have been especially interested about his time during the Nazi regime, but
 it was mostly circumnavigated by the author.
 
+* *The Artful Wooden Spoon—How to Make Exquisite Keepsakes for the Kitchen* by **Joshua Vogel** (2015)
+
+This book is fantastic, reading it felt like practicing Zen. The voice is calm
+and full of wisdom, and the next time I find a beautiful fallen branch, I’m
+going to bring it home. My carving tools are ready.
+
 ## Management
 
 ### Papers

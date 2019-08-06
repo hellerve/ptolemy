@@ -1035,6 +1035,12 @@ some of the prescribed rules directly into [SBCLi](//github.com/hellerve/sbcli).
 The writing is concise and to the point, but never curt or unmotivated. It was
 tremendous fun!
 
+* [Weird machines, exploitability, and provable unexploitability](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) by *Thomas Dullien* (2017)
+
+Pretty cool work that solidifies some of our underlying assumptions about
+security by giving them a scientific framework. It’s also nice to be able to
+create proofs for exploitability and unexploitability.
+
 ## Recreational
 
 ### Papers

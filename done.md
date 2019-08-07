@@ -1627,6 +1627,13 @@ This book is fantastic, reading it felt like practicing Zen. The voice is calm
 and full of wisdom, and the next time I find a beautiful fallen branch, I’m
 going to bring it home. My carving tools are ready.
 
+* *Das Gilgamesch-Epos* by **Wolfram Frhr. von Soden** (2003)
+
+It is always interesting to read old epic poetry and old texts in general, and
+at least to me it’s surprising how little has changed. To people familiar with
+the Judeo-Christian tradition, many of the stories will seem oddly familiar—an
+ark, a flood, a dove?—, with an almost off-puttingly repetitive narrative.
+
 ## Management
 
 ### Papers

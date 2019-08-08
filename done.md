@@ -956,6 +956,12 @@ policies tend to be almost inexpressable in many popular programming languages,
 and Datalog is extremely good at it. The bits of Haskell code shown are pretty
 elegant as well.
 
+* [Weird machines, exploitability, and provable unexploitability](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) by *Thomas Dullien* (2017)
+
+Pretty cool work that solidifies some of our underlying assumptions about
+security by giving them a scientific framework. It’s also nice to be able to
+create proofs for exploitability and unexploitability.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
@@ -1034,12 +1040,6 @@ A very insightful little pamphlet that aged pretty well. I was able to take
 some of the prescribed rules directly into [SBCLi](//github.com/hellerve/sbcli).
 The writing is concise and to the point, but never curt or unmotivated. It was
 tremendous fun!
-
-* [Weird machines, exploitability, and provable unexploitability](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) by *Thomas Dullien* (2017)
-
-Pretty cool work that solidifies some of our underlying assumptions about
-security by giving them a scientific framework. It’s also nice to be able to
-create proofs for exploitability and unexploitability.
 
 ## Recreational
 

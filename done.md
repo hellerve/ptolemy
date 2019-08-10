@@ -1634,6 +1634,13 @@ at least to me it’s surprising how little has changed. To people familiar with
 the Judeo-Christian tradition, many of the stories will seem oddly familiar—an
 ark, a flood, a dove?—, with an almost off-puttingly repetitive narrative.
 
+* *Die Kunst, glücklich zu sein* by **Arthur Schopenhauer** (2005)
+
+This little collecion of pearls of wisdom by an interesting, troubled man were
+extremely insightful and supremely quotable. I enjoyed reading it, even though I didn’t agree with some of the rules and analyses. I also enjoyed being
+confronted with ancient Greek again, though, truth be told, I wasn’t able to
+decypher most of it.
+
 ## Management
 
 ### Papers

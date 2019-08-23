@@ -1641,6 +1641,12 @@ extremely insightful and supremely quotable. I enjoyed reading it, even though I
 confronted with ancient Greek again, though, truth be told, I wasn’t able to
 decypher most of it.
 
+* *On Bullshit* by **Harry G. Frankfurt** (1986)
+
+An insightful, unpretentious read that exhibits exceptional clarity. The ideas
+are presented understandably, and each movement from one idea to the next
+can be followed even by me.
+
 ## Management
 
 ### Papers

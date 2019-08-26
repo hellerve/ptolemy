@@ -962,6 +962,12 @@ Pretty cool work that solidifies some of our underlying assumptions about
 security by giving them a scientific framework. It’s also nice to be able to
 create proofs for exploitability and unexploitability.
 
+* [Static Typing for a Faulty Lambda Calculus](https://www.cs.princeton.edu/~dpw/papers/lambdazap-icfp06.pdf) by *David Walker et al.* (2006)
+
+What a fun idea! The paper is extremely inspiring and surprisingly readable. I
+particularly enjoyed that the typing rules were explained in prose—more papers
+should do that rather than just rely on the figures, if only for my sake.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1653,6 +1653,13 @@ An insightful, unpretentious read that exhibits exceptional clarity. The ideas
 are presented understandably, and each movement from one idea to the next
 can be followed even by me.
 
+* *Wolkenbruchs wunderliche Reise in die Arme einer Schickse* by **Thomas Meyer** (2014)
+
+Very slow for a while, with the Jiddish being the only thing that kept me
+afloat. Over time the story grew on me, though, and it got ever more
+interesting; I’m a sucker for 20-something love stories and coming of age, and
+this book added an interesting voice to that genre.
+
 ## Management
 
 ### Papers

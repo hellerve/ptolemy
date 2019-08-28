@@ -121,6 +121,8 @@
 * [Homotopical Patch Theory](http://dlicata.web.wesleyan.edu/pubs/amlh14patch/amlh14patch.pdf) by **Carlo Angiuli** (2014)
 * [Interactive design of bonsai tree models](http://algorithmicbotany.org/papers/bonsai.eg2003.pdf) by **Frederic Boudon et al.** (2003)
 * [The Limbo Programming Language](http://www.vitanuova.com/inferno/papers/limbo.pdf) by **Dennis M. Ritchie** (2005)
+* [Continuation calculus](https://arxiv.org/pdf/1309.1257.pdf) by **Bram Geron & Herman Geuvers** (2013)
+* [A type system for Continuation Calculus](https://arxiv.org/pdf/1409.3313.pdf) by **Herman Geuvers et al.** (2014)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

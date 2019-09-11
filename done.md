@@ -956,17 +956,23 @@ policies tend to be almost inexpressable in many popular programming languages,
 and Datalog is extremely good at it. The bits of Haskell code shown are pretty
 elegant as well.
 
-* [Weird machines, exploitability, and provable unexploitability](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) by *Thomas Dullien* (2017)
+* [Weird machines, exploitability, and provable unexploitability](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) by **Thomas Dullien** (2017)
 
 Pretty cool work that solidifies some of our underlying assumptions about
 security by giving them a scientific framework. It’s also nice to be able to
 create proofs for exploitability and unexploitability.
 
-* [Static Typing for a Faulty Lambda Calculus](https://www.cs.princeton.edu/~dpw/papers/lambdazap-icfp06.pdf) by *David Walker et al.* (2006)
+* [Static Typing for a Faulty Lambda Calculus](https://www.cs.princeton.edu/~dpw/papers/lambdazap-icfp06.pdf) by **David Walker et al.** (2006)
 
 What a fun idea! The paper is extremely inspiring and surprisingly readable. I
 particularly enjoyed that the typing rules were explained in prose—more papers
 should do that rather than just rely on the figures, if only for my sake.
+
+* [Dis Virtual Machine Specification](http://www.vitanuova.com/inferno/papers/dis.pdf) by **Vita Nuova Limited** (2003)
+
+Reading the specs I want to implement the virtual machine myself. The virtual
+machine isn’t overly complicated, but has a fun instruction set and datatypes.
+Maybe one day I have time for it.
 
 ### Books
 

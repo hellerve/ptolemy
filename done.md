@@ -1666,6 +1666,13 @@ afloat. Over time the story grew on me, though, and it got ever more
 interesting; I’m a sucker for 20-something love stories and coming of age, and
 this book added an interesting voice to that genre.
 
+* *Glenn Gould* by **Andrew Kazdin** (1989)
+
+I left this book disliking both Gould and the author. The author’s admission of reading a
+woman’s love letters to Gould for years just made my stomach churn, and so did Gould’s
+alleged personal habits. It won’t change my opinion of the music, of course, and I’ll
+always love his Goldberg variations, but it’s definitely a bit sad.
+
 ## Management
 
 ### Papers

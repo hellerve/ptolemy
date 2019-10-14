@@ -222,7 +222,7 @@ implement continuations, even if I have already implemented them
 myself. If I ever need to do so again, I might look at it beforehand,
 as the techniques described in the paper are interesting.
 
-* [Scheme: An Interpreter for Extended Lambda Calculus](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
+* [Scheme: An Interpreter for Extended Lambda Calculus](https://web.archive.org/web/20171025111456/http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-349.pdf) by **Gerald Sussman and Guy Steele** (1975)
 
 This paper blew my mind. I had no idea that the initial implementation
 of Scheme had such a wonderful actor system. Sure it is a bit more

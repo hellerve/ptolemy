@@ -123,6 +123,7 @@
 * [The Limbo Programming Language](http://www.vitanuova.com/inferno/papers/limbo.pdf) by **Dennis M. Ritchie** (2005)
 * [Continuation calculus](https://arxiv.org/pdf/1309.1257.pdf) by **Bram Geron & Herman Geuvers** (2013)
 * [A type system for Continuation Calculus](https://arxiv.org/pdf/1409.3313.pdf) by **Herman Geuvers et al.** (2014)
+* [GADTs Meet Their Match: Pattern-Matching Warnings That Account for GADTs, Guards, and Laziness](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/gadtpm-acm.pdf) by **Georgios Karachalias et al.** (2015)
 
 ### Books
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)

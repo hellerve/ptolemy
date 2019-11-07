@@ -1673,6 +1673,14 @@ woman’s love letters to Gould for years just made my stomach churn, and so did
 alleged personal habits. It won’t change my opinion of the music, of course, and I’ll
 always love his Goldberg variations, but it’s definitely a bit sad.
 
+* *Der goldene Kompass* by **Philip Pullman** (1995)
+
+Yeah, I know, it’s a YA book. I read it back when I was a young teenager, and
+remember disliking the writing at the time. It didn’t get better this time. I
+still somewhat enjoyed the story, but the writing was in fact so abysmal that
+I wanted to quit repeatedly. Of course, I’m not the target audience, so I guess
+it’s fine.
+
 ## Management
 
 ### Papers

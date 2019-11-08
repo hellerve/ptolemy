@@ -1046,12 +1046,20 @@ programming languages like Prolog alike, and it’s fun to read about its
 implementation. This document is not really a front-to-back kind of read and
 more of a reference work, but it is quite enlightening!
 
-* [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf) by *Peter Norvig & Kent Pitman* (1993)
+* [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf) by **Peter Norvig & Kent Pitman** (1993)
 
 A very insightful little pamphlet that aged pretty well. I was able to take
 some of the prescribed rules directly into [SBCLi](//github.com/hellerve/sbcli).
 The writing is concise and to the point, but never curt or unmotivated. It was
 tremendous fun!
+
+* *Mastering Clojure Macros* by **Colin Jones** (2014)
+
+A fun little book on macro programming, for beginners and experts alike. I
+already knew a lot of the covered material, but revision never hurt anyone,
+and it’s explained in a very pleasant style. What’s especially fun was that I
+ended up in a very similar place when preparing my talk on Clojure macros for
+next week!
 
 ## Recreational
 

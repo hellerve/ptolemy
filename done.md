@@ -1061,6 +1061,14 @@ and it’s explained in a very pleasant style. What’s especially fun was that 
 ended up in a very similar place when preparing my talk on Clojure macros for
 next week!
 
+* [Let over Lambda](https://letoverlambda.com/) by **Doug Hoyte** (2008)
+
+Though the book is very aggressive in its Common-Lisp-over-everything view of
+the world it contains some fairly interesting macro techniques. I had fun
+recreating some of the macros in other Lisps—most notably Carp and Clojure—,
+but in the end I mostly stayed for the insight around macros, which I don’t
+agree with 100%, but had fun wrapping my head around.
+
 ## Recreational
 
 ### Papers

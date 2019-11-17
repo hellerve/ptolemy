@@ -211,3 +211,4 @@
 * [An Improviser’s OS](http://www.waynekrantz.com/?albums=wayne-krantz-an-improvisers-os-book) by **Wayne Krantz** (2018)
 * [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
 * *Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager* by **an Anonymous Hedge Fund Manager (duh)** (2010)
+* *Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book* by **Daniel Ingram** (2009)

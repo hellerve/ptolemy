@@ -1199,6 +1199,13 @@ I must’ve read it for the second time, but I can’t remember reading it for t
 first time (except for a recollection of some of the things that have been said,
 without knowing where they come from). It’s a good, enjoyable, cathartic read.
 
+* [Managing an iconic old luxury brand in a new luxury economy: Hermès handbags in the US market](https://www.gwern.net/docs/economics/2014-lewis.pdf) by **Tasha L. Lewis & Brittany Haas** (2014)
+
+I knew next to nothing about the brand or its products before I started reading
+the article. It felt genuinely informative to read, and though I’m not looking
+to purchase any of their products anytime soon, the company’s business model is
+interesting enough for me to read about.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

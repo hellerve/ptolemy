@@ -188,6 +188,8 @@
 * [Rust in Action](https://livebook.manning.com/#!/book/rust-in-action/welcome/v-9/) by **T. S. McNamara** (unreleased)
 * [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by **Pat Shaughnessy** (2013)
 * [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/) by **Daniel Kleitman** (2019)
+* *The Mythical Man-Month* by **Frederick P. Brooks, Jr.** (1975)
+* *Algorithms + Data Structures = Programs* by **Niklaus Wirth** (1976)
 
 ## Recreational
 
@@ -212,3 +214,4 @@
 * [The Last Ringbearer](http://fan.lib.ru/img/e/eskov/last_ringbearer_engl/last_ring_bearer.pdf) by **Kirill Yeskov** (1999)
 * *Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager* by **an Anonymous Hedge Fund Manager (duh)** (2010)
 * *Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book* by **Daniel Ingram** (2009)
+* *How to Win Friends and Influence People* by **Dale Carnegie** (1936)

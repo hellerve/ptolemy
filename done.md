@@ -974,6 +974,14 @@ Reading the specs I want to implement the virtual machine myself. The virtual
 machine isn’t overly complicated, but has a fun instruction set and datatypes.
 Maybe one day I have time for it.
 
+* [A Plea for Lean Software](https://cr.yp.to/bib/1995/wirth.pdf) by **Niklaus Wirth** (1995)
+
+While Wirth’s tone is exceedingly paternalistic, I think his points are mostly
+sound, if a littel anecdotal. I’ve been trying to write simple software for
+quite some time now, and I still haven’t quite figured out the right
+heuristics. Maybe in a few years I’ll be able to look back at a project I’ve
+done as fondly as Wirth.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

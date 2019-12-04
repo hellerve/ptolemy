@@ -1704,6 +1704,14 @@ still somewhat enjoyed the story, but the writing was in fact so abysmal that
 I wanted to quit repeatedly. Of course, I’m not the target audience, so I guess
 it’s fine.
 
+* *On Modern Art* by **Paul Klee** (1924)
+
+Paul Klee was a tremendously well-spoken man, and this book is a testament to
+that fact. I made the mistake of reading the English version as published by
+Faber & Faber in 1948, which is quite terrible and clunky—there are some nice
+prints of some of his works in there, however, which makes it all worth it
+again.
+
 ## Management
 
 ### Papers

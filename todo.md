@@ -215,3 +215,4 @@
 * *Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager* by **an Anonymous Hedge Fund Manager (duh)** (2010)
 * *Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book* by **Daniel Ingram** (2009)
 * *How to Win Friends and Influence People* by **Dale Carnegie** (1936)
+* *The Bell Jar* by **Sylvia Plath** (1963)

@@ -190,6 +190,7 @@
 * [Calculus for Beginners and Artists](http://www-math.mit.edu/~djk/calculus_beginners/) by **Daniel Kleitman** (2019)
 * *The Mythical Man-Month* by **Frederick P. Brooks, Jr.** (1975)
 * *Algorithms + Data Structures = Programs* by **Niklaus Wirth** (1976)
+* *Software Abstractions: Logic, Language, and Analysis* by **Daniel Jackson** (2012)
 
 ## Recreational
 

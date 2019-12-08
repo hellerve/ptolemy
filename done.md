@@ -1720,6 +1720,12 @@ Faber & Faber in 1948, which is quite terrible and clunky—there are some nice
 prints of some of his works in there, however, which makes it all worth it
 again.
 
+* *Pedagogical Sketchbook* by **Paul Klee** (1921)
+
+For me this was an entertaining read, but ultimately without consequences. It’s
+nice to see a bit of the inner workings of the artistic mind of Paul Klee, but
+in the end the processes and ideas are too hermetic for me to grasp.
+
 ## Management
 
 ### Papers

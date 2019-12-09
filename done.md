@@ -989,6 +989,11 @@ about personal failures. It’s also a story that many of us have lived through
 before, though maybe not in a PL context. His criticism of the failings of
 the now infamous Algol commitee are harsh, but important.
 
+* [Our Human Condition "From Space"](http://www.vpri.org/pdf/m2003001_human_cond.pdf) by **Alan Kay** (2003)
+
+This was a fun and inspiring read, and I expected nothing less. Now I want to
+go do some “real-world math”.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

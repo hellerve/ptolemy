@@ -982,6 +982,13 @@ quite some time now, and I still haven’t quite figured out the right
 heuristics. Maybe in a few years I’ll be able to look back at a project I’ve
 done as fondly as Wirth.
 
+* [The Emperor’s Old Clothes](http://www.cs.fsu.edu/~engelen/courses/COP4610/hoare.pdf) by **Charles Anthony Richard Hoare** (1981)
+
+It’s refreshing to hear about someone as distinguished as Tony Hoare speak
+about personal failures. It’s also a story that many of us have lived through
+before, though maybe not in a PL context. His criticism of the failings of
+the now infamous Algol commitee are harsh, but important.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

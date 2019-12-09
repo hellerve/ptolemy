@@ -1726,6 +1726,15 @@ For me this was an entertaining read, but ultimately without consequences. It’
 nice to see a bit of the inner workings of the artistic mind of Paul Klee, but
 in the end the processes and ideas are too hermetic for me to grasp.
 
+* *Wir nehmen die Welt nur zu ernst* by **Hermann Hesse** (2019)
+
+While I enjoyed a lot of the texts in the book, I’m saddened by how much of the
+book consists of private and unpublished correspondences and/or poems. I can’t
+say that I know that some of the writing was never meant to be read by a wider
+audience, because I don’t know for sure, but I suspect it was in fact meant as
+the intimate chatter between friends and lonesome doodles; reading it just
+feels wrong.
+
 ## Management
 
 ### Papers

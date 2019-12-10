@@ -994,6 +994,13 @@ the now infamous Algol commitee are harsh, but important.
 This was a fun and inspiring read, and I expected nothing less. Now I want to
 go do some “real-world math”.
 
+* [Checking a large routine](https://fi.ort.edu.uy/innovaportal/file/20124/1/09-turing_checking_a_large_routine_earlyproof.pdf) by **Alan Turing** (1949)
+
+While the way Turing sets up and executes the proff is incredibly primitive and
+tedious from today’s perspective, it’s remarkable in that it predates most of
+the early writing on proofs by decades and anticipates some of the ideas that
+people like Robert Floyd would have indepdently almost twenty years later.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

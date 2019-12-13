@@ -1652,7 +1652,7 @@ understanding, no matter how misguided or fallible they were. The mark of a good
 Funny as always. The stories are entertaining, and, though satirical, not too far away
 from reality. The punchlines never fail to deliver, and the book generally aged well.
 
-* *In der Nacht leuchten die Wörter* by **Ernesto Cardenal (1979)
+* *In der Nacht leuchten die Wörter* by **Ernesto Cardenal** (1979)
 
 I’m not a big fan of epic, long poems. This book was worth reading anyway, for its
 political and historical dimension alone. The author’s descriptions and depictions of life

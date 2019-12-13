@@ -217,3 +217,4 @@
 * *Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book* by **Daniel Ingram** (2009)
 * *How to Win Friends and Influence People* by **Dale Carnegie** (1936)
 * *The Bell Jar* by **Sylvia Plath** (1963)
+* *Diese sehr ernsten Scherze* by **Daniel Kehlmann* (2006)

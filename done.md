@@ -1754,6 +1754,14 @@ audience, because I don’t know for sure, but I suspect it was in fact meant as
 the intimate chatter between friends and lonesome doodles; reading it just
 feels wrong.
 
+* *Die unendliche Bibliothek* by **Jorge Luis Borges** (1991)
+
+This collection of stories, collected by Alberto Manguel—one of the people who
+read to Borges after he had gone blind—, is a fantastic illustration of why
+Borges has become a bit of a dog whistle for intellectuals—or self-perceived
+intellectuals. The stories are insightful, witty, and full of magic. I love his
+writings and the stories that he dreams up equally much.
+
 ## Management
 
 ### Papers

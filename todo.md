@@ -204,7 +204,7 @@
 
 ### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)
-* *The Garden of the Forking Paths* by **Jose Luis Borges** (1941)
+* *The Garden of the Forking Paths* by **Jorge Luis Borges** (1941)
 * *A Thousand Plateaus* by **Gilles Deleuze and Felix Guattari** (1980)
 * *Archeology of Violence* by **Pierre Clastres** (1980)
 * *Geometric Galois Actions* by **Leila Schneps and Pierre Lochak** (1997)

@@ -218,3 +218,4 @@
 * *How to Win Friends and Influence People* by **Dale Carnegie** (1936)
 * *The Bell Jar* by **Sylvia Plath** (1963)
 * *Diese sehr ernsten Scherze* by **Daniel Kehlmann* (2006)
+* *Bleeding Edge* by **Thomas Pynchon** (2013)

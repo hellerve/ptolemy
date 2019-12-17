@@ -219,3 +219,4 @@
 * *The Bell Jar* by **Sylvia Plath** (1963)
 * *Diese sehr ernsten Scherze* by **Daniel Kehlmann* (2006)
 * *Bleeding Edge* by **Thomas Pynchon** (2013)
+* *Vom Gehen im Eis* by **Werner Herzog** (2009)

@@ -1001,6 +1001,13 @@ tedious from today’s perspective, it’s remarkable in that it predates most o
 the early writing on proofs by decades and anticipates some of the ideas that
 people like Robert Floyd would have indepdently almost twenty years later.
 
+* [Assigning Meanings to Programs](https://www.cs.tau.ac.il/~nachumd/term/FloydMeaning.pdf) by **Robert W. Floyd** (1969)
+
+This mostly-forgotten hallmark people touches on a few points that I find
+interesting: the halting problem (and how to get around it), state charts, and
+Algol. It also provides me with a vocabulary to prove things about the latter
+two concepts, which might be handy in the future.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

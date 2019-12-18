@@ -202,6 +202,7 @@
 * [Traversable Wormholes, Stargates, and Negative Energy](http://electrogravityphysics.com/wp-content/uploads/traversable-wormholes-stargates-negative-energy001.pdf) by **Eric W. Davis** (2009)
 * [Insights into Sexism: Male Status and Performance Moderates Female-Directed Hostile and Amicable Behaviour](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0131613&type=printable) by **Michael M. Kasumovic & Jeffrey H. Kuznekoff** (2015)
 * [A Mixed Methods Study of Telepathic Interspecies Communication with Therapeutic Riding Horses and Their Recovering Wounded Veteran Partners](https://deboraherickson.vpweb.com/upload/Telepathic_interspecies_communication-with-horses_06-09-16.pdf) by **Deborah L. Erickson et al.** (2016)
+* [I Didn’t Want to Offend You: The Cost of Avoiding Sensitive Questions](https://poseidon01.ssrn.com/delivery.php?ID=573003097124108027103018029101066102004031054052030066103127106126127093090026068007006034063101028059032067029102006126071107046016071077042066005092087075125075096068080057089030002091067082002086121068123091073001119029031003026126081122019106086104&EXT=pdf) by **Einav Hart et al.** (2019)
 
 ### Books
 * *A History of Eternity* by **Jorge Luis Borges** (1936)

@@ -3,6 +3,7 @@
 ## Computer Science
 
 ### Papers
+
 * [Abstracting Definitional Interpreters](https://github.com/write-you-a-scheme-v2/scheme/blob/master/sources/AbstractDefinitionalInterpreters.pdf) by **David Darais et al.** (2016?)
 * [Scalable Garbage Collection via Remembered Set Summarization and Refinement](http://www.cesura17.net/~will/Professional/Research/Papers/Klock/klock11-diss.pdf) by **Felix S. Klock II** (2011)
 * *Lambda, the ultimate label or a simple optimizing compiler for Scheme* by **William Clinger and Thomas Hansen** (1994)
@@ -129,6 +130,7 @@
 * [Etos: an Erlang to Scheme compiler](http://www.iro.umontreal.ca/~feeley/papers/FeeleyLaroseDIRO1079.pdf) by **Marc Feeley & Martin Larose** (1997)
 
 ### Books
+
 * *Gödel, Escher, Bach* by **Douglas Hofstaedter** (1979)
 * *Computation - Finite and Infinite Machines* by **Marvin Minsky** (1967)
 * *The Sciences of the Artificial* by **Herbert Simon** (1969)
@@ -198,6 +200,7 @@
 ## Recreational
 
 ### Papers
+
 * [The Psychological Impact Of Incarceration: Implications for Post-Prison Adjustment](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/410624-The-Psychological-Impact-of-Incarceration.PDF) by **Craig Hainey** (2002)
 * [Holy Stigmata, Anorexia, and Self-Mutilation: Parallels in Pain and Imagining](http://www.academia.edu/541052/Holy_Stigmata_Anorexia_and_Self-Mutilation_Parallels_in_Pain_and_Imagining) by **Robert Mullen** (2010)
 * [What Mary Didn’t Know](http://home.sandiego.edu/~baber/analytic/Jackson.pdf) by **Frank Jackson** (1986)
@@ -207,6 +210,7 @@
 * [I Didn’t Want to Offend You: The Cost of Avoiding Sensitive Questions](https://poseidon01.ssrn.com/delivery.php?ID=573003097124108027103018029101066102004031054052030066103127106126127093090026068007006034063101028059032067029102006126071107046016071077042066005092087075125075096068080057089030002091067082002086121068123091073001119029031003026126081122019106086104&EXT=pdf) by **Einav Hart et al.** (2019)
 
 ### Books
+
 * *A History of Eternity* by **Jorge Luis Borges** (1936)
 * *The Garden of the Forking Paths* by **Jorge Luis Borges** (1941)
 * *A Thousand Plateaus* by **Gilles Deleuze and Felix Guattari** (1980)

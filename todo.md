@@ -196,6 +196,7 @@
 * *The Mythical Man-Month* by **Frederick P. Brooks, Jr.** (1975)
 * *Algorithms + Data Structures = Programs* by **Niklaus Wirth** (1976)
 * *Software Abstractions: Logic, Language, and Analysis* by **Daniel Jackson** (2012)
+* [A fully homomorphic encryption scheme](https://crypto.stanford.edu/craig/) by **Craig Gentry** (2009)
 
 ## Recreational
 

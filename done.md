@@ -1003,10 +1003,17 @@ people like Robert Floyd would have indepdently almost twenty years later.
 
 * [Assigning Meanings to Programs](https://www.cs.tau.ac.il/~nachumd/term/FloydMeaning.pdf) by **Robert W. Floyd** (1969)
 
-This mostly-forgotten hallmark people touches on a few points that I find
+This mostly-forgotten hallmark paper touches on a few points that I find
 interesting: the halting problem (and how to get around it), state charts, and
 Algol. It also provides me with a vocabulary to prove things about the latter
 two concepts, which might be handy in the future.
+
+* [How Should Compilers Explain Problems to Developers?](http://static.barik.net/barik/publications/fse2018/barik_fse18.pdf) by **Titus Barik et al.** (2018)
+
+This is a fun read that dives deeper into the presentation of errors than I’ve
+seen done, but it’s still pretty shallow and I’m not necessarily convinced by
+the setup. Nonetheless, research like this is important and sadly very rare, so
+kudos!
 
 ### Books
 

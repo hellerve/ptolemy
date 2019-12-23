@@ -1776,6 +1776,14 @@ Borges has become a bit of a dog whistle for intellectuals—or self-perceived
 intellectuals. The stories are insightful, witty, and full of magic. I love his
 writings and the stories that he dreams up equally much.
 
+* *The Three Stigmata of Palmer Eldritch* by **Philip K. Dick** (1965)
+
+Despite having some complaints about aspects of the book—the story seemed pretty
+incoherent, some of the symbolism was super heavy-handed, and the Sci-Fi
+world ultimately unbelievable to me—, I loved it. Something kept me going, kept
+me at it and entertained, and I enjoyed it a lot. In the end, it’s just fun to
+read, and sometimes that’s more important than anything else.
+
 ## Management
 
 ### Papers

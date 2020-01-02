@@ -1784,6 +1784,44 @@ world ultimately unbelievable to me—, I loved it. Something kept me going, kep
 me at it and entertained, and I enjoyed it a lot. In the end, it’s just fun to
 read, and sometimes that’s more important than anything else.
 
+* *The Image of the City* by **Kevin Lynch** (1960)
+
+I have forgotten why this was on my reading list, but I enjoyed reading it. I
+understand that the work is significant, but I do have my quarrels with it,
+mostly about the author not sharing any of the data he used to draw up his
+conclusions—he references it a whole lot, which makes it even more weird. The
+writing is not especially good either, but that’s okay considering the intent,
+which was first to get an idea out, and only secondarily to articulate it well.
+
+* [Common Sense for the 21st Century](https://www.rogerhallam.com/wp-content/uploads/2019/08/Common-Sense-for-the-21st-Century_by-Roger-Hallam-Download-version.pdf) by **Roger Hallam** (2019)
+
+An extremely inspiring read. I don’t enjoy being part of a movement, and I’m
+too cynical to believe in anything strongly enough to sacrifice myself for it,
+but this book is a great way of making resistance actionable anyway, which is
+great. It’s a good playbook.
+
+* *Der Baron auf den Bäumen* by **Italo Calvino** (1957)
+
+This must’ve been one of the books I most enjoyed reading in 2019. The writing
+is fantastic and the story is absurd and fun enough to keep me entertained the
+whole time. This book made me reevaluate what I think of Italo Calvino’s
+writing in general, which I didn’t like very much in “If on a winter’s night a
+traveler” (see above).
+
+* *Die Struktur wissenschaftlicher Revolutionen* by **Thomas S. Kuhn** (1962)
+
+The writing is abominable, the idea interesting but could be explained in about
+two minutes: science follows a cycle of dogma and innovation. Breakthroughs in
+science open up new possibilities, leading to new paradigms (or dogma), and then
+we wait for another breakthrough. An interesting idea, and definitely worth
+considering, but it deserves a better exposition than Kuhn was able to provide.
+
+* *Three Men in a Boat* by **Jerome K. Jerome** (1889)
+
+I have no idea how that book came into our possession, but I’m glad it did. The
+writing is outrageously funny, and the absence of any sort of discernable story
+does not make it less good. I had a great time with it.
+
 ## Management
 
 ### Papers

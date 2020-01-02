@@ -229,3 +229,5 @@
 * *Bleeding Edge* by **Thomas Pynchon** (2013)
 * *Vom Gehen im Eis* by **Werner Herzog** (2009)
 * *The Peregrine* by **John Alec Baker** (1967)
+* *Invisible Cities* by **Italo Calvino** (1972)
+* *Reisende auf einem Bein* by **Herta Müller** (1989)

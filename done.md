@@ -1832,6 +1832,13 @@ Baudrillard seems to prefer. Instead, Foucault tries to find out what describes
 and especially limits discourse, and why. As such, it is partly a prototype for
 “The Order of Things”, one of my favorite philosophy books.
 
+* *Der Zauberer* by **Vladimir Nabokov** (1986)
+
+This proto-Lolita is beautifully written, which necessarily means that reading
+it felt both disgusting and shamefully erotic at times. It’s a troubling book,
+because it is good. The protagonist felt real, and seeing the world through his
+eyes was a disturbing, painful experience.
+
 ## Management
 
 ### Papers

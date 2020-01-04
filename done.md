@@ -1822,6 +1822,16 @@ I have no idea how that book came into our possession, but I’m glad it did. Th
 writing is outrageously funny, and the absence of any sort of discernable story
 does not make it less good. I had a great time with it.
 
+* *Die Ordnung des Diskurses* by **Michel Foucault** (1970)
+
+This book reads like the reasonable companion book to Jean Baudrillard’s
+“Simulacra and Simulation”—which I’m trying to get throguh as well. It’s
+well-written and although it tries to acknowledge the power discourse has over
+us, and over our reality, it never goes into the masturbatory lala land that
+Baudrillard seems to prefer. Instead, Foucault tries to find out what describes
+and especially limits discourse, and why. As such, it is partly a prototype for
+“The Order of Things”, one of my favorite philosophy books.
+
 ## Management
 
 ### Papers

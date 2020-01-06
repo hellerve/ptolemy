@@ -1839,6 +1839,13 @@ it felt both disgusting and shamefully erotic at times. It’s a troubling book,
 because it is good. The protagonist felt real, and seeing the world through his
 eyes was a disturbing, painful experience.
 
+* *Ruhm* by **Daniel Kehlmann** (2009)
+
+I read this book back when it came out, but must’ve misplaced it. I
+rediscovered it in the public library I like to go to, and it’s as fantastic as
+I remember. I enjoy how different the stories are, and how they link up in
+subtle ways to create a coherent universe.
+
 ## Management
 
 ### Papers

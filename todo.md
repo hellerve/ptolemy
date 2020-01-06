@@ -128,6 +128,7 @@
 * [Compiling Erlang to Scheme](http://www.iro.umontreal.ca/~feeley/papers/FeeleyLarosePLILP98.pdf) by **Marc Feeley & Martin Larose** (1998)
 * [Etos: an Erlang to Scheme compiler](http://www.iro.umontreal.ca/~feeley/papers/FeeleyLaroseDIRO1079.pdf) by **Marc Feeley & Martin Larose** (1997)
 * [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf) by **Craig Gentry** (2008)
+* [Generic top-down discrimination for sorting and partitioning in linear time](https://www.cs.ox.ac.uk/projects/utgp/school/henglein2012c.pdf) by **Fritz Henglein** (2012)
 
 ### Books
 

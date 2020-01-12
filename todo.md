@@ -234,3 +234,4 @@
 * *Invisible Cities* by **Italo Calvino** (1972)
 * *Reisende auf einem Bein* by **Herta Müller** (1989)
 * [Don’t Just Roll the Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) by **Neil Davidson** (2012)
+* [Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation—An Argument](https://law.unimelb.edu.au/__data/assets/pdf_file/0010/2432989/Wynter-2003-Unsettling-the-Coloniality-of-Being.pdf) by **Sylvia Wynter** (2003)

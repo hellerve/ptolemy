@@ -198,6 +198,7 @@
 * *Algorithms + Data Structures = Programs* by **Niklaus Wirth** (1976)
 * *Software Abstractions: Logic, Language, and Analysis* by **Daniel Jackson** (2012)
 * [A fully homomorphic encryption scheme](https://crypto.stanford.edu/craig/) by **Craig Gentry** (2009)
+* [Software Security—Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf) by **Matthias Payer** (2019)
 
 ## Recreational
 

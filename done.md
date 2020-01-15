@@ -1853,6 +1853,13 @@ still remembered that I had my problems with it; now I remember why. The last
 chapter was a little trope-y, but apart from that, this is a beautiful book
 that I enjoy quite a bit, although maybe not as much as Kehlmann’s later works.
 
+* *Simulacra and Silumation* by **Jean Baudrillard** (1981)
+
+This felt slightly incoherent at times, but had some interesting thoughts in
+it. Generally it was a little hard to work through, but I enjoyed the ride.
+It was a little bit like poetry on crack, with a slight twist of self-diagnosed
+genius.
+
 ## Management
 
 ### Papers

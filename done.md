@@ -1846,6 +1846,13 @@ rediscovered it in the public library I like to go to, and it’s as fantastic a
 I remember. I enjoy how different the stories are, and how they link up in
 subtle ways to create a coherent universe.
 
+* *Beerholms Vorstellung* by **Daniel Kehlmann** (1997)
+
+I enjoyed eleven out of twelve chapters. I’ve read this book before, and I
+still remembered that I had my problems with it; now I remember why. The last
+chapter was a little trope-y, but apart from that, this is a beautiful book
+that I enjoy quite a bit, although maybe not as much as Kehlmann’s later works.
+
 ## Management
 
 ### Papers

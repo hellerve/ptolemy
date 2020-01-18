@@ -200,6 +200,7 @@
 * *Software Abstractions: Logic, Language, and Analysis* by **Daniel Jackson** (2012)
 * [A fully homomorphic encryption scheme](https://crypto.stanford.edu/craig/) by **Craig Gentry** (2009)
 * [Software Security—Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf) by **Matthias Payer** (2019)
+* [Practical Compiler Construction](http://www.t3x.org/reload/index.html) by **Nils M. Holm** (2012)
 
 ## Recreational
 

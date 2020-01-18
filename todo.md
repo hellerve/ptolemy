@@ -201,6 +201,13 @@
 * [A fully homomorphic encryption scheme](https://crypto.stanford.edu/craig/) by **Craig Gentry** (2009)
 * [Software Security—Principles, Policies, and Protection](https://nebelwelt.net/SS3P/softsec.pdf) by **Matthias Payer** (2019)
 * [Practical Compiler Construction](http://www.t3x.org/reload/index.html) by **Nils M. Holm** (2012)
+* [Scheme 9 from Empty Space](http://www.t3x.org/s9book/index.html) by **Nils M. Holm** (2014)
+* [An Introduction to Array Programming in Klong](http://www.t3x.org/klong/book.html) by **Nils M. Holm** (2018)
+* [Write Your Own Compiler](http://www.t3x.org/t3x/book.html) by **Nils M. Holm** (2017)
+* [Lisp System Implementation](http://www.t3x.org/lsi/index.html) by **Nils M. Holm** (2019)
+* [Sketchy Scheme](http://www.t3x.org/sketchy/index.html) by **Nils M. Holm** (2011)
+* [Logic Programming in Scheme](http://www.t3x.org/amk/index.html) by **Nils M. Holm** (2012)
+* [Compiling Lambda Calculus](http://www.t3x.org/clc/index.html) by **Nils M. Holm** (2018)
 
 ## Recreational
 

@@ -36,7 +36,6 @@
 * [Urbit: A Solid-State Interpreter](http://media.urbit.org/whitepaper.pdf) by **Curtis Yarvin et al.** (2016)
 * [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf) by **Ralf Jung et al.** (2018)
 * [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by **Vannevar Bush** (1945)
-* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20%28Havelund%29.pdf) by **Klaus Havelund et al.** (2000)
 * [Linear Haskell: practical linearity in a higher-order polymorphic language](https://arxiv.org/abs/1710.09756) by **Jean-Philippe Bernardy et al.** (2017)
 * [The Power of Two Random Choices: A Survey of Techniques and Results](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf) by **Michael Mitzenmacher et al.** (2001)
 * [Why Is Random Testing Effective for Partition Tolerance Bugs?](https://people.mpi-sws.org/~fniksic/popl2018/paper.pdf) by **Rupak Majumdar & Filip Niksic** (2018)

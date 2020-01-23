@@ -1015,6 +1015,16 @@ seen done, but it’s still pretty shallow and I’m not necessarily convinced b
 the setup. Nonetheless, research like this is important and sadly very rare, so
 kudos!
 
+* [Formal Analysis of the Remote Agent Before and After Flight](https://ti.arc.nasa.gov/m/pub-archive/176h/0176%20%28Havelund%29.pdf) by **Klaus Havelund et al.** (2000)
+
+An enjoyable if somewhat frustrating read. I appreciate the level of detail
+that the authors give about their verification experience, but I’m a little put
+off by their insistence to use Java over Lisp, even though Lisp was used for
+the codebase. Manually translating the Lisp code to Java code before
+translating, or translating manually into the model-checking language, seems
+counter-productive to the verification effort and somewhat diminishes my
+interest in their findings.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

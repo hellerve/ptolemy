@@ -130,6 +130,7 @@
 * [Generic top-down discrimination for sorting and partitioning in linear time](https://www.cs.ox.ac.uk/projects/utgp/school/henglein2012c.pdf) by **Fritz Henglein** (2012)
 * [Critical Perspectives on Provable Security: Fifteen Years of “Another Look” Papers](https://eprint.iacr.org/2019/1336.pdf) by **Neal Koblitz & Alfred Menezes** (2019)
 * [The Derivative of a Regular Type is its Type of One-Hole Contexts](http://strictlypositive.org/diff.pdf) by **Conor McBride** (?)
+* [How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-3_Meli_paper.pdf) by **Michael Meli et al.** (2019)
 
 ### Books
 

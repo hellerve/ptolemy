@@ -1025,6 +1025,12 @@ translating, or translating manually into the model-checking language, seems
 counter-productive to the verification effort and somewhat diminishes my
 interest in their findings.
 
+* [Synthesizing Data Structure Transformations from Input-Output Examples](https://www.cs.rice.edu/~sc40/pubs/pldi15.pdf) by **John K. Feser et al.** (2015)
+
+The methods for arriving at synthesized programs is deceptively simple, which
+I find encouraging. I’d like to try this approach myself eventually, and I
+found the authors’ explanation extremely readable and easy to understand.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

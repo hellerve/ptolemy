@@ -1885,6 +1885,15 @@ it. Generally it was a little hard to work through, but I enjoyed the ride.
 It was a little bit like poetry on crack, with a slight twist of self-diagnosed
 genius.
 
+* *Name und Notwendigkeit* by **Saul Kripke** (1972)
+
+While I enjoyed the main theses of the book, the constant insistence on the
+intellecual superiority of reader/listener and Kripke himself got on my nerves
+pretty quickly, as did the sprawling footnotes of often little content other
+than “I don’t have time nor space to explain the things I posit here ”, which
+is infuriating in its uselessness. There are good insights in the book that
+inspired me, but reading it is no fun.
+
 ## Management
 
 ### Papers

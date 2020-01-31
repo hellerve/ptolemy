@@ -5,7 +5,8 @@ the writings I judge, so please see everything I am writing as notes to
 myself to remind me of key ideas in the paper or book at hand and what
 I thought of them. They are as biased and right and wrong about things
 as I personally am. So if you do not trust me as a person, do not trust
-my write-ups.
+my write-ups—and even if you do trust me, I’m probably out of my depth
+here.
 
 ## Computer Science
 
@@ -1031,6 +1032,7 @@ The methods for arriving at synthesized programs is deceptively simple, which
 I find encouraging. I’d like to try this approach myself eventually, and I
 found the authors’ explanation extremely readable and easy to understand.
 
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)
@@ -1262,6 +1264,13 @@ I knew next to nothing about the brand or its products before I started reading
 the article. It felt genuinely informative to read, and though I’m not looking
 to purchase any of their products anytime soon, the company’s business model is
 interesting enough for me to read about.
+
+* [The Euclidean Algorithm Generates Traditional Musical Rhythms](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf) by **Godfried Toussaint** (2005)
+
+This little paper is fun and well-written, and it doesn’t matter that my music
+theory is a little rusty—I was still able to comprehend it all. The author
+writes well, explains well, and I enjoyed his many references to musical
+styles of the world which I definitely will research more in the future.
 
 ### Books
 

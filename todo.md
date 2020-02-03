@@ -238,7 +238,7 @@
 * *Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book* by **Daniel Ingram** (2009)
 * *How to Win Friends and Influence People* by **Dale Carnegie** (1936)
 * *The Bell Jar* by **Sylvia Plath** (1963)
-* *Diese sehr ernsten Scherze* by **Daniel Kehlmann* (2006)
+* *Diese sehr ernsten Scherze* by **Daniel Kehlmann** (2006)
 * *Bleeding Edge* by **Thomas Pynchon** (2013)
 * *Vom Gehen im Eis* by **Werner Herzog** (2009)
 * *The Peregrine* by **John Alec Baker** (1967)
@@ -248,3 +248,4 @@
 * [Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation—An Argument](https://law.unimelb.edu.au/__data/assets/pdf_file/0010/2432989/Wynter-2003-Unsettling-the-Coloniality-of-Being.pdf) by **Sylvia Wynter** (2003)
 * *A General Theory of Oblivion* by **José Eduardo Agualusa** (2013)
 * *The Refusal of Work* by **David Frayne** (2015)
+* *A Mathematician’s Apology* by **G. H. Hary** (1940)

@@ -131,6 +131,7 @@
 * [Critical Perspectives on Provable Security: Fifteen Years of “Another Look” Papers](https://eprint.iacr.org/2019/1336.pdf) by **Neal Koblitz & Alfred Menezes** (2019)
 * [The Derivative of a Regular Type is its Type of One-Hole Contexts](http://strictlypositive.org/diff.pdf) by **Conor McBride** (?)
 * [How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-3_Meli_paper.pdf) by **Michael Meli et al.** (2019)
+* [Functional Pearl: Maximally Dense Segments](https://scm.iis.sinica.edu.tw/pub/mds.pdf) by **Sharon Curties & Shin-Cheng Mu** (2010)
 
 ### Books
 

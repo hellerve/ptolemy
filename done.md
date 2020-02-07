@@ -1894,6 +1894,13 @@ than “I don’t have time nor space to explain the things I posit here ”, wh
 is infuriating in its uselessness. There are good insights in the book that
 inspired me, but reading it is no fun.
 
+* *Occupy! Die ersten Wochen in New York* by **Carla Blumenkranz et al.** (2011)
+
+It should be a light, short read. When you let it sink in, when you think about
+it, then it’s not light nor short. It’s a lesson in how important uprisings get
+stifled by mass inaction and eventual compromise (because radicalism is the
+greatest of all crimes in a world made of sugar).
+
 ## Management
 
 ### Papers

@@ -1272,6 +1272,12 @@ theory is a little rusty—I was still able to comprehend it all. The author
 writes well, explains well, and I enjoyed his many references to musical
 styles of the world which I definitely will research more in the future.
 
+* [Das Unsterblichkeitskonzept des "Pythagorean Institute of Philosophical Studies for the Immortality of Men"](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47992) by **Hannes Puchta** (2018)
+
+It’s hilarious, and I’m not sure whether that’s intentional or not. The
+material this paper is based on is just ridiculous, and the author can’t help
+but play around with it a bit.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

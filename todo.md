@@ -132,6 +132,7 @@
 * [The Derivative of a Regular Type is its Type of One-Hole Contexts](http://strictlypositive.org/diff.pdf) by **Conor McBride** (?)
 * [How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-3_Meli_paper.pdf) by **Michael Meli et al.** (2019)
 * [Functional Pearl: Maximally Dense Segments](https://scm.iis.sinica.edu.tw/pub/mds.pdf) by **Sharon Curties & Shin-Cheng Mu** (2010)
+* [Distributed Feature Composition: A Virtual Architecture for Telecommunications Services](http://www.pamelazave.com/dfctse.pdf) by **Michael Jackson & Pamela Zave** (1998)
 
 ### Books
 

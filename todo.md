@@ -211,6 +211,8 @@
 * [Sketchy Scheme](http://www.t3x.org/sketchy/index.html) by **Nils M. Holm** (2011)
 * [Logic Programming in Scheme](http://www.t3x.org/amk/index.html) by **Nils M. Holm** (2012)
 * [Compiling Lambda Calculus](http://www.t3x.org/clc/index.html) by **Nils M. Holm** (2018)
+* *The t Programming Language: A Dialect of Lisp* by **Stephen Slade** (1987)
+* *Land Of Lisp* by **Conrad Barski** (2010)
 
 ## Recreational
 

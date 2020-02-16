@@ -213,6 +213,7 @@
 * [Compiling Lambda Calculus](http://www.t3x.org/clc/index.html) by **Nils M. Holm** (2018)
 * *The t Programming Language: A Dialect of Lisp* by **Stephen Slade** (1987)
 * *Land Of Lisp* by **Conrad Barski** (2010)
+* [Fexprs as the basis of Lisp function application or $vau: the ultimate abstraction](https://web.wpi.edu/Pubs/ETD/Available/etd-090110-124904/unrestricted/jshutt.pdf) by **John N. Shutt** (2010)
 
 ## Recreational
 

@@ -1032,6 +1032,12 @@ The methods for arriving at synthesized programs is deceptively simple, which
 I find encouraging. I’d like to try this approach myself eventually, and I
 found the authors’ explanation extremely readable and easy to understand.
 
+* [Pico Lisp—A Radical Approach to Application Development](http://software-lab.de/radical.pdf) by **Alexander Burger** (2006)
+
+A short but insightful paper about minimalism in Lisp. I don’t think all of the
+content is fair or accurate, but I agree with it to a certain extent. Pico Lisp
+embodies a bit of that minimalism that usually gets lost very quickly when
+iterating on an idea.
 
 ### Books
 

@@ -1039,6 +1039,15 @@ content is fair or accurate, but I agree with it to a certain extent. Pico Lisp
 embodies a bit of that minimalism that usually gets lost very quickly when
 iterating on an idea.
 
+* [APROL—A Hybrid Language](http://www.cs.trinity.edu/~jhowland/aprol.paper.pdf) b y**Dennis Holmes & John E. Howland** (1993)
+
+I was sent this paper by a friend after showing them [april](https://github.com/phantomics/april),
+a similar-seeming project. After an examination of both systems it became
+clear, however, that their goals and design decisions are very different.
+Personally I prefer april’s solution of having a library to interface with
+APL/J/K within Lisp, but I understand why a different design might lead to a
+more powerful, well-integrated system.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

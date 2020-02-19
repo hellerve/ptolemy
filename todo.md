@@ -214,6 +214,7 @@
 * *The t Programming Language: A Dialect of Lisp* by **Stephen Slade** (1987)
 * *Land Of Lisp* by **Conrad Barski** (2010)
 * [Fexprs as the basis of Lisp function application or $vau: the ultimate abstraction](https://web.wpi.edu/Pubs/ETD/Available/etd-090110-124904/unrestricted/jshutt.pdf) by **John N. Shutt** (2010)
+* [“One part politics, one part technology, one part history”: Racial representation in the Unicode 7.0 emoji set](https://journals.sagepub.com/doi/pdf/10.1177/1461444819899623) by **Kate M. Miltner** (2020)
 
 ## Recreational
 

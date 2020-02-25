@@ -1048,6 +1048,14 @@ Personally I prefer april’s solution of having a library to interface with
 APL/J/K within Lisp, but I understand why a different design might lead to a
 more powerful, well-integrated system.
 
+* [Actor Semantics of Planner-73](https://dspace.mit.edu/bitstream/handle/1721.1/41116/AI_WP_081.pdf) by **Irene Greif & Carl Hewitt** (1974)
+
+I found this paper while researching the references of the original Scheme
+paper, and was quite surprised when it talked about the incospicuous cons
+cell at length, a data structure I had seen in the Scheme paper. I didn’t
+know of its importance, and it was quite fun to figure out its state problems
+together with the authors.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

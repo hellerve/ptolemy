@@ -1056,6 +1056,15 @@ cell at length, a data structure I had seen in the Scheme paper. I didn’t
 know of its importance, and it was quite fun to figure out its state problems
 together with the authors.
 
+* [The Discoveries of Continuations](http://www.cs.ru.nl/~freek/courses/tt-2011/papers/cps/histcont.pdf) by **John C. Reynolds** (1993)
+
+Reynolds’ papers have a special quality to them: they’re engaging, readable,
+and he comes off as a supremely friendly person—and apparently he was. On top
+of that, this paper is filling a gap in my historical understanding of how
+continuations got to where they are today. Many of the researchers Reynolds
+credits I hadn’t even heard about, particularly since I hadn’t looked at the
+history of Algol-60 very deeply yet.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

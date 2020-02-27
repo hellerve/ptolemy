@@ -1065,6 +1065,13 @@ continuations got to where they are today. Many of the researchers Reynolds
 credits I hadn’t even heard about, particularly since I hadn’t looked at the
 history of Algol-60 very deeply yet.
 
+* [Lisp—Notes on its Past and Future](http://www-formal.stanford.edu/jmc/lisp20th.pdf) by **John McCarthy** (1980)
+
+This is an interesting paper in that it poses very compelling questions, the
+direction of which I don’t particularly agree with. I think I understand the
+aesthetical opinions that McCarthy argued for in this paper, but I see the
+world through a different, maybe less pure lens.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

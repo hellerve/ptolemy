@@ -133,6 +133,8 @@
 * [How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-3_Meli_paper.pdf) by **Michael Meli et al.** (2019)
 * [Functional Pearl: Maximally Dense Segments](https://scm.iis.sinica.edu.tw/pub/mds.pdf) by **Sharon Curties & Shin-Cheng Mu** (2010)
 * [Distributed Feature Composition: A Virtual Architecture for Telecommunications Services](http://www.pamelazave.com/dfctse.pdf) by **Michael Jackson & Pamela Zave** (1998)
+* [Fexprs as the basis of Lisp function application or $vau: the ultimate abstraction](https://web.wpi.edu/Pubs/ETD/Available/etd-090110-124904/unrestricted/jshutt.pdf) by **John N. Shutt** (2010)
+* [“One part politics, one part technology, one part history”: Racial representation in the Unicode 7.0 emoji set](https://journals.sagepub.com/doi/pdf/10.1177/1461444819899623) by **Kate M. Miltner** (2020)
 
 ### Books
 
@@ -213,8 +215,8 @@
 * [Compiling Lambda Calculus](http://www.t3x.org/clc/index.html) by **Nils M. Holm** (2018)
 * *The t Programming Language: A Dialect of Lisp* by **Stephen Slade** (1987)
 * *Land Of Lisp* by **Conrad Barski** (2010)
-* [Fexprs as the basis of Lisp function application or $vau: the ultimate abstraction](https://web.wpi.edu/Pubs/ETD/Available/etd-090110-124904/unrestricted/jshutt.pdf) by **John N. Shutt** (2010)
-* [“One part politics, one part technology, one part history”: Racial representation in the Unicode 7.0 emoji set](https://journals.sagepub.com/doi/pdf/10.1177/1461444819899623) by **Kate M. Miltner** (2020)
+* [Thinking Forth](http://thinking-forth.sourceforge.net/) by **Leo Brodie** (1984)
+* [Stack Computers: the new wave](https://users.ece.cmu.edu/~koopman/stack_computers/) by **Philip J. Koopman, Jr.** (1989)
 
 ## Recreational
 

@@ -257,3 +257,4 @@
 * *A General Theory of Oblivion* by **José Eduardo Agualusa** (2013)
 * *The Refusal of Work* by **David Frayne** (2015)
 * *A Mathematician’s Apology* by **G. H. Hary** (1940)
+* *The Case Against Reality: Why Evolution Hid the Truth from Our Eyes* by **Donald Hoffman** (2019)

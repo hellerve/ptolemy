@@ -217,8 +217,8 @@
 * *Land Of Lisp* by **Conrad Barski** (2010)
 * [Thinking Forth](http://thinking-forth.sourceforge.net/) by **Leo Brodie** (1984)
 * [Stack Computers: the new wave](https://users.ece.cmu.edu/~koopman/stack_computers/) by **Philip J. Koopman, Jr.** (1989)
-* *A Discipline of Programming* by **Edsger Dijkstra** ()
-* *Software X-Rays and Your Code As A Crime Scene* by **Adam Tornhill** ()
+* *A Discipline of Programming* by **Edsger Dijkstra** (1976)
+* *Software Desing X-Rays: Fix Technical Debt with Behavioral Code Analysis* by **Adam Tornhill** (2018)
 * *Verified Functional Programming in Agda* by **Aaron Stump** (2016)
 
 ## Recreational

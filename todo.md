@@ -219,7 +219,7 @@
 * [Stack Computers: the new wave](https://users.ece.cmu.edu/~koopman/stack_computers/) by **Philip J. Koopman, Jr.** (1989)
 * *A Discipline of Programming* by **Edsger Dijkstra** ()
 * *Software X-Rays and Your Code As A Crime Scene* by **Adam Tornhill** ()
-* *Risk Savvy* by **Gerd Gigerenzer** ()
+* *Verified Functional Programming in Agda* by **Aaron Stump** (2016)
 
 ## Recreational
 
@@ -261,3 +261,4 @@
 * *The Refusal of Work* by **David Frayne** (2015)
 * *A Mathematician’s Apology* by **G. H. Hary** (1940)
 * *The Case Against Reality: Why Evolution Hid the Truth from Our Eyes* by **Donald Hoffman** (2019)
+* *Risk Savvy* by **Gerd Gigerenzer** (2015)

@@ -1072,6 +1072,12 @@ direction of which I don’t particularly agree with. I think I understand the
 aesthetical opinions that McCarthy argued for in this paper, but I see the
 world through a different, maybe less pure lens.
 
+* [Using a Proof Assistant to Teach Programming Language Foundations o rLambda, the Ultimate TA](https://www.cis.upenn.edu/~bcpierce/papers/plcurriculum.pdf) by **Benjamin C. Pierce** (2008)
+
+This paper renewed my interest to go back to university. I just wish I had had
+teachers like that, or that I will have them again in the future. The class
+sounds extremely interesting, and I would have loved to attend it.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

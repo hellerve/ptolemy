@@ -1952,6 +1952,13 @@ it, then it’s not light nor short. It’s a lesson in how important uprisings 
 stifled by mass inaction and eventual compromise (because radicalism is the
 greatest of all crimes in a world made of sugar).
 
+* *Unkenrufe* by **Günter Grass** (1992)
+
+About ten pages before the end of the book I realized that it was already in my
+book shelf. I’m pretty sure I never read it before, but  who knows. It’s a good
+book without much in the way of a dramatic arc, but it’s interestingly
+told—though the last 30 pages or so are a little painful and drawn out.
+
 ## Management
 
 ### Papers

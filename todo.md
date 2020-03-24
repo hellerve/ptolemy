@@ -136,7 +136,6 @@
 * [Fexprs as the basis of Lisp function application or $vau: the ultimate abstraction](https://web.wpi.edu/Pubs/ETD/Available/etd-090110-124904/unrestricted/jshutt.pdf) by **John N. Shutt** (2010)
 * [“One part politics, one part technology, one part history”: Racial representation in the Unicode 7.0 emoji set](https://journals.sagepub.com/doi/pdf/10.1177/1461444819899623) by **Kate M. Miltner** (2020)
 * [Snakemake—a scalable bioinformatics workflow engine](https://watermark.silverchair.com/bts480.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnYwggJyBgkqhkiG9w0BBwagggJjMIICXwIBADCCAlgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSyL-0hj21xagVQoYAgEQgIICKdoxKm6qdGo7ofd2bLkpiZFTd_BzPU7ZwU0K20DJq0pfJzrkLqIAB6DweQyXXcoyKgIcdZzi9Wr5ihSiBgDI643Q9XSqZjYFTjXGPvDRsun2p18276lPU6OgElLdKnbL6i-4RRu_8ZbjI9If1kS3eBMjelQw9c4GA32U0HV1FarVbr7LoL46tt04Cg8Fjbk-U8SG9M3Gc_FyTuPQBHpLcjR2UFbIH34xiFfHW4YMIT1TeakbCnWm16RmL-s5QLAWtOj0un7YvQvvXBnYGDmmJtQmD_2JIe21OFNytX5GDIFJuovYWCwxEkrLvQWouVXssI5vt21_vZCD7RUrGFCtM1bzjryFMbiIRf4xhBmJilgs32N0pwRJQbwmlcnsTU3IzSKSHXaalDePsrcSQ-_bxe5GdXvS-M1hoRqiW0YM6p8YdwyCxV2OODhKxy1CMV_UsFVdy1Gv_bXVn8rwGECqOW8xMNdWn-Pu4Qhl_Jdsy3a9Lym3OtaSAAPbiyRthIXUHYaxYkAodb4nvTQrwlMehMCZYgHWIObQroIbUETVRn8DKibrKFm-uBBaRG6cEFURHEv1htVjAik-7LV7xygDLj3IP9NvB_6mSR-71wqgyfdHWoUUJhEyQasHZvSlP65eEKXZsdEdxjLqtsq9KnTkTQTZ40nh4Zsro026ziORS0CG8A6cWOWBrj6V9VcMmA9S6TUMkjI7Zh1ZD5HHIow79adqrGHQnT7ddis) by **Johannes Köster & Sven Rahmann** (2012)
-* [Individual differences in personality predict the use and perceived effectiveness of essential oils](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229779&type=printable) by **Lindsay S. Ackerman & William J. Chopik** (2020)
 
 ### Books
 
@@ -235,6 +234,7 @@
 * [A Mixed Methods Study of Telepathic Interspecies Communication with Therapeutic Riding Horses and Their Recovering Wounded Veteran Partners](https://deboraherickson.vpweb.com/upload/Telepathic_interspecies_communication-with-horses_06-09-16.pdf) by **Deborah L. Erickson et al.** (2016)
 * [I Didn’t Want to Offend You: The Cost of Avoiding Sensitive Questions](https://poseidon01.ssrn.com/delivery.php?ID=573003097124108027103018029101066102004031054052030066103127106126127093090026068007006034063101028059032067029102006126071107046016071077042066005092087075125075096068080057089030002091067082002086121068123091073001119029031003026126081122019106086104&EXT=pdf) by **Einav Hart et al.** (2019)
 * [Three typefaces for mathematics](http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf) by **Daniel Rhatigan** (2007)
+* [Individual differences in personality predict the use and perceived effectiveness of essential oils](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229779&type=printable) by **Lindsay S. Ackerman & William J. Chopik** (2020)
 
 ### Books
 

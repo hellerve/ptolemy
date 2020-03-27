@@ -139,6 +139,7 @@
 * [Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-Order Languages](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/eval-apply.pdf) by **Simin Marlow & Simon Peyton Jones** (2004)
 * [System F with Type Equality Coercions](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf) by **Martin Sulzmann et al.** (2011)
 * [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746.pdf) by **Conal Elliott** (2018)
+* [Notions of computation and monads](https://person.dibris.unige.it/moggi-eugenio/ftp/ic91.pdf) by **Eugenio Moggi** (1991)
 
 ### Books
 

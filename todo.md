@@ -223,6 +223,7 @@
 * *A Discipline of Programming* by **Edsger Dijkstra** (1976)
 * *Software Desing X-Rays: Fix Technical Debt with Behavioral Code Analysis* by **Adam Tornhill** (2018)
 * *Verified Functional Programming in Agda* by **Aaron Stump** (2016)
+* [Low Level Virtual Machine for Glasgow Haskell Compiler](https://llvm.org/pubs/2009-10-TereiThesis.pdf) by **David Anthony Terei** (2009)
 
 ## Recreational
 

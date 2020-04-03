@@ -1000,7 +1000,7 @@ go do some “real-world math”.
 While the way Turing sets up and executes the proff is incredibly primitive and
 tedious from today’s perspective, it’s remarkable in that it predates most of
 the early writing on proofs by decades and anticipates some of the ideas that
-people like Robert Floyd would have indepdently almost twenty years later.
+people like Robert Floyd would have independently almost twenty years later.
 
 * [Assigning Meanings to Programs](https://www.cs.tau.ac.il/~nachumd/term/FloydMeaning.pdf) by **Robert W. Floyd** (1969)
 

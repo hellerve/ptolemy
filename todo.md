@@ -140,6 +140,7 @@
 * [System F with Type Equality Coercions](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf) by **Martin Sulzmann et al.** (2011)
 * [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746.pdf) by **Conal Elliott** (2018)
 * [Notions of computation and monads](https://person.dibris.unige.it/moggi-eugenio/ftp/ic91.pdf) by **Eugenio Moggi** (1991)
+* [The Art of the Propagator](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/art.pdf) by **Alexey Radul & Gerald Jay Sussman** (2008)
 
 ### Books
 

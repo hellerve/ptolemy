@@ -141,6 +141,7 @@
 * [The Simple Essence of Automatic Differentiation](https://arxiv.org/pdf/1804.00746.pdf) by **Conal Elliott** (2018)
 * [Notions of computation and monads](https://person.dibris.unige.it/moggi-eugenio/ftp/ic91.pdf) by **Eugenio Moggi** (1991)
 * [The Art of the Propagator](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/art.pdf) by **Alexey Radul & Gerald Jay Sussman** (2008)
+* [Take A Way: Exploring the Security Implications of AMD’sCache Way Predictors](https://mlq.me/download/takeaway.pdf) by **Moritz Lipp et al.** (2020)
 
 ### Books
 

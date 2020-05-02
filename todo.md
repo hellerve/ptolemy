@@ -229,6 +229,7 @@
 * *Verified Functional Programming in Agda* by **Aaron Stump** (2016)
 * [Low Level Virtual Machine for Glasgow Haskell Compiler](https://llvm.org/pubs/2009-10-TereiThesis.pdf) by **David Anthony Terei** (2009)
 * *Waltzing With Bears* by **Tom DeMarco & Timothy Lister** (2003)
+* [Lattice-based Cryptography—Threshold Protocols and Multiparty Computation](https://pure.au.dk/portal/files/68736697/Ph.D_dissertation_Rikke_Bendlin.pdf) by **Rikke Bendlin** (2013)
 
 ## Recreational
 

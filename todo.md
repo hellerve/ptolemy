@@ -275,3 +275,4 @@
 * *A Mathematician’s Apology* by **G. H. Hary** (1940)
 * *The Case Against Reality: Why Evolution Hid the Truth from Our Eyes* by **Donald Hoffman** (2019)
 * *Risk Savvy* by **Gerd Gigerenzer** (2015)
+* *The Geometry of Meaning: Semantics Based on Conceptual Spaces* by **Peter Gärdenfors** (2014)

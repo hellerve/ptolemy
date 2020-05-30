@@ -146,6 +146,7 @@
 * [Make — A Program for Maintaining Computer Programs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.9198&rep=rep1&type=pdf) by **S. I. Feldman** (1974)
 * [Micro-Policies: Formally Verified, Tag-Based Security Monitors](https://prosecco.gforge.inria.fr/personal/hritcu/publications/micropolicies-draft.pdf) by **Arthur Azevedo de Amorim et al.** (2015)
 * [Applicative programming with effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf) by **Conor McBride & Ross Paterson** (2008)
+* [Let-floating: moving bindings to give faster programs](https://www.microsoft.com/en-us/research/wp-content/uploads/1996/05/float.pdf) by **Simon Peyton Jones et al.** (1996)
 
 ### Books
 

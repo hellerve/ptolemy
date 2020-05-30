@@ -147,6 +147,7 @@
 * [Micro-Policies: Formally Verified, Tag-Based Security Monitors](https://prosecco.gforge.inria.fr/personal/hritcu/publications/micropolicies-draft.pdf) by **Arthur Azevedo de Amorim et al.** (2015)
 * [Applicative programming with effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf) by **Conor McBride & Ross Paterson** (2008)
 * [Let-floating: moving bindings to give faster programs](https://www.microsoft.com/en-us/research/wp-content/uploads/1996/05/float.pdf) by **Simon Peyton Jones et al.** (1996)
+* [The Two Dualities of Computation: Negative and Fractional Types](https://legacy.cs.indiana.edu/~sabry/papers/rational.pdf) by **Roshan P. James & Amr Sabry** (2012)
 
 ### Books
 

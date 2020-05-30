@@ -234,6 +234,7 @@
 * *Waltzing With Bears* by **Tom DeMarco & Timothy Lister** (2003)
 * [Lattice-based Cryptography—Threshold Protocols and Multiparty Computation](https://pure.au.dk/portal/files/68736697/Ph.D_dissertation_Rikke_Bendlin.pdf) by **Rikke Bendlin** (2013)
 * [Towards a practical programming language based on dependent type theory](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf) by **Ulf Norell** (2007)
+* [Applicative programming with effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf) by **Conor McBride & Ross Paterson** (2008)
 
 ## Recreational
 

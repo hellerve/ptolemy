@@ -1078,6 +1078,13 @@ This paper renewed my interest to go back to university. I just wish I had had
 teachers like that, or that I will have them again in the future. The class
 sounds extremely interesting, and I would have loved to attend it.
 
+* [DirectFunctions in Dyalog APL](https://www.dyalog.com/uploads/documents/Papers/dfns.pdf) by **John Scholes** (1997)
+
+A brief but thorough no frills introduction to dfns. I struggled to find a good
+thorough description of all of their moving parts—there are more than meets the
+eye—, and this little paper is the best I could find. It answered all the
+questions that I had.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

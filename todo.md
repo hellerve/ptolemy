@@ -251,6 +251,7 @@
 * [I Didn’t Want to Offend You: The Cost of Avoiding Sensitive Questions](https://poseidon01.ssrn.com/delivery.php?ID=573003097124108027103018029101066102004031054052030066103127106126127093090026068007006034063101028059032067029102006126071107046016071077042066005092087075125075096068080057089030002091067082002086121068123091073001119029031003026126081122019106086104&EXT=pdf) by **Einav Hart et al.** (2019)
 * [Three typefaces for mathematics](http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf) by **Daniel Rhatigan** (2007)
 * [Individual differences in personality predict the use and perceived effectiveness of essential oils](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229779&type=printable) by **Lindsay S. Ackerman & William J. Chopik** (2020)
+* [Was sind und was sollen die Zahlen?](http://www.opera-platonis.de/dedekind/Dedekind_Was_sind_2.pdf) by **Richard Dedekind** (1887)
 
 ### Books
 

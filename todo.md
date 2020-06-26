@@ -285,3 +285,4 @@
 * *The Case Against Reality: Why Evolution Hid the Truth from Our Eyes* by **Donald Hoffman** (2019)
 * *Risk Savvy* by **Gerd Gigerenzer** (2015)
 * *The Geometry of Meaning: Semantics Based on Conceptual Spaces* by **Peter Gärdenfors** (2014)
+* *Implicit Learning and Tacit Knowledge: An Essay on the Cognitive Unconscious* by **Arthur S. Reber** (1996)

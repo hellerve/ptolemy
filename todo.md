@@ -286,3 +286,4 @@
 * *Risk Savvy* by **Gerd Gigerenzer** (2015)
 * *The Geometry of Meaning: Semantics Based on Conceptual Spaces* by **Peter Gärdenfors** (2014)
 * *Implicit Learning and Tacit Knowledge: An Essay on the Cognitive Unconscious* by **Arthur S. Reber** (1996)
+* *Educating Intuition* by **Robin M. Hogarth** (2010)

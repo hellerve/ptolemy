@@ -288,3 +288,4 @@
 * *Implicit Learning and Tacit Knowledge: An Essay on the Cognitive Unconscious* by **Arthur S. Reber** (1996)
 * *Educating Intuition* by **Robin M. Hogarth** (2010)
 * *The Reasons of Love* by **Harry G. Frankfurt** (2004)
+* *Thinking Being: Introduction to Metaphysics in the Classical Tradition* by **Eric D. Perl** (2014)

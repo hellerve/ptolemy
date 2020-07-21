@@ -289,3 +289,4 @@
 * *Educating Intuition* by **Robin M. Hogarth** (2010)
 * *The Reasons of Love* by **Harry G. Frankfurt** (2004)
 * *Thinking Being: Introduction to Metaphysics in the Classical Tradition* by **Eric D. Perl** (2014)
+* [Sand Talk: How Indigenous Thinking Can Save the World](https://www.textpublishing.com.au/books/sand-talk) by **Tyson Yunkaporta** (2019)

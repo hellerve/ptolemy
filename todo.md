@@ -150,6 +150,7 @@
 * [The Two Dualities of Computation: Negative and Fractional Types](https://legacy.cs.indiana.edu/~sabry/papers/rational.pdf) by **Roshan P. James & Amr Sabry** (2012)
 * [Supermonads and superapplicatives](https://jbracker.de/publications/2017-BrackerNilsson-SupermonadsAndSuperapplicatives-UnderConsideration.pdf) by **Jan Bracker & Henrik Nilsson** (2017)
 * [Hasochism—The Pleasure and Pain of Dependently Typed Haskell Programming](https://dl.acm.org/doi/pdf/10.1145/2503778.2503786) by **Sam Lindley & Conor McBride** (2013)
+* [The Simple Essence of Algebraic Subtyping: Principal Type Inference with Subtyping Made Easy](https://infoscience.epfl.ch/record/278576) by **Lionel Parreaux** (2020)
 
 ### Books
 

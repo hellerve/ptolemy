@@ -151,6 +151,11 @@
 * [Supermonads and superapplicatives](https://jbracker.de/publications/2017-BrackerNilsson-SupermonadsAndSuperapplicatives-UnderConsideration.pdf) by **Jan Bracker & Henrik Nilsson** (2017)
 * [Hasochism—The Pleasure and Pain of Dependently Typed Haskell Programming](https://dl.acm.org/doi/pdf/10.1145/2503778.2503786) by **Sam Lindley & Conor McBride** (2013)
 * [The Simple Essence of Algebraic Subtyping: Principal Type Inference with Subtyping Made Easy](https://infoscience.epfl.ch/record/278576) by **Lionel Parreaux** (2020)
+* [Mathematical Logic as Based on the Theory of Types](https://pdfs.semanticscholar.org/307e/db386b0e8873dace282285296370ebae4d6a.pdf?_ga=2.110070528.480651931.1591954849-1218701680.1573819848) by **Bertrand Russell** (1908)
+* [Magic Sets for disjunctive Datalog programs](https://www.sciencedirect.com/science/article/pii/S0004370212000562) by **Mario Alviano et al.** (2012)
+* [Explaining Outputs in Modern Data Analytics](http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf) by **Zaheer Chothia et al.** (2016)
+* [A History of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf) by **Barbara Liskov** (2012)
+* [Functional Programming with Overloading and Higher-Order Polymorphism](http://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf) by **Mark P. Jones** (1995)
 
 ### Books
 
@@ -240,6 +245,7 @@
 * *Waltzing With Bears* by **Tom DeMarco & Timothy Lister** (2003)
 * [Lattice-based Cryptography—Threshold Protocols and Multiparty Computation](https://pure.au.dk/portal/files/68736697/Ph.D_dissertation_Rikke_Bendlin.pdf) by **Rikke Bendlin** (2013)
 * [Towards a practical programming language based on dependent type theory](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf) by **Ulf Norell** (2007)
+* [Smacc: A Compiler-Compiler](http://books.pharo.org/booklet-Smacc/pdf/2018-10-21-Smacc-Compiler.pdf) by **John Brant et al.** (2018)
 
 ## Recreational
 
@@ -255,6 +261,7 @@
 * [Three typefaces for mathematics](http://ultrasparky.org/school/pdf/DanielRhatigan_Dissertation.pdf) by **Daniel Rhatigan** (2007)
 * [Individual differences in personality predict the use and perceived effectiveness of essential oils](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229779&type=printable) by **Lindsay S. Ackerman & William J. Chopik** (2020)
 * [Was sind und was sollen die Zahlen?](http://www.opera-platonis.de/dedekind/Dedekind_Was_sind_2.pdf) by **Richard Dedekind** (1887)
+* [Blaming a Few Bad Apples to Save a Threatened Barrel: The System-Justifying Function of Conspiracy Theories](https://onlinelibrary.wiley.com/doi/pdf/10.1111/pops.12404) by **Daniel Jolley et al.** (2018)
 
 ### Books
 

@@ -1180,6 +1180,15 @@ recreating some of the macros in other Lisps—most notably Carp and Clojure—,
 but in the end I mostly stayed for the insight around macros, which I don’t
 agree with 100%, but had fun wrapping my head around.
 
+* *Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World* by William Kent (1978)
+
+It’s supposedly a classic, and it has some neat little rules in there. The
+author is not a very good writer, though, a fact that is exacerbated in the
+edition that I read by the editor who can’t help but insert little out-of-place
+commentary sections. I don’t know whether those come from a genuine desire to
+explain or plain vanity, but they’re useless, and, what’s worse, actually
+disturb the flow of the book.
+
 ## Recreational
 
 ### Papers
@@ -1965,6 +1974,33 @@ About ten pages before the end of the book I realized that it was already in my
 book shelf. I’m pretty sure I never read it before, but  who knows. It’s a good
 book without much in the way of a dramatic arc, but it’s interestingly
 told—though the last 30 pages or so are a little painful and drawn out.
+
+* *Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk* by Thomas Browne (1658)
+
+One of the most interesting, weird, exciting to read books I’ve ever
+encountered. It has received high praise from some of my favorite writers, and
+for good reason: it is just singuar not just in its content, but also in style
+and grace.
+
+* *Das Foucaultsche Pendel* by **Umberto Eco** (1988)
+
+While some of the parts of this book feel way over the top, I quite enjoyed
+reading it, and it’s very clearly the work of a smart and talented author.
+It took me a while to read because of its content and its scope, but it was
+definitely worth it.
+
+* *Der Fremde* by **Albert Camus** (1942)
+
+When I was in high school I attended a book club where we read this book. I
+didn’t have time to read the book this week, so I just pretended I knew all
+about it during the session. Everyone bought my lie, and the teacher even
+complimented my nuanced understanding of the main character. It was all a bit
+of a train wreck.
+
+Now, a decade later, I was finally able to read the book that stood on my shelf
+for so long. It’s a beautiful little piece of prose, not overly long, not
+overly artsy, but still with a sense of clarity and narrative skill that is
+quite remarkable.
 
 ## Management
 

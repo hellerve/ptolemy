@@ -2002,6 +2002,13 @@ for so long. It’s a beautiful little piece of prose, not overly long, not
 overly artsy, but still with a sense of clarity and narrative skill that is
 quite remarkable.
 
+* *Ob mit Dolche, Feile oder Revolver* by *?* (?)
+
+This selection of materials pertaining to the assassination of Empress
+Elisabeth of Austria by Luigi Lucheni is stellar in its quality (and the
+edition I own is beautiful). The clarity of Lucheni’s words, paired with the
+inanity of the system’s minions interviewing him, makes for a great read.
+
 ## Management
 
 ### Papers

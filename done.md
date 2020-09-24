@@ -2009,6 +2009,12 @@ Elisabeth of Austria by Luigi Lucheni is stellar in its quality (and the
 edition I own is beautiful). The clarity of Lucheni’s words, paired with the
 inanity of the system’s minions interviewing him, makes for a great read.
 
+* *Collected Stories* by **William Carlos Williams** (edition of 1996)
+
+A powerful, honest portrayal of the early to mid 20th century in New York City
+and elsewhere. It’s a fascinating glimpse into a reality that isn’t long gone,
+and still feels very far away (and mostly for good reason).
+
 ## Management
 
 ### Papers

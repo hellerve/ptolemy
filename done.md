@@ -1078,12 +1078,21 @@ This paper renewed my interest to go back to university. I just wish I had had
 teachers like that, or that I will have them again in the future. The class
 sounds extremely interesting, and I would have loved to attend it.
 
-* [DirectFunctions in Dyalog APL](https://www.dyalog.com/uploads/documents/Papers/dfns.pdf) by **John Scholes** (1997)
+* [Direct Functions in Dyalog APL](https://www.dyalog.com/uploads/documents/Papers/dfns.pdf) by **John Scholes** (1997)
 
 A brief but thorough no frills introduction to dfns. I struggled to find a good
 thorough description of all of their moving parts—there are more than meets the
 eye—, and this little paper is the best I could find. It answered all the
 questions that I had.
+
+* [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf) by **Rich Hickey** (2020)
+
+While I do not always agree with Hickey’s designs, it would be dishonest to
+pretend that his thinking and designs haven’t influenced me tremendously. I’d
+dispute that some of Clojure’s benefits that are presented in this paper are in
+fact benefits, but, again, these are philosophical gripes that really don’t
+change the fact that Clojure is well designed, stable, and, not least of all,
+successful.
 
 ### Books
 

@@ -156,6 +156,7 @@
 * [Explaining Outputs in Modern Data Analytics](http://www.vldb.org/pvldb/vol9/p1137-chothia.pdf) by **Zaheer Chothia et al.** (2016)
 * [A History of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf) by **Barbara Liskov** (2012)
 * [Functional Programming with Overloading and Higher-Order Polymorphism](http://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf) by **Mark P. Jones** (1995)
+* [Design and Implementation of Probabilistic Programming Language Anglican](https://arxiv.org/pdf/1608.05263.pdf) by **David Tolpin et al.** (2016)
 
 ### Books
 

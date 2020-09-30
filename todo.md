@@ -157,6 +157,7 @@
 * [A History of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf) by **Barbara Liskov** (2012)
 * [Functional Programming with Overloading and Higher-Order Polymorphism](http://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf) by **Mark P. Jones** (1995)
 * [Design and Implementation of Probabilistic Programming Language Anglican](https://arxiv.org/pdf/1608.05263.pdf) by **David Tolpin et al.** (2016)
+* *The use of the genie system in numerical calculation* by **J. K. Iliffe** (1961)
 
 ### Books
 

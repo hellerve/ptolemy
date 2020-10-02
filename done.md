@@ -2011,7 +2011,7 @@ for so long. It’s a beautiful little piece of prose, not overly long, not
 overly artsy, but still with a sense of clarity and narrative skill that is
 quite remarkable.
 
-* *Ob mit Dolche, Feile oder Revolver* by *?* (?)
+* *Ob mit Dolche, Feile oder Revolver* by *?* (2013)
 
 This selection of materials pertaining to the assassination of Empress
 Elisabeth of Austria by Luigi Lucheni is stellar in its quality (and the
@@ -2023,6 +2023,10 @@ inanity of the system’s minions interviewing him, makes for a great read.
 A powerful, honest portrayal of the early to mid 20th century in New York City
 and elsewhere. It’s a fascinating glimpse into a reality that isn’t long gone,
 and still feels very far away (and mostly for good reason).
+
+* *Reise ins Auge des Sturms* by **Pierleone Porcu** (2014)
+
+A beautiful manifesto, though it was hard for me to take anything away from it.
 
 ## Management
 

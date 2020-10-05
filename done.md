@@ -1094,6 +1094,13 @@ fact benefits, but, again, these are philosophical gripes that really don’t
 change the fact that Clojure is well designed, stable, and, not least of all,
 successful.
 
+* [APL Since 1978](https://dl.acm.org/doi/pdf/10.1145/3386319) by **Roger K.W. Hui & Morten J. Kromberg**
+
+Although pretty long and at times more of a reference manual than a history,
+this paper is full of knowledge about APL that helped me make sense of one of
+the few programming paradigms that I know of and still can’t quite get behind.
+It’s inspiring for sure.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

@@ -1355,6 +1355,15 @@ It’s hilarious, and I’m not sure whether that’s intentional or not. The
 material this paper is based on is just ridiculous, and the author can’t help
 but play around with it a bit.
 
+* [Histerektomie: Zahlen und Trends aus der Gesundheitsberichterstattung des Bundes](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsK/2014_1_hysterektomie.pdf?__blob=publicationFile) by **Franziska Pütz & Elena von der Lippe** (2014)
+
+While 2012 is a bit old now, this is a really instructive paper with a lot of
+good data points (well, good in a statistical sense, since the numbers are
+alarmingly high). The prevalence of hysterectomies in Germany surprised me,
+even if it’s comparable to that of other surgeries in a global context (at
+least the ones I know of). I really hope for more minimally invasive
+alternatives to this surgery to appear.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

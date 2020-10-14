@@ -248,6 +248,7 @@
 * [Lattice-based Cryptography—Threshold Protocols and Multiparty Computation](https://pure.au.dk/portal/files/68736697/Ph.D_dissertation_Rikke_Bendlin.pdf) by **Rikke Bendlin** (2013)
 * [Towards a practical programming language based on dependent type theory](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf) by **Ulf Norell** (2007)
 * [Smacc: A Compiler-Compiler](http://books.pharo.org/booklet-Smacc/pdf/2018-10-21-Smacc-Compiler.pdf) by **John Brant et al.** (2018)
+* [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) by **Ross Anderson** (2020)
 
 ## Recreational
 

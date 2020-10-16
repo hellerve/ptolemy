@@ -144,7 +144,7 @@ me want to implement one of my own. Then again, why would I if I cannot
 even begin to capture the beauty of this paper? Very readable and very
 pretty indeed.
 
-* [Flattening Combinators: Surviving Without Parentheses](http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/jfp03flat.pdf) by **Chris Okasaki** (2003)
+* [Flattening Combinators: Surviving Without Parentheses](https://web.archive.org/web/20160817074514/http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/jfp03flat.pdf) by **Chris Okasaki** (2003)
 
 A theoretical pearl by Chris Okasaki (of "Functional Datastructures" fame).
 It shows how to rewrite arbitrary combinators to stack expressions, similar
@@ -157,7 +157,7 @@ me considering I am not a very battle-hardened theoretical computer scientist.
 Maybe my reading just starts to bear fruits or maybe it is Okasaki’s pristine
 writing.
 
-* [Why New Programming Languages for Simulation?](http://people.csail.mit.edu/fred/why.pdf) by **Gilbert Louis Bernstein and Fredrik Kjolstad** (2016)
+* [Why New Programming Languages for Simulation?](https://groups.csail.mit.edu/commit/papers/2016/why.pdf) by **Gilbert Louis Bernstein and Fredrik Kjolstad** (2016)
 
 Coming from the language designers of Ebb and Simit, respectively, this nice
 little summary on why to create new languages is very centered around simulation,
@@ -167,7 +167,7 @@ abstraction, better tools need time to be developed. And we can do better than
 we currently are. Which is a nice sentiment that I deeply share, as a hobby/semi-serious
 language designer.
 
-* [Lambda: The Ultimate Declarative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-379.pdf) by **Guy Steele** (1976)
+* [Lambda: The Ultimate Declarative](https://dspace.mit.edu/bitstream/handle/1721.1/6091/AIM-379.pdf) by **Guy Steele** (1976)
 
 This paper is filled to the brim with interesting ideas. The symmetry of lambdas
 and actors was especially surprising. Rewriting function calls to jumps is not
@@ -177,7 +177,7 @@ every language that still does not implement proper tail recursion. And I should
 try to play around with the CPS-converter given in Appendix A, that one was really
 interesting.
 
-* [Debunking the ‘Expensive Procedure Call’ Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf) by **Guy Steele** (1977)
+* [Debunking the ‘Expensive Procedure Call’ Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](https://dspace.mit.edu/bitstream/handle/1721.1/5753/AIM-443.pdf) by **Guy Steele** (1977)
 
 An interesting insight into programming in the 70s. Coming from today it is
 pretty much impossible that one learns that using `GOTO` is good for your
@@ -271,7 +271,7 @@ think HTTPS interception can increase security instead of severely decreasing it
 I don’t think I have to say more on that matter. Almost 11% percent intercepted
 traffic is damn scary.
 
-* [Generational Garbage Collection and the Radioactive Decay Model](http://www.cesura17.net/~will/Professional/Research/Papers/radioactive.pdf) by **William Clinger** (1997)
+* [Generational Garbage Collection and the Radioactive Decay Model](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.448.818&rep=rep1&type=pdf) by **William Clinger** (1997)
 
 The main take-away from this paper is that I am probably too thick to implement
 a good garbage collector. Generational garbage collectors are relatively hard
@@ -292,7 +292,7 @@ of configuration flaws, of course, but if your default configurations are
 broken, your system likely is broken as well). Bottom line: I did not enjoy
 reading this paper.
 
-* [Generalized Parser Combinators](http://www.cs.uwm.edu/%7Edspiewak/papers/generalized-parser-combinators.pdf) by **Daniel Spiewak** (2010)
+* [Generalized Parser Combinators](https://dinhe.net/~aredridel/.notmine/PDFs/Parsing/SPIEWAK%2C%20Daniel%20%282010%29%20-%20Generalized%20Parser%20Combinators.pdf) by **Daniel Spiewak** (2010)
 
 I actually tried to implement GLL parser combinators for zepto before and failed
 at the trampolining, so this paper clarified a lot of things that I did not understand.
@@ -300,7 +300,7 @@ I wanted to try and implement a GLL again in the future and after reading this p
 I feel equipped to tackle the problem. As an aside: Scala code still looks weird to me.
 Kind of like I felt reading Haskell before I knew it.
 
-* [Lambda: The Ultimate Imperative](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
+* [Lambda: The Ultimate Imperative](https://dspace.mit.edu/bitstream/handle/1721.1/5790/AIM-353.pdf) by **Gerald Sussman and Guy Steele** (1976)
 
 I’ve read this paper before, and it is still wonderful. Scheme speaks to me in a
 very peculiar way. But, instead of waxing poetic, I will just quote the end of
@@ -392,7 +392,7 @@ a problem we still face today, very cleanly. It’s incredibly short,
 more of a personal note than a paper, but it cleanly sets boundaries
 between components.
 
-* [What Not to Do When Writing an Interpreter for Specialisation](https://www.cs.rice.edu/~taha/teaching/02F/511/papers/jonesWhatNot96.ps) by **Neil D. Jones** (1996)
+* [What Not to Do When Writing an Interpreter for Specialisation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.5748&rep=rep1&type=pdf) by **Neil D. Jones** (1996)
 
 Pretty dry but highly informative. This makes me want to write a toy
 project that implements program specialization. I should probably reread
@@ -413,14 +413,14 @@ Interesting read, even if it’s a little outdated. I would love to see an
 up-to-date version, especially because the benchmakrs where so browser-focused.
 A lot has changed since 2009 in browser performance.
 
-* [Why and how to use arbitrary precision](http://perso.ens-lyon.fr/philippe.theveny/cise.pdf) by **Kave R. Ghazi et al.** (2010)
+* [Why and how to use arbitrary precision](https://homepages.loria.fr/PZimmermann/papers/cise.pdf) by **Kave R. Ghazi et al.** (2010)
 
 This paper ties in to my lates project, a [reimplementation](https://github.com/hellerve/bc)
 of bc. The constant folding part is especially interesting. I didn’t
 know about GCC’s usage of mpfr in optimizations either and that section,
 albeit short, was especially intriguing for that reason.
 
-* [Designing extensible, domain-specific languages for mathematical diagrams](https://www.cs.cmu.edu/~kqy/resources/diagrams_obt.pdf) by **Katherine Ye et al.** (2017)
+* [Designing extensible, domain-specific languages for mathematical diagrams](https://www.cs.cmu.edu/~kqy/resources/Penrose_OBT.pdf) by **Katherine Ye et al.** (2017)
 
 Super exciting idea! As a novice to most of the fields I read papers
 from—I mean, how many domains can you have domain knowledge in, really?—,
@@ -648,7 +648,7 @@ say is that the technical details are interesting, and the descriptions are
 worth reading. I quite enjoy learning about the nitty-gritty internals of
 memory allocators, even if their explicit goal is to break applications.
 
-* [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf) by **Tomas Kalibera & Richard Jones**
+* [Rigorous Benchmarking in Reasonable Time](https://core.ac.uk/download/pdf/10637797.pdf) by **Tomas Kalibera & Richard Jones**
 
 This paper seemed very familiar—I think I’ve read it before, but forgot to put
 it on here. It’s fairly nice in its demands for rigour in benchmarking, and pretty

@@ -842,7 +842,7 @@ This paper gives a concise technical overview of some of the more interesting
 VM techniques employed in the Lua interpreter. Lua is probably my favorite VM to
 look at, and the authors do a pretty great job at explaining why that is.
 
-* [From Interpretation to Compilation](ftp://ftp.cs.ru.nl/pub/Clean/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
+* [From Interpretation to Compilation](https://www.mbsd.cs.ru.nl/publications/papers/2008/janj08-CEFP07-InterpretationToCompilation.pdf) by **Jan Jansen et al.** (2008)
 
 This paper is quite useful as a reference for people wanting to build compilers
 for functional languages; it shows a few implementation techniques that might

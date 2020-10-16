@@ -38,7 +38,7 @@ for real-world parsing through performance tweaks (memoization, fixpoints,
 laziness). Uses Racket code (which helped me a lot with understanding
 some of the underlying equations).
 
-* [Simply Easy! An Implemenetation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andres Löh et al.** (2007)
+* [Simply Easy! An Implementation of a Dependently Typed Lambda Calculus](http://strictlypositive.org/Easy.pdf) by **Andres Löh et al.** (2007)
 
 Interesting implementation of a dependently typed lambda calculus.
 The paper is worth reading for the description of current Haskell

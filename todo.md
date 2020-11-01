@@ -301,3 +301,4 @@
 * *The Reasons of Love* by **Harry G. Frankfurt** (2004)
 * *Thinking Being: Introduction to Metaphysics in the Classical Tradition* by **Eric D. Perl** (2014)
 * [Sand Talk: How Indigenous Thinking Can Save the World](https://www.textpublishing.com.au/books/sand-talk) by **Tyson Yunkaporta** (2019)
+* [Microcosmic God Volume II: The Complete Stories of Theodore Sturgeon ](https://www.kobo.com/us/es/ebook/microcosmic-god) by **Theodore Sturgeon** (2013)

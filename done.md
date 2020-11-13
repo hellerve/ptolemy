@@ -1101,6 +1101,14 @@ this paper is full of knowledge about APL that helped me make sense of one of
 the few programming paradigms that I know of and still can’t quite get behind.
 It’s inspiring for sure.
 
+* [Submodules in Racket: You Want it When, Again?](https://www.cs.utah.edu/plt/publications/gpce13-f-color.pdf) by **Matthew Flatt** (2013)
+
+While the paper is written clearly and with many illuminating graphics and
+exmaples, the subject matter is complex enough that I left feeling not quite
+as if I understood the system in its entirety (exemplified by a project using
+some complicated Racket module fiddling that I worked on at the time that
+wasn’t much easier for me after working through this paper).
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

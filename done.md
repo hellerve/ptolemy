@@ -2052,6 +2052,20 @@ and still feels very far away (and mostly for good reason).
 
 A beautiful manifesto, though it was hard for me to take anything away from it.
 
+* *Neue Wenden des Kapitalismus* by **Alfredo M. Bonanno** (2015)
+
+Most people expect insurrectionalists to be boneheaded, but I’ve found most of
+the ones I’ve read works from (Ernesto Guevara and George Orwell come to mind)
+are actually well-spoken people with clear thinking. This book was another such
+example: the content is intensely revolutionary, but the tone is calm,
+collected, and rational.
+
+* [Pop Gym, The Zine](https://popgym.org/assets/zinesitefinal1.pdf) by **Pop Gym** (2018)
+
+A beautiful little read about self-defense, bodies, gender roles, and much
+more. Some of the stories hit me right in the feels, but all of them motivated
+me to train harder, to be stronger, to help others.
+
 ## Management
 
 ### Papers

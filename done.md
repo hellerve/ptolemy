@@ -1109,6 +1109,12 @@ as if I understood the system in its entirety (exemplified by a project using
 some complicated Racket module fiddling that I worked on at the time that
 wasn’t much easier for me after working through this paper).
 
+* [Convivial Design Heuristics for Software Systems](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell20convivial.pdf) by **Stephen Kell** (2020)
+
+Quite dense, and quite interesting thinking that largely aligns with my own,
+but it equips me with another connection between concepts that I didn’t
+have—one of the reasons why I read papers in the first place. Very fun read.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

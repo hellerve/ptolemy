@@ -2072,6 +2072,10 @@ A beautiful little read about self-defense, bodies, gender roles, and much
 more. Some of the stories hit me right in the feels, but all of them motivated
 me to train harder, to be stronger, to help others.
 
+* [Pop Gym, The Zine #2](https://popgym.org/assets/zinesiteedit2.pdf) by **Pop Gym** (2019)
+
+All the things I said about issue one directly above also apply here.
+
 ## Management
 
 ### Papers

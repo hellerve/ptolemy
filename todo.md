@@ -158,6 +158,7 @@
 * [Functional Programming with Overloading and Higher-Order Polymorphism](http://web.cecs.pdx.edu/~mpj/pubs/springschool95.pdf) by **Mark P. Jones** (1995)
 * [Design and Implementation of Probabilistic Programming Language Anglican](https://arxiv.org/pdf/1608.05263.pdf) by **David Tolpin et al.** (2016)
 * *The use of the genie system in numerical calculation* by **J. K. Iliffe** (1961)
+* [Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming](https://arxiv.org/pdf/1908.05647.pdf) by **Sebastian Ullrich & Leonardo de Moura** (2020)
 
 ### Books
 

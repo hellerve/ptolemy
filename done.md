@@ -2076,6 +2076,24 @@ me to train harder, to be stronger, to help others.
 
 All the things I said about issue one directly above also apply here.
 
+* *Hera Lindsay Bird* by **Hera Lindsay Bird** (2016)
+
+What a fantastic little book of poetry. It took me a while to “get” her
+work—maybe I’m a little too serious for it usually. But once it clicked, it
+clicked hard, and since then she’s become one of my favorite poets. Honestly.
+
+* *Pamper Me to Hell & Back* by **Hera Lindsay Bird** (2018)
+
+Just as beautiful as her eponymous book.
+
+* *Becoming a Supple Leopard* by **Kelly Starrett** (2013)
+
+I keep coming back to this book for advice on how to treat like kinks and
+itches, and thus far it’s never disappointed. I quite enjoy its regimen, and
+even though the mobility routines in the book are not enough for me—I quite
+enjoy training my end range mobility for splits and the like—, it’s incredibly
+valuable for resolving pain and feeling better.
+
 ## Management
 
 ### Papers

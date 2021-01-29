@@ -305,3 +305,7 @@
 * [Microcosmic God Volume II: The Complete Stories of Theodore Sturgeon ](https://www.kobo.com/us/es/ebook/microcosmic-god) by **Theodore Sturgeon** (2013)
 * *Working in Public* by **Nadia Eghbal** (2020)
 * *Survival of the Fattest: The key to Human Brain Evolution* by **Stephen C. Cunnane** (2005)
+* *Essentials of Strength Training and Conditioning* by **G. Gregory Haff & N. Travis Triplett (Editors)** (2015)
+* *Designing Resistance Training Programs* by **Steven J. Fleck & William J. Kraemer** (2014)
+* *Foundations of Sport and Exercise Psychology* by **Robert S. Weinberg & Daniel Gould** (2018)
+* *Triphasic Training: A Systematic Approach to Elite Speed and Explosive Strength Performance* by **Cal Dietz & Ben Peterson** (2012)

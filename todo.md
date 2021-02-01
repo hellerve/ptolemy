@@ -309,3 +309,8 @@
 * *Designing Resistance Training Programs* by **Steven J. Fleck & William J. Kraemer** (2014)
 * *Foundations of Sport and Exercise Psychology* by **Robert S. Weinberg & Daniel Gould** (2018)
 * *Triphasic Training: A Systematic Approach to Elite Speed and Explosive Strength Performance* by **Cal Dietz & Ben Peterson** (2012)
+* *Practical Programming for Strength Training* by **Mark Rippetoe** (2014)
+* *Easy Strength: How to Get a Lot Stronger Than Your Competition-And Dominate in Your Sport* by **Pavel Tsatsouline & Dan John** (2011)
+* *The Purposeful Primitive: From Fat and Flaccid to Lean and Powerful* by **Marty Gallagher** (2012)
+* *Never Let Go* by **Dan John et al.** (2011)
+* *Olympic Weightlifting: A Complete Guide for Athletes & Coaches* by **Greg Everett** (2016)

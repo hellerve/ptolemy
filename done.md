@@ -1385,6 +1385,13 @@ even if it’s comparable to that of other surgeries in a global context (at
 least the ones I know of). I really hope for more minimally invasive
 alternatives to this surgery to appear.
 
+* [Academic Citation Practice:  A Sinking Sheep?](https://blogg.hvl.no/kildebruk/wp-content/uploads/sites/42/2017/03/Rekdal2014AcademicCitation.pdf) by **Ole Bjørn Rekdal** (2014)
+
+A beautifully written article that highlights an important problem. I found the
+narrative more compelling than the actual hard facts, so I ironically didn’t
+check any of the paper’s resources—I wonder what the author would think of
+that.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

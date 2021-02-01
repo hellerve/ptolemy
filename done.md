@@ -1115,6 +1115,13 @@ Quite dense, and quite interesting thinking that largely aligns with my own,
 but it equips me with another connection between concepts that I didn’t
 have—one of the reasons why I read papers in the first place. Very fun read.
 
+* [Agda: Equality](http://www2.tcs.ifi.lmu.de/~abel/Equality.pdf) by **Andreas Abel** (2012)
+
+An accessible yet illuminating introduction to proving equality and proofs
+using equality. I had never thought about how `≡` works in Agda, and just
+implicitly assumed that it was part of the system. It’s delightful to learn
+that it isn’t special at all.
+
 ### Books
 
 * [You Can’t Spell Trust without Rust](https://cdn.rawgit.com/Gankro/thesis/d2f0b64fe93c23923f3a43a7038427083edad4c5/thesis.pdf) by **Alexis Beingessner** (2015)

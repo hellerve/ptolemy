@@ -302,7 +302,7 @@
 * *The Reasons of Love* by **Harry G. Frankfurt** (2004)
 * *Thinking Being: Introduction to Metaphysics in the Classical Tradition* by **Eric D. Perl** (2014)
 * [Sand Talk: How Indigenous Thinking Can Save the World](https://www.textpublishing.com.au/books/sand-talk) by **Tyson Yunkaporta** (2019)
-* [Microcosmic God Volume II: The Complete Stories of Theodore Sturgeon ](https://www.kobo.com/us/es/ebook/microcosmic-god) by **Theodore Sturgeon** (2013)
+* [Microcosmic God Volume II: The Complete Stories of Theodore Sturgeon](https://www.kobo.com/us/es/ebook/microcosmic-god) by **Theodore Sturgeon** (2013)
 * *Working in Public* by **Nadia Eghbal** (2020)
 * *Survival of the Fattest: The key to Human Brain Evolution* by **Stephen C. Cunnane** (2005)
 * *Essentials of Strength Training and Conditioning* by **G. Gregory Haff & N. Travis Triplett (Editors)** (2015)
@@ -314,3 +314,4 @@
 * *The Purposeful Primitive: From Fat and Flaccid to Lean and Powerful* by **Marty Gallagher** (2012)
 * *Never Let Go* by **Dan John et al.** (2011)
 * *Olympic Weightlifting: A Complete Guide for Athletes & Coaches* by **Greg Everett** (2016)
+* [Coming Into Being: Artifacts and Texts in the Evolution of Consciousness](https://us.macmillan.com/books/9780312176921) by **William Irwin Thompson** (1998)

@@ -316,3 +316,4 @@
 * *Olympic Weightlifting: A Complete Guide for Athletes & Coaches* by **Greg Everett** (2016)
 * [Coming Into Being: Artifacts and Texts in the Evolution of Consciousness](https://us.macmillan.com/books/9780312176921) by **William Irwin Thompson** (1998)
 * *The Five Disfunctions of a Team* by **Patrick Lencioni** (2002)
+* *Learn How To Study* by **Derek Rowntree** (1970)

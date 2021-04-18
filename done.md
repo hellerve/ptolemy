@@ -2028,7 +2028,7 @@ book shelf. I’m pretty sure I never read it before, but  who knows. It’s a g
 book without much in the way of a dramatic arc, but it’s interestingly
 told—though the last 30 pages or so are a little painful and drawn out.
 
-* *Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk* by Thomas Browne (1658)
+* *Hydriotaphia, Urn Burial, or, a Discourse of the Sepulchral Urns lately found in Norfolk* by **Thomas Browne** (1658)
 
 One of the most interesting, weird, exciting to read books I’ve ever
 encountered. It has received high praise from some of my favorite writers, and

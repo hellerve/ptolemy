@@ -205,7 +205,6 @@
 * [Advanced Topics in Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/attapl/) by **Benjamin C. Pierce** (2004)
 * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by **Benjamin C. Pierce** (2002)
 * [VHDL Tutorial](https://www.seas.upenn.edu/~ese171/vhdl/vhdl_primer.html) by **Jan Van der Spiegel** (2001)
-* [Elements of Clojure](https://leanpub.com/elementsofclojure) by **Zachary Tellman** (2019?)
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) by **Bartosz Milewski** (2018)
 * [Programming languages and dimensions](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-391.pdf) by **Andrew John Kennedy** (1996)
 * [Poetry of Programming - Puzzle Based Introduction to Functional Programming](https://egri-nagy.github.io/popbook/) by **Attila Egri-Nagy** (2018)

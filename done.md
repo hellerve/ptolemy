@@ -1226,6 +1226,12 @@ commentary sections. I don’t know whether those come from a genuine desire to
 explain or plain vanity, but they’re useless, and, what’s worse, actually
 disturb the flow of the book.
 
+* [Elements of Clojure](https://leanpub.com/elementsofclojure) by **Zachary Tellman** (2019?)
+
+A fantastic read, even for non-clojurists. Its prose and tone soothe me and
+enable me to read it almost like a novel, but of course leaves a deeper
+impression for my professional work.
+
 ## Recreational
 
 ### Papers

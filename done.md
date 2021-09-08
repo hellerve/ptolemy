@@ -2114,6 +2114,12 @@ even though the mobility routines in the book are not enough for me—I quite
 enjoy training my end range mobility for splits and the like—, it’s incredibly
 valuable for resolving pain and feeling better.
 
+* *Building the Gymnastics Body* by **Christopher Sommer** (2008)
+
+While I don’t agree with everything in the book, it might be my new favorite
+introductory text to physical fitness. If I could only recommend one fitness
+book, this would be it.
+
 ## Management
 
 ### Papers

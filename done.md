@@ -1398,6 +1398,13 @@ narrative more compelling than the actual hard facts, so I ironically didn’t
 check any of the paper’s resources—I wonder what the author would think of
 that.
 
+* [Is a calorie a calorie?](https://academic.oup.com/ajcn/article/79/5/899S/4690223) by **Andrea C. Buchholz & Dale A. Schoeller** (2004)
+
+A fantastic and comprehensive introductory article into the complications of
+diets and nutrition. While not much of it is actionable for the general
+population, it’s good to keep these basic concepts in mind when evaluating
+diets and papers on new diets.
+
 ### Books
 
 * *Abhandlung über den Ursprung der Sprache* by **Johann Gottfried Herder** (1772)

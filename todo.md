@@ -159,6 +159,7 @@
 * [Design and Implementation of Probabilistic Programming Language Anglican](https://arxiv.org/pdf/1608.05263.pdf) by **David Tolpin et al.** (2016)
 * *The use of the genie system in numerical calculation* by **J. K. Iliffe** (1961)
 * [Counting Immutable Beans: Reference Counting Optimized for Purely Functional Programming](https://arxiv.org/pdf/1908.05647.pdf) by **Sebastian Ullrich & Leonardo de Moura** (2020)
+* [A tutorial implementation of a dependently typed lambda calculus](https://andres-loeh.de/LambdaPi/LambdaPi.pdf) by **Andres Löh et al.** (2001)
 
 ### Books
 
@@ -191,6 +192,7 @@
 * [Process Compendium 2004-2010](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view) by **Casey E. B. Reas** (2010)
 * [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](https://lamport.azurewebsites.net/tla/book-02-08-08.pdf) by **Leslie Lamport** (2002)
 * [Let’s Build a Compiler (in Haskell)](http://alephnullplex.github.io/cradle/) by **Geoff Ford** (2014)
+* [Let’s Build a Compiler](https://compilers.iecc.com/crenshaw/tutorfinal.pdf) by **Jack W. Crenshaw** (1988)
 * [The Art of VA Filter Design](https://www.native-instruments.com/fileadmin/ni_media/downloads/pdf/VAFilterDesign_1.1.1.pdf) by **Vadim Zavalishin** (2015)
 * [Programming from A to Z](https://shiffman.net/a2z/) by **Daniel Shiffman** (2018?)
 * [Physical Audio Signal Processing for Virtual Musical Instruments and Audio Effects](https://ccrma.stanford.edu/~jos/pasp/) by **Julius O. Smith III** (2010)
@@ -249,6 +251,7 @@
 * [Towards a practical programming language based on dependent type theory](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf) by **Ulf Norell** (2007)
 * [Smacc: A Compiler-Compiler](http://books.pharo.org/booklet-Smacc/pdf/2018-10-21-Smacc-Compiler.pdf) by **John Brant et al.** (2018)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) by **Ross Anderson** (2020)
+* [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/research/phd/thesis-screen.pdf) by **Ralf Jung** (2020)
 
 ## Recreational
 

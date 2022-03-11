@@ -2127,6 +2127,11 @@ While I don’t agree with everything in the book, it might be my new favorite
 introductory text to physical fitness. If I could only recommend one fitness
 book, this would be it.
 
+* *Es ist immer so schön mit dir* by **Heinz Strunk** (2021)
+
+A fantastic, horrifying, funny, terrible read. Heinz Strunk really paints a
+dire but not inaccurate picture of humanity.
+
 ## Management
 
 ### Papers
